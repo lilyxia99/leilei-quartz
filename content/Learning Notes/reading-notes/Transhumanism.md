@@ -2,6 +2,8 @@
 title: Transhumanism
 tags:
   - reading-notes
+  - transhumanism
+  - posthuman
 dg-publish: true
 ---
 
