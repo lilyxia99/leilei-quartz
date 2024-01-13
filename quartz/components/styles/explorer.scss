@@ -8,11 +8,13 @@ button#explorer {
   color: var(--dark);
   display: flex;
   align-items: center;
+  //margin-top:2rem;
 
   & h1 {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
+    
   }
 
   & .fold {
