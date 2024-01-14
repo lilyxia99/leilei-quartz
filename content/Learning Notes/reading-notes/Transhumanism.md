@@ -29,14 +29,32 @@ Much of the technology of modern medicine is used to combat aging and dysfunctio
 
 ### The New God
 
-An important idea for conservatives comes from some parts of theology - whether we will make a new god out of it. Conservatives and radicals alike agree on this "technological god" imagery. 
+An important idea for conservatives comes from some parts of theology - whether we will make a new god out of it. Conservatives and radicals alike agree on this "technological god" imagery. Ramsey: “Men ought not to play God before they learn to be men, and after they have learned to be men they will not play God”
+
+### Equality of Opportunity
+
+Peter Singer: It's naturally easier for people with money to get these accesses in the beginning, just like in the Pantheon it's the rich kids that get the uploads in the beginning.
+
+### Human identity
+
+some have argued that cloning is an affront to human dignity, because it inhibits a kind of right to be an individual. But, arguments of this kind elevate the importance of replicated DNA material to the level of identity.
 
 ## The commonality between Bio-conservatives and Bio-libertarian
 
 1. They both believe that technology will be so powerful, that it will have divine power, either good or bad. 
 2. They believe that gene somehow decides a person's life. 
 3. both sides of the debate claim that the human being is uniquely placed among the things in the natural world
+4. In fact both conservatives and radicals would emphasize equality and human uniqueness, but one of them achieves it by refusing to transform, the other by transforming everyone.
 
+## Clone
+
+在克隆的讨论中基因决定论是兵家必争之地，很多克隆反对者也是基于这样的信念提出的质疑。
+主要的分论点是以下几点：  
+1\. 基因改造会限制人类的自由  
+2\. 孩子不再是礼物而是产品  
+3\. 才能和天赋不再是他本人应得的  
+4\. 克隆人的独特性是被侵犯的  
+然而上面的每一条都是对基因作用的夸大。DNA不等同于一个人的identity，但这个事情在Caspian 和Stephen的关系中就很有意思。Caspian虽然是Stephen的克隆，但是他的人生却和Stephen大相径庭。
 ## Annotations  
 
 (1/9/2024, 11:17:13 PM)
@@ -55,7 +73,7 @@ An important idea for conservatives comes from some parts of theology - whether 
 
 “how can enhancement be morally evaluated?” ([Hall, 2017, p. 3](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=26&annotation=6JBJI3DZ))
 
-“Some philosophers use these two distinctions, between the authentic and the unauthentic and between therapy and enhancement, to maintain that only authentic or therapeutic enhancements are morally acceptable, thereby taking much of what proponents of enhancement mean when they use the word “enhancement” off the table. Others, like Harris, forego these distinctions to argue that all enhancements—globally—are not only morally acceptable but also morally obligatory” ([Hall, 2017, p. 3](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=26&annotation=FVBJ4LTT)) 如果只有是否authentic，是否是therapeutic来衡量是站不住脚的，
+~~“Some philosophers use these two distinctions, between the authentic and the unauthentic and between therapy and enhancement, to maintain that only authentic or therapeutic enhancements are morally acceptable, thereby taking much of what proponents of enhancement mean when they use the word “enhancement” off the table. Others, like Harris, forego these distinctions to argue that all enhancements—globally—are not only morally acceptable but also morally obligatory” ([Hall, 2017, p. 3](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=26&annotation=FVBJ4LTT)) 如果只有是否authentic，是否是therapeutic来衡量是站不住脚的，
 
 “The moral motive for using technology to intervene in the natural lottery of life is for the sake of the goods that this will bring about . . . equality of opportunity may sometimes be one of these goods . . . saving lives or what is the same thing, postponing death, removing or preventing disability or disease or enhancing human functioning are the more obvious and usually the more pressing reasons. (2011, 147) This passage conflates “removing or preventing disability or disease” and “enhancing human functioning.” In practice, the distinction between positive and negative eugenics is just as misleading as other common divides. The commonplace view that disability is to be avoided, and to enhance means much the same thing as avoiding disability, means that a disability analysis of enhancement issues is necessary” ([Hall, 2017, p. 4](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=27&annotation=X69K7CTT)) 把提高和优生等同，等于把disability直接等同于需要被消灭的东西
 
@@ -69,13 +87,13 @@ An important idea for conservatives comes from some parts of theology - whether 
 
 ~~“Ramsey worried that we sought to produce a man-God hybrid by genetic means who would destroy “the sanctity of the individual” (146).” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=QB8YYNDZ)) 保守派的重要思想来源于一些神学的部分——我们是否会造出一个新的神出来
 
-“thinkers like Jürgen Habermas and Michael Sandel enjoin us to protect the boundaries of human nature, along with human dignity, from interference and temptation. Tied to this are Sandel’s appeals, which echo Kass’s work, to human wisdom and appropriate humility. Resonating among bio-conservatives is a commonplace claim originally made by Ramsey: “Men ought not to play God before they learn to be men, and after they have learned to be men they will not play God” (1970, 137” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=MAYJ8FGR)) 人在学会做人之前不应该扮演上帝，而在学会做人之后，他们也不会扮演上帝
+~~“thinkers like Jürgen Habermas and Michael Sandel enjoin us to protect the boundaries of human nature, along with human dignity, from interference and temptation. Tied to this are Sandel’s appeals, which echo Kass’s work, to human wisdom and appropriate humility. Resonating among bio-conservatives is a commonplace claim originally made by Ramsey: “Men ought not to play God before they learn to be men, and after they have learned to be men they will not play God” (1970, 137” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=MAYJ8FGR)) 人在学会做人之前不应该扮演上帝，而在学会做人之后，他们也不会扮演上帝
 
-“The “playing God” objection is curious because it assumes that technology can give us such total control that we might as well call ourselves God. This is chimerical. But, more curious still is the fact that transhumanists also embrace a portrait of technology that implies God-like control, a move which mystifies and elevates technology (Bostrom 2003)” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=T7AHYZXZ)) 保守派和激进派都同意这种“科技造神”的想象
+~~“The “playing God” objection is curious because it assumes that technology can give us such total control that we might as well call ourselves God. This is chimerical. But, more curious still is the fact that transhumanists also embrace a portrait of technology that implies God-like control, a move which mystifies and elevates technology (Bostrom 2003)” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=T7AHYZXZ)) 保守派和激进派都同意这种“科技造神”的想象
 
 “Outsized belief in the power of technology over human life, as if it were a foreign invader, is shared by proponents and opponents of enhancement technologies alike” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=SFPVWAB6))
 
-“Beyond the mystification and elevation of technology to a God-like role, otherwise-opposed bioethicists agree on the importance of authenticity, the uniqueness of human beings, and the importance of equal opportunity. This overlap is significant.3” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=2GVBGL9V)) 实际上保守派和激进派都会强调平等和人类的独特性，但是他们一个是靠拒绝改造实现，一个是靠人人都改造来实现。
+~~“Beyond the mystification and elevation of technology to a God-like role, otherwise-opposed bioethicists agree on the importance of authenticity, the uniqueness of human beings, and the importance of equal opportunity. This overlap is significant.3” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=2GVBGL9V)) 实际上保守派和激进派都会强调平等和人类的独特性，但是他们一个是靠拒绝改造实现，一个是靠人人都改造来实现。
 
 “First, authenticity;” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=R4TJYRCG))
 
@@ -85,19 +103,19 @@ An important idea for conservatives comes from some parts of theology - whether 
 
 “Yet Bostrom and transhumanist Anders Sandberg argue that paying attention to human wisdom (as the bio-conservative desires) requires taking enhancement seriously because humans are uniquely situated to draw lessons from history and evolution (Bostrom 2004; Bostrom and Sandberg 2011).” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=C8TDA6DG))
 
-“Another touchstone in this debate is equality of opportunity, which is called upon to both justify and object to interventionist medical and technological enhancement strategies.” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=8MPK3BNP))这场辩论的另一个试金石是机会均等，它既是干预性医疗和技术改进战略的理由，也是反对这些战略的依据。
+~~“Another touchstone in this debate is equality of opportunity, which is called upon to both justify and object to interventionist medical and technological enhancement strategies.” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=8MPK3BNP))这场辩论的另一个试金石是机会均等，它既是干预性医疗和技术改进战略的理由，也是反对这些战略的依据。
 
 “They claim that the arena of justice is, in effect, a phenomenon of slow “colonization” of circumstances once left to chance (82–84). On this view, intervention is only ethically justified when we have control over (have colonized) circumstances, but that realm grows along with new technologies and scientific understanding. This is a technological imperative. That is, as technology becomes available that can be used to intervene upon the human body, one should use it. Buchanan et al. justify this imperative via the concept of equal opportunity” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=RYW4VIGZ))
 
-“Peter Singer invokes equal opportunity to discuss possible negative effects of enhancement, specifically genetic interventions. He claims that genetic intervention would work against equal opportunity unless it is regulated (2011). This is because of its potential, in a global marketplace, to be used only by already-advantaged persons with ready access to wealth” ([Hall, 2017, p. 8](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=31&annotation=AD7VKN84)) 一开始有钱的人自然是更容易获得这些access，就像万神殿里最开始能获得上传的都是富家子弟。
+~~“Peter Singer invokes equal opportunity to discuss possible negative effects of enhancement, specifically genetic interventions. He claims that genetic intervention would work against equal opportunity unless it is regulated (2011). This is because of its potential, in a global marketplace, to be used only by already-advantaged persons with ready access to wealth” ([Hall, 2017, p. 8](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=31&annotation=AD7VKN84)) Peter Singer: 一开始有钱的人自然是更容易获得这些access，就像万神殿里最开始能获得上传的都是富家子弟。
 
-“some have argued that cloning is an affront to human dignity, because it inhibits a kind of right to be an individual. But, arguments of this kind elevate the importance of replicated DNA material to the level of identity.” ([Hall, 2017, p. 8](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=31&annotation=F3CUXTDL)) DNA不等同于一个人的identity，但这个事情在Caspian 和Stephen的关系中就很有意思。Caspian虽然是Stephen的克隆，但是他的人生却和Stephen大相径庭。
+~~“some have argued that cloning is an affront to human dignity, because it inhibits a kind of right to be an individual. But, arguments of this kind elevate the importance of replicated DNA material to the level of identity.” ([Hall, 2017, p. 8](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=31&annotation=F3CUXTDL)) DNA不等同于一个人的identity，但这个事情在Caspian 和Stephen的关系中就很有意思。Caspian虽然是Stephen的克隆，但是他的人生却和Stephen大相径庭。
 
 “argue that cloning is a technological innovation of key importance for future change engages the body as a site of political problemsolving” ([Hall, 2017, p. 8](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=31&annotation=UN3V94CK)) 把所有问题的希望寄托在克隆身上，似乎也是把身体看作一个可以轻松解决政治问题解决的场域。
 
 “advocates of the use of cloning technology strictly separate reproduction via cloning from typical reproduction, which also signals a kind of misunderstanding—reproduction, as Derrida contends, is always a matter of repetition, and cloning will always involve novel elements (146–148).” ([Hall, 2017, p. 8](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=31&annotation=HNPKZRBX)) 生育包含复制，而克隆也往往包含新生。
 
-([Hall, 2017, p. 9](zotero://select/library/items/8EKADAQX)) 在克隆的讨论中基因决定论是兵家必争之地，也是很多对于克隆的反对者会提出的质疑。主要的分论点是以下几点：  
+~~([Hall, 2017, p. 9](zotero://select/library/items/8EKADAQX)) 在克隆的讨论中基因决定论是兵家必争之地，也是很多对于克隆的反对者会提出的质疑。主要的分论点是以下几点：  
 1\. 基因改造会限制人类的自由  
 2\. 孩子不再是礼物而是产品  
 3\. 才能和天赋不再是他本人应得的  

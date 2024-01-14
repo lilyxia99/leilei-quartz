@@ -15,5 +15,7 @@ dg-publish: true
 
 [Hannah Levy's website](https://www.hannahslevy.com)
 
-## Related Artist
+## Related 
+
+[[Transhumanism]]
 
