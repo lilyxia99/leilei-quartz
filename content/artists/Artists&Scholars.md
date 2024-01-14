@@ -19,3 +19,7 @@ dg-publish: true
 ## Transhumanism
 
 + [NICK BOSTROM](https://nickbostrom.com/ethics/values)
+
+# Artworks List
+
+[[Watch-List]]
