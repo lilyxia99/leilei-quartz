@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "leileixia.online",
     ignorePatterns: ["private", "templates", ".obsidian","**/private"],
     defaultDateType: "created",
     theme: {
