@@ -28,7 +28,7 @@ dg-publish: true
 
 在跑步的时候突然想到，如果digital garden 是用personal access token (我们结下来就视频PAT吧）来单独上传vault内容，那么理论上我也可以用 PAT 来制作的艺术家地图。
 
-所以之后还是决定用digital garden吧！而且最终还是找到了一个自己比较喜欢的风格，那就是 ion。 嘿嘿。后面的更新就写在[[digital-Garden]] 里吧
+所以之后还是决定用digital garden吧！而且最终还是找到了一个自己比较喜欢的风格，那就是 ion。 嘿嘿。后面的更新就写在[[Obsidian Digital-Garden]] 里吧
 
 ## 创建艺术家地图
 
