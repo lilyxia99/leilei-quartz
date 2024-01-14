@@ -11,9 +11,9 @@ dg-home: true
 
 I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading notes and zettlekasten, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
 
-You can find the index on the side bar
+You can find the index on the left or the bottom (if your window is small or mobile)
 
-[[All Dairies|Some of my diaries |]]
+[[All Dairies|Some of my diaries ]]
 
 [[Artists&Scholars]]
 
