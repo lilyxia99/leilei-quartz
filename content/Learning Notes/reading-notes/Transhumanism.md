@@ -19,23 +19,25 @@ Hall, Melinda Gann. The Bioethics of Enhancement: Transhumanism, Disability, and
 
 ## 如何才是道德的
 
+There are several main battlefield as for whether enhancement is moral, although from these points we can see the the worst enemies usually turns out to be the closest siblings. 
+
+### Authentic
+
+Some people say that if an enhancement is for therapeutic and still keeping the "essential natural" part of the human being authentic, then it's acceptable. The author raised several examples: Strength training, steroids and transitioning. If the line is only about **whether the body is forced to react differently**, 
 
 
-
-<details>
-    <summary>Click to expand annotations</summary>
 
 ## Annotations  
 
 (1/9/2024, 11:17:13 PM)
 
-“The hero of Bostrom’s story is the one who finally hatches a plan to slay the dragon, which represents death, and succeeds. Bostrom advocates in the parable for the moral necessity of developing anti-aging technology” ([Hall, 2017, p. 1](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=24&annotation=NY47AYJT)) 在Bostrom的人看来，死亡就是恶龙。人们麻木与恶龙，而不寄希望于打倒他。
+~~“The hero of Bostrom’s story is the one who finally hatches a plan to slay the dragon, which represents death, and succeeds. Bostrom advocates in the parable for the moral necessity of developing anti-aging technology” ([Hall, 2017, p. 1](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=24&annotation=NY47AYJT)) 在Bostrom的人看来，死亡就是恶龙。人们麻木与恶龙，而不寄希望于打倒他。
 
-~~“For Bostrom, death is not something fundamental to life or embodiment, but rather a threat which is utterly excessive and unjust.” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=GM2KI9X9)) 对于Bostrom来说，死亡是外部的，是邪恶的。这里涉及的核心问题就是：死亡是否是我们的一部分？接受死亡的话语是人类自我安慰的麻痹剂，还是一种真正的自我和解？~~
+ ~~“For Bostrom, death is not something fundamental to life or embodiment, but rather a threat which is utterly excessive and unjust.” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=GM2KI9X9)) 对于Bostrom来说，死亡是外部的，是邪恶的。这里涉及的核心问题就是：死亡是否是我们的一部分？接受死亡的话语是人类自我安慰的麻痹剂，还是一种真正的自我和解？~~
 
-~~“From these perspectives, it appears that death is not a fixed part of life—life and death are detachable, and death is a foreign threat to life. Further, it seems, we can measure the value of human life by way of knowledge—individual human beings are valuable because they contribute knowledge to a global library.” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=2WC8VG72)) 如果把一个人的死亡比做图书馆的消失，那是不是可以说，没有对世界的知识作出贡献的人，就死不足惜呢？越是想要用功利主义证明死亡是邪恶的，越是落入功利主义的陷阱。~~
+~~“From these perspectives, it appears that death is not a fixed part of life—life and death are detachable, and death is a foreign threat to life. Further, it seems, we can measure the value of human life by way of knowledge—individual human beings are valuable because they contribute knowledge to a global library.” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=2WC8VG72)) 如果把一个人的死亡比做图书馆的消失，那是不是可以说，没有对世界的知识作出贡献的人，就死不足惜呢？越是想要用功利主义证明死亡是邪恶的，越是落入功利主义的陷阱~~
 
-~~“Yet, death seems immanent to life—cell death occurs regularly in our bodies, and indeed we die even as we live” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=HSBIH9JB)) 然而死亡说一直存在的。我们身上总有无数的细胞死亡，只是我们以为我们活着。实际上每天的自己都死去了，新的自己又诞生了。~~
+“Yet, death seems immanent to life—cell death occurs regularly in our bodies, and indeed we die even as we live” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=HSBIH9JB)) 然而死亡说一直存在的。我们身上总有无数的细胞死亡，只是我们以为我们活着。实际上每天的自己都死去了，新的自己又诞生了。
 
 ~~“the view that knowledge production is the reason human lives are valuable, or even the primary reason human lives are valuable, is at best a partial and misleading picture and, at worst, dangerous and deadly for those excluded. If one concedes that knowledge is what makes life valuable, this implies that persons whose knowledge is discounted or disqualified—people with intellectual disabilities, along with other vulnerable people around the globe—do not have lives worth living. Contesting this caricature of human life is part of the project of this book” ([Hall, 2017, p. 2](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=25&annotation=I6B6IMUQ)) 人的意义不应只在于它能从知识生产或者劳动生产上贡献什么。一个人活着本身就是一种意义。把活着的意义和知识等同起来是危险而有偏颇的~~
 
@@ -272,5 +274,4 @@ Hall, Melinda Gann. The Bioethics of Enhancement: Transhumanism, Disability, and
 “In sum, transhumanists seek to improve life through biotechnology. But, the notion transhumanists have of improvement is rooted in utopia, specifically a utopian subject: the technoliberal individual.” ([Hall, 2017, p. 128](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=151&annotation=33BHVZVI)) transhumanist的未来是一个过于狭窄和精确的未来——一个特定的好以及让人有满足感的生活。
 
 “Foucault notes that under biopower, death takes multiple forms: “When I say ‘killing,’ I obviously do not mean simply murder as such, but also every form of indirect murder: the fact of exposing someone to death, increasing the risk of death for some people, or, quite simply, political death, expulsion, rejection, and so on”” ([Hall, 2017, p. 129](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=152&annotation=6WTVJYC4)) 福科认为杀人不只是字面意义上
-</details>
 
