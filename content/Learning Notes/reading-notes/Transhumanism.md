@@ -9,9 +9,7 @@ dg-publish: true
 
 Hall, Melinda Gann. The Bioethics of Enhancement: Transhumanism, Disability, and Biopolitics. Lexington Books, 2017.
 
-# Transhumanism
-
-在Bostrom的人看来，死亡就是恶龙。人们麻木于恶龙，而不寄希望于打倒他。对于Bostrom来说，死亡是外部的，是邪恶的。这里涉及的核心问题就是：死亡是否是我们的一部分？接受死亡的话语是人类自我安慰的麻痹剂，还是一种真正的自我和解？transhumanist 会说，一个人的死亡就是图书馆的消失，所以我们应该消灭死亡。但作者认为这样的话反过来说就不成立：这不就意味着没有对世界的知识作出贡献的人，例如智力并非超群这，甚至是有智力障的人，就死不足惜了？越是想要用功利主义证明死亡是邪恶的，越是落入功利主义的陷阱。
+在Bostrom看来，死亡就是恶龙。人们麻木于恶龙，而不寄希望于打倒他。对于Bostrom来说，死亡是外部的，是邪恶的。这里涉及的核心问题就是：死亡是否是我们的一部分？接受死亡的话语是人类自我安慰的麻痹剂，还是一种真正的自我和解？transhumanist 会说，一个人的死亡就是图书馆的消失，所以我们应该消灭死亡。但作者认为这样的话反过来说就不成立：这不就意味着没有对世界的知识作出贡献的人，例如智力并非超群这，甚至是有智力障的人，就死不足惜了？越是想要用功利主义证明死亡是邪恶的，越是落入功利主义的陷阱。
 
 死亡并非我们身外之物，死亡一直存在的。我们身上总有无数的细胞死亡，只是我们以为我们活着。实际上每天的自己都死去了，新的自己又诞生了。人的意义不应只在于它能从知识生产或者劳动生产上贡献什么。一个人活着本身就是一种意义。把活着的意义和知识等同起来是危险而有偏颇的
 
@@ -25,7 +23,19 @@ There are several main battlefield as for whether enhancement is moral, although
 
 Some people say that if an enhancement is for therapeutic and still keeping the "essential natural" part of the human being authentic, then it's acceptable. The author raised several examples: Strength training, steroids and transitioning. If the line is only about **whether the body is forced to react differently**, 
 
+### Hereditity
 
+Much of the technology of modern medicine is used to combat aging and dysfunction in cells and the body, but the most central debate is on those modifications that can be inherited, such as CRISPR technology.
+
+### The New God
+
+An important idea for conservatives comes from some parts of theology - whether we will make a new god out of it. Conservatives and radicals alike agree on this "technological god" imagery. 
+
+## The commonality between Bio-conservatives and Bio-libertarian
+
+1. They both believe that technology will be so powerful, that it will have divine power, either good or bad. 
+2. They believe that gene somehow decides a person's life. 
+3. both sides of the debate claim that the human being is uniquely placed among the things in the natural world
 
 ## Annotations  
 
@@ -53,13 +63,13 @@ Some people say that if an enhancement is for therapeutic and still keeping the 
 
 “it is worth noting that some more moderate philosophers play it too safe with regard to enhancement. They make proposals with which no one would disagree, such as being sure any proposed enhancement is accessible and effective and that harm to individuals is to be avoided at all costs. These qualifications do not get us any clearer on the special issues presented by the ethical question of enhancement—indeed, they sound like prescriptions for action for any public policy development, and they are subject to the same roadblocks” ([Hall, 2017, p. 5](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=28&annotation=IFQTAH5G)) 只是说这些设施是免费的，fully accessible的，并不会变成一个免死金牌。它只是逃避了关于enhancement很本质的问题，而且是一个过于理想化的想象。
 
-“Bioethicists discuss everything from the body-contouring effects of liposuction to scientific research aimed at discovering ways to counteract the aging process in cells. But, emerging technologies, including genetic screening and editing procedures such as CRISPR, capture center stage.2 Nootropic drugs (cognitive enhancers like modafinil), also receive high levels of attention (Battleday and Brem 2015). So, what is uniquely at stake in contemporary discussions is the acceptability of heritable medical interventions, with special attention to the mind” ([Hall, 2017, p. 5](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=28&annotation=BRZETM9R)) 现代医学的很多技术都是用来对抗细胞和身体的老化和dysfunction的，但是最核心的辩论是在那些可以被遗传的改造上，例如CRISPR技术。
+~~“Bioethicists discuss everything from the body-contouring effects of liposuction to scientific research aimed at discovering ways to counteract the aging process in cells. But, emerging technologies, including genetic screening and editing procedures such as CRISPR, capture center stage.2 Nootropic drugs (cognitive enhancers like modafinil), also receive high levels of attention (Battleday and Brem 2015). So, what is uniquely at stake in contemporary discussions is the acceptability of heritable medical interventions, with special attention to the mind” ([Hall, 2017, p. 5](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=28&annotation=BRZETM9R)) 现代医学的很多技术都是用来对抗细胞和身体的老化和dysfunction的，但是最核心的辩论是在那些可以被遗传的改造上，例如CRISPR技术。
 
 “those who are pro-enhancement. This group is typically referred to as “bio-libertarian” and overlaps significantly with thinkers who consider themselves transhumanists, or at least fellow travelers. Bio-conservatives and bio-libertarians are treated, by those both inside and outside of the debate, as if they were in deep disagreement” ([Hall, 2017, p. 5](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=28&annotation=6LRV6JNC))
 
-“Ramsey worried that we sought to produce a man-God hybrid by genetic means who would destroy “the sanctity of the individual” (146).” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=QB8YYNDZ)) 保守派的重要思想来源于一些神学的部分——我们是否会造出一个新的神出来
+~~“Ramsey worried that we sought to produce a man-God hybrid by genetic means who would destroy “the sanctity of the individual” (146).” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=QB8YYNDZ)) 保守派的重要思想来源于一些神学的部分——我们是否会造出一个新的神出来
 
-“thinkers like Jürgen Habermas and Michael Sandel enjoin us to protect the boundaries of human nature, along with human dignity, from interference and temptation. Tied to this are Sandel’s appeals, which echo Kass’s work, to human wisdom and appropriate humility. Resonating among bio-conservatives is a commonplace claim originally made by Ramsey: “Men ought not to play God before they learn to be men, and after they have learned to be men they will not play God” (1970, 137” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=MAYJ8FGR))
+“thinkers like Jürgen Habermas and Michael Sandel enjoin us to protect the boundaries of human nature, along with human dignity, from interference and temptation. Tied to this are Sandel’s appeals, which echo Kass’s work, to human wisdom and appropriate humility. Resonating among bio-conservatives is a commonplace claim originally made by Ramsey: “Men ought not to play God before they learn to be men, and after they have learned to be men they will not play God” (1970, 137” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=MAYJ8FGR)) 人在学会做人之前不应该扮演上帝，而在学会做人之后，他们也不会扮演上帝
 
 “The “playing God” objection is curious because it assumes that technology can give us such total control that we might as well call ourselves God. This is chimerical. But, more curious still is the fact that transhumanists also embrace a portrait of technology that implies God-like control, a move which mystifies and elevates technology (Bostrom 2003)” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=T7AHYZXZ)) 保守派和激进派都同意这种“科技造神”的想象
 
@@ -69,13 +79,13 @@ Some people say that if an enhancement is for therapeutic and still keeping the 
 
 “First, authenticity;” ([Hall, 2017, p. 6](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=29&annotation=R4TJYRCG))
 
-“Thinking back to Bostrom’s parable, consider that he poses death as an obstacle to loving human relationships. Death is an interruption which dissolves communities—so enhancement strategies which subvert death can enhance human communities and our authentic selves in turn” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=TX7MNBEW))
+“Thinking back to Bostrom’s parable, consider that he poses death as an obstacle to loving human relationships. Death is an interruption which dissolves communities—so enhancement strategies which subvert death can enhance human communities and our authentic selves in turn” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=TX7MNBEW))回想博斯特罗姆的寓言，可以发现他将死亡视为人类友爱关系的障碍。死亡是一种干扰，会瓦解我们的社群--因此，颠覆死亡的增强策略可以反过来增强人类社群和我们的真实自我。
 
 “Second, both sides of the debate claim that the human being is uniquely placed among the things in the natural world.” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=YMZQQ5LG))
 
 “Yet Bostrom and transhumanist Anders Sandberg argue that paying attention to human wisdom (as the bio-conservative desires) requires taking enhancement seriously because humans are uniquely situated to draw lessons from history and evolution (Bostrom 2004; Bostrom and Sandberg 2011).” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=C8TDA6DG))
 
-“Another touchstone in this debate is equality of opportunity, which is called upon to both justify and object to interventionist medical and technological enhancement strategies.” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=8MPK3BNP))
+“Another touchstone in this debate is equality of opportunity, which is called upon to both justify and object to interventionist medical and technological enhancement strategies.” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=8MPK3BNP))这场辩论的另一个试金石是机会均等，它既是干预性医疗和技术改进战略的理由，也是反对这些战略的依据。
 
 “They claim that the arena of justice is, in effect, a phenomenon of slow “colonization” of circumstances once left to chance (82–84). On this view, intervention is only ethically justified when we have control over (have colonized) circumstances, but that realm grows along with new technologies and scientific understanding. This is a technological imperative. That is, as technology becomes available that can be used to intervene upon the human body, one should use it. Buchanan et al. justify this imperative via the concept of equal opportunity” ([Hall, 2017, p. 7](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=30&annotation=RYW4VIGZ))
 
