@@ -7,7 +7,7 @@ dg-publish: true
 # Artists/Scholars References
 
 ## Artist
-+ [[Hannah-Levy]]
++ ![[Hannah-Levy]]
 
 ## Disability Scholar
 

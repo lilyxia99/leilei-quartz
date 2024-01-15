@@ -193,6 +193,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const node = graphNode
     .append("circle")
     .attr("class", "node")
+    .attr("alt","node")//added alt next
     .attr("id", (d) => d.id)
     .attr("r", nodeRadius)
     .attr("fill", color)

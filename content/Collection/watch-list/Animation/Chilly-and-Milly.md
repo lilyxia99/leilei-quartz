@@ -8,8 +8,6 @@ tags:
 dg-publish: true
 ---
 
-# Chilly and Milly
-
 [chilly and milly](https://www.thirteen.org/programs/pbs-online-film-festival/chilly-and-milly-dzclsg/)
 
 stop motion style, but 3D rendered. 感觉有点像夹生的米饭，质感也比较塑料，模仿那种小模型人的感觉。而且是现在的看十年前的老片子的新想法，真的是literally炒冷饭。

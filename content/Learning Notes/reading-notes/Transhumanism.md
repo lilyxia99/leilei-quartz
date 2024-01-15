@@ -55,6 +55,8 @@ some have argued that cloning is an affront to human dignity, because it inhibit
 3\. 才能和天赋不再是他本人应得的  
 4\. 克隆人的独特性是被侵犯的  
 然而上面的每一条都是对基因作用的夸大。DNA不等同于一个人的identity，但这个事情在Caspian 和Stephen的关系中就很有意思。Caspian虽然是Stephen的克隆，但是他的人生却和Stephen大相径庭。
+
+
 ## Annotations  
 
 (1/9/2024, 11:17:13 PM)
