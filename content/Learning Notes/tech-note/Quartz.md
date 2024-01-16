@@ -10,7 +10,8 @@
 
 如果要build得话，
 
-npx quartz build --serve
+> [!tip]
+> npx quartz build --serve
 
 文件夹在quartz里
 

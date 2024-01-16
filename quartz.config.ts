@@ -31,8 +31,8 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#242b23",
-          lightgray: "#393639",
-          gray: "#646464",
+          lightgray: "#5e5b56",//controls the normal link color
+          gray: "#9e8565",//controls the clicked link color and normal node color
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#a4e655",
