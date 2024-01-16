@@ -90,6 +90,12 @@ const labels = graphNode
 
 ```
 
+``` javascript
+
+Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{repelForce: 0.8,linkDistance: 40,}})
+
+```
+
 - [ ] 写一个单独的node app 可以做react flow, 然后上传到GitHub上
 - [ ] react flow 里的custom Node 需要可以显示markdown文件
 - [ ] 研究如何单独用token更新artist list到这个github上的文件里
