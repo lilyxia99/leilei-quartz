@@ -281,7 +281,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           node.attr("transform", transform)
           const scale = transform.k * opacityScale
           const scaledOpacity = Math.max((scale - 1) / 3.75, 0)
-          labels.attr("transform", transform).style("opacity", scaledOpacity)
+          labels.attr("transform", transform).style("opacity", 0.5)
+          //labels.attr("transform", transform).style("opacity", scaledOpacity)
         }),
     )
   }

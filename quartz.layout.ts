@@ -43,6 +43,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{repelForce: 0.8,linkDistance: 40,}}),
+    Component.Graph({localGraph:{repelForce: 0.5,linkDistance: 40,},globalGraph:{repelForce: 0.5,linkDistance: 40,}}),
   ],
 }
