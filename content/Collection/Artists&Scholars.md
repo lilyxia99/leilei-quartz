@@ -7,8 +7,9 @@ dg-publish: true
 # Artists/Scholars References
 
 ## Artist
-+ ![[Hannah-Levy]]
-
+ [[Hannah-Levy]] 
+ 
+[[Martha Rosler]]
 ## Disability Scholar
 
 + Sharon Snyder and David Mitchell
