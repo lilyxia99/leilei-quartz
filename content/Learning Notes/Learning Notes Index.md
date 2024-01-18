@@ -10,4 +10,4 @@
 
 #reading-notes 
 
-[[Transhumanism]]
+[[The Bioethics of Enhancement-Transhumanism, Disability, and Biopolitics]]

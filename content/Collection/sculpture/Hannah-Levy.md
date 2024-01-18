@@ -17,5 +17,5 @@ dg-publish: true
 
 ## Related 
 
-[[Transhumanism]]
+[[The Bioethics of Enhancement-Transhumanism, Disability, and Biopolitics]]
 

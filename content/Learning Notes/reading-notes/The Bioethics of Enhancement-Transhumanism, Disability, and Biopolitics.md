@@ -46,16 +46,19 @@ some have argued that cloning is an affront to human dignity, because it inhibit
 3. both sides of the debate claim that the human being is uniquely placed among the things in the natural world
 4. In fact both conservatives and radicals would emphasize equality and human uniqueness, but one of them achieves it by refusing to transform, the other by transforming everyone.
 
-## Clone
+## 基因决定论
 
 在克隆的讨论中基因决定论是兵家必争之地，很多克隆反对者也是基于这样的信念提出的质疑。
 主要的分论点是以下几点：  
+
 1\. 基因改造会限制人类的自由  
 2\. 孩子不再是礼物而是产品  
 3\. 才能和天赋不再是他本人应得的  
 4\. 克隆人的独特性是被侵犯的  
+
 然而上面的每一条都是对基因作用的夸大。DNA不等同于一个人的identity，但这个事情在Caspian 和Stephen的关系中就很有意思。Caspian虽然是Stephen的克隆，但是他的人生却和Stephen大相径庭。
 
+基因决定论会首先认为基因是固化的，并在这个基础上认为个人的特质无法符合社会工厂的规范也是个人的原因，而非工作环境应该提供的合理便利。
 
 ## Annotations  
 
@@ -126,7 +129,7 @@ some have argued that cloning is an affront to human dignity, because it inhibit
 
 “This is because making public policy recommendations that would dedicate a vast sum of funds to create genetic enhancement technologies and make them available to the public at least approaches what Mianna Lotz refers to as “geneticism”—the privileging of genetic causes over other factors—if not a stronger variety of genetic determinism” ([Hall, 2017, p. 9](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=32&annotation=8L8XQP2M)) 向政府提议把经费花在基因技术上，不管是多mild的建议，也是一种对基因决定论的支持。毕竟有这钱，为啥不花在基础建设上面？
 
-“Genetic determinism has two inflections. The first reads as follows: if a trait is identified as genetically or biologically determined, it is unchangeable (or opportunities to alleviate it are significantly limited), and responsibility for the issue falls to the individual rather than political or social institutions (Haslam 2011, 819; Lewontin 1992, 23, 36–37; Nelkin and Lindee 1995, 16, 18, 93). Consider the case of allergies or genetic predispositions to certain sensitivities that would rule out a person working in certain environments. Rather than ensuring safe working conditions in a workplace, the employer has recourse to require a person to disclose any sensitivities and then can declare the worker not fit for the workplace (as opposed to the workplace being unfit for workers) (Nelkin and Lindee 1995, 161).” ([Hall, 2017, p. 9](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=32&annotation=3RKHRZYB)) 基因决定论会首先认为基因是固化的，并在这个基础上认为个人的特质无法符合社会工厂的规范也是个人的原因，而非工作环境应该提供的合理便利。
+~~“Genetic determinism has two inflections. The first reads as follows: if a trait is identified as genetically or biologically determined, it is unchangeable (or opportunities to alleviate it are significantly limited), and responsibility for the issue falls to the individual rather than political or social institutions (Haslam 2011, 819; Lewontin 1992, 23, 36–37; Nelkin and Lindee 1995, 16, 18, 93). Consider the case of allergies or genetic predispositions to certain sensitivities that would rule out a person working in certain environments. Rather than ensuring safe working conditions in a workplace, the employer has recourse to require a person to disclose any sensitivities and then can declare the worker not fit for the workplace (as opposed to the workplace being unfit for workers) (Nelkin and Lindee 1995, 161).” ([Hall, 2017, p. 9](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=32&annotation=3RKHRZYB)) 基因决定论会首先认为基因是固化的，并在这个基础上认为个人的特质无法符合社会工厂的规范也是个人的原因，而非工作环境应该提供的合理便利。
 
 “The second inflection suggests that if a trait is genetically determined it is changeable, but only through technology or genetic interventions (Nelkin and Lindee 1995, 101). In a genetic reduction, a genetic problem requires a genetic or technological—rather than a social or political—solution.” ([Hall, 2017, p. 9](zotero://select/library/items/8EKADAQX)) ([pdf](zotero://open-pdf/library/items/RQGII3WY?page=32&annotation=GTD5NDY4)) 基因决定论如果认为基因可以被后天改变，那么改变的手段也往往不是社会或者人为的认知，而是得通过科技手段。
 
