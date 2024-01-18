@@ -6,7 +6,7 @@ tags:
 ---
 ## 2024-01-12 23:17
 
-digital garden 使用的是[11ty](https://www.11ty.dev)，会比gatsby 快而且语法上应该简单一点（不是用的react，虽然 at this point React可能才是我更熟悉的）
+[digital garden](https://github.com/mathieudutour/gatsby-digital-garden)使用的是[11ty](https://www.11ty.dev)，会比[[Gatsby-blog-Log|Gatsby]] 快而且语法上应该简单一点（不是用的react，虽然 at this point React可能才是我更熟悉的）
 
 接下来需要做的是：
 

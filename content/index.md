@@ -9,7 +9,7 @@ dg-home: true
 
 # Leilei's Mind Palace
 
-I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading notes and zettlekasten, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
+I am Leilei, and I am an tactile artist and filmmaker. This is [my blog](https://www.leileixia.online), reading notes and zettlekasten, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
 
 You can find the index on the left or the bottom (if your window is small or mobile)
 

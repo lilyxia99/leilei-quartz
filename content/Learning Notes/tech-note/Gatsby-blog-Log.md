@@ -34,7 +34,7 @@ dg-publish: true
 
 Thursday, January 11, 2024 @ 11:39:42 AM
 
-不能直接在template写太复杂的东西，例如react flow这样的，要在component里写然后直接在template里提及。
+不能直接在template写太复杂的东西，例如[[React|react flow]]这样的，要在component里写然后直接在template里提及。
 
 折腾了一天半，尝试从canvas文件生成react flow视图，但是到最后一步，已经能生成了，但是somehow custom node又出一些问题。不知道是咋回事。总之现在是可以有react flow，也可以有node,如果是普通的node的话。但就是custom node解决不了
 

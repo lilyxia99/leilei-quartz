@@ -1,7 +1,6 @@
 ---
 tags:
   - tech-notes
-  - git
 ---
 添加、提交、推送：
 
