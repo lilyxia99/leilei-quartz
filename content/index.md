@@ -21,7 +21,7 @@ You can find the index on the left or the bottom (if your window is small or mob
 
 [[Tags]]
 
-[My reading notes (to Notion Page)](https://leileixia.notion.site/9894276f85b544139940a94237d31b7b?v=ad681b862b034f96b026a93204b1d508&pvs=4) 
+[My reading notes (to Notion Page)](https://leileixia.notion.site/9894276f85b544139940a94237d31b7b?v=ad681b862b034f96b026a93204b1d508&pvs=4) （Before Jan 11 2024, most of the reading notes after that r here. I also copy some good ones to this blog)
 
 ---
 This page is created with [Quartz](https://quartz.jzhao.xyz)    |  Modified by Leilei Xia  |  Deployed with Netlify
