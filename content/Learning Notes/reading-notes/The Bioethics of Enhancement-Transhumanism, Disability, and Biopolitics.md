@@ -41,10 +41,11 @@ some have argued that cloning is an affront to human dignity, because it inhibit
 
 ## The commonality between Bio-conservatives and Bio-libertarian
 
+Conservatives and radicals, though seemingly incompatible, actually **share many essential premises**, such as *genetic determinism, technological god*, etc. Everyone is so busy arguing about the extensions of these premises that no one questions whether these major premises are false.
+
 1. They both believe that technology will be so powerful, that it will have divine power, either good or bad. 
-2. They believe that gene somehow decides a person's life. 
-3. both sides of the debate claim that the human being is uniquely placed among the things in the natural world
-4. In fact both conservatives and radicals would emphasize equality and human uniqueness, but one of them achieves it by refusing to transform, the other by transforming everyone.
+2. They believe that gene somehow decides a person's life.
+3. both sides of the debate claim that the *human being is uniquely* placed among the things in the natural world. In fact both conservatives and radicals would emphasize equality and human uniqueness, but one of them achieves it by refusing to transform, the other by transforming everyone.
 
 ## 基因决定论
 
@@ -59,6 +60,8 @@ some have argued that cloning is an affront to human dignity, because it inhibit
 然而上面的每一条都是对基因作用的夸大。DNA不等同于一个人的identity，但这个事情在Caspian 和Stephen的关系中就很有意思。Caspian虽然是Stephen的克隆，但是他的人生却和Stephen大相径庭。
 
 基因决定论会首先认为基因是固化的，并在这个基础上认为个人的特质无法符合社会工厂的规范也是个人的原因，而非工作环境应该提供的合理便利。
+
+
 
 ## Annotations  
 
