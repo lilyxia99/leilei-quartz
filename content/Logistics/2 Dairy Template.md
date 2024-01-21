@@ -1,0 +1,6 @@
+---
+tags:
+  - diary
+date: {{date}}
+---
+ 
