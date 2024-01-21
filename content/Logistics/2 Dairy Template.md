@@ -1,6 +1,0 @@
----
-tags:
-  - diary
-date: {{date}}
----
- 
