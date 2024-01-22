@@ -4,6 +4,7 @@ tags:
   - reading-notes
   - transhumanism
   - posthuman
+  - sci-fi
 dg-publish: true
 ---
 
