@@ -23,16 +23,10 @@ Writers need to care more about their characters, so are readers and scholars. R
 
 1. Paying attention to what is there, the cultural code
 2. Identify stereotypes
-3. Identify a “actural” full, complex, character or story: is it a stereotype, or is it just a check boxing, or in between. 
+3. Identify a “actual” full, complex, character or story: is it a stereotype, or is it just a check boxing, or in between. 
 4. Pay attention, or more aware of details
 
-The way to implement in our work:
-1. Go specific, add details. 
-2. Humor
-3. 
-
-Add meanings,
-
+回家之后和Chrystine 聊了一下，感觉很重要的一点也是——如果人员diverse了，但是叙事还是一个colonial的叙事，角色还是在去政府其他的地方，这也不行。
 
 # reading summary
 ## why not write minority characters 

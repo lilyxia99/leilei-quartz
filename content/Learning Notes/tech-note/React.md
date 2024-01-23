@@ -25,7 +25,7 @@ tags:
 
 ## Gatsby
 
-参考[[Gatsby-blog-Log]] 太难啦
+参考[[Gatsby-blog-Log]] 太难啦，写不动啦😂
 
 ## React Flow
 
