@@ -10,6 +10,8 @@ dg-publish: true
  [[Hannah-Levy]] 
  
 [[Martha Rosler]]
+
+[[Laetitia Sonami]]
 ## Disability Scholar
 
 + Sharon Snyder and David Mitchell
