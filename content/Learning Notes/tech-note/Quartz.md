@@ -15,6 +15,8 @@
 
 文件夹在quartz里
 
+## Graph
+
 修改graph的属性，进入 graph.inline.ts 
 如果想让每一个node都有标题，把
 
@@ -96,7 +98,14 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 
 ```
 
+## 写react flow 小插件
+
 - [ ] 写一个单独的node app 可以做react flow, 然后上传到GitHub上
 - [ ] react flow 里的custom Node 需要可以显示markdown文件
 - [ ] 研究如何单独用token更新artist list到这个github上的文件里
 - [ ] 把这个node app deploy到vercel上，网址embed到digital garden 里
+
+## 写评论功能
+
+- [ ] 一个component
+- [ ] 一个component可以输入n
