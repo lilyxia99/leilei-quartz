@@ -16,7 +16,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
     Component.MobileOnly(Component.TableOfContents()),
-    Component.MobileOnly(Component.Comments()),
+    //Component.MobileOnly(Component.Comments()),
   ],
   left: [
     Component.PageTitle(),
@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({title: "Menu",folderDefaultState: "collapsed",useSavedState: true,})),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Comments()),
+    //Component.DesktopOnly(Component.Comments()),
   ],
   right: [
     Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 50,},globalGraph:{repelForce: 0.8,linkDistance: 50,}}),
