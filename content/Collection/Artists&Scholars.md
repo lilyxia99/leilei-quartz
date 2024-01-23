@@ -23,4 +23,6 @@ dg-publish: true
 
 # Artworks List
 
-[[Watch-List]]
+![[Sci-fi to read list]]
+
+![[Animation and Movie List]]

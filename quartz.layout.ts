@@ -23,12 +23,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({title: "Menu",folderDefaultState: "collapsed",useSavedState: true,})),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 50,},globalGraph:{repelForce: 0.8,linkDistance: 50,}}),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.DesktopOnly(Component.RecentNotes()),
+    //Component.DesktopOnly(Component.RecentNotes()),
     //Component.Comments(),
   ],
 }
