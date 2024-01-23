@@ -5,6 +5,14 @@ tags:
   - reading-notes
   - race
 ---
+# class notes
+
+Henry relate to the fact people don’t like to be confronted. 
+
+All the minorities are kind of representation of minority, they are abnormal, and abnormal are treated in ways like:
+
+1. 
+# reading summary
 ## why not write minority characters 
 
 “Blacks, Asians, Hispanics, Amerindians, minority characters in general have been noticeably absent from most science fiction. Why”
