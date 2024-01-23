@@ -9,9 +9,31 @@ tags:
 
 Henry relate to the fact people don’t like to be confronted. 
 
-All the minorities are kind of representation of minority, they are abnormal, and abnormal are treated in ways like:
+All the minorities are kind of representation of minority, they are abnormal, and abnormal are treated in ways like people are:
 
-1. 
+1. Feared
+2. Intrigued
+3. Discriminated
+4. Objectified, fetishized, domesticated, regulated
+5. Trusted, which leads hero status
+
+The reason why there is a lack of actual people of minority, is because of a lack of research. But it’s not just a lack of research, it’s because essentially a procrastination, and the actual driving force is just they don’t want to know, they discriminate. 
+
+Writers need to care more about their characters, so are readers and scholars. Reading with this lens. It helps us:
+
+1. Paying attention to what is there, the cultural code
+2. Identify stereotypes
+3. Identify a “actural” full, complex, character or story: is it a stereotype, or is it just a check boxing, or in between. 
+4. Pay attention, or more aware of details
+
+The way to implement in our work:
+1. Go specific, add details. 
+2. Humor
+3. 
+
+Add meanings,
+
+
 # reading summary
 ## why not write minority characters 
 
