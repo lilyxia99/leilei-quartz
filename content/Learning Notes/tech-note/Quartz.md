@@ -107,8 +107,8 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 
 ## 写评论功能
 
-- [ ] 一个component
-- [ ] 一个component可以输入内容
+- [x] 一个component
+- [x] 一个component可以输入内容
 - [ ] 一个component可以识别当前文件
 - [ ] 一个component可以识别当前文件的 ## Comment 标题
 - [ ] 一个component可以识别当前文件并且添加文字到当前文档里
