@@ -1,5 +1,5 @@
 ---
-title: Names
+title: Collections
 catagories: reference
 dg-publish: true
 ---
