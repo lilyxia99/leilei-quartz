@@ -19,9 +19,13 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 ## dehumanization
 
+> “Besides these new anxieties about physical disaster, the prospect of universal mutilation and even annihilation, the science fiction films reflect powerful anxieties about the condition of the individual psyche.” (Sontag, p. 47)
+
+科幻故事中恐惧的还有科学怪人，科学怪人的怪物，还有丧尸。
+
 怪物是不需要被共情的。怪物比人类低贱，可以被毁灭。非人之物的革命可以是玩笑。长得不像人是primitive的，是没有主体性的，是像动物一样的。当然，这有时候甚至和眼睛的设计有关——有眼睛的角色总是让人觉得更像人。可以被拟人化的东西让我们觉得更亲近。
 
-这可能也和少数群体不被写作有关系？
+这可能也和少数群体不被写作有关系。当时的作者和导演估计都是白男，他们对于norm的渴望和坚持，恰恰也反映在了这些电影的桥段里。
 
 这些事物是可以被抹杀的，就像哥斯拉一样。只要哥斯拉被消灭了，这个电影就让人满足了。如果电影最后没有happy ending，这个电影=not worth it. 
 
@@ -88,7 +92,7 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 “It is interesting, too, that societies in which reason was pictured as totally ascendant were also traditionally pictured as having an ascetic and/or materially frugal and economically simple mode of life. But in the utopian world community projected by science fiction films, totally pacified and ruled by scientific concensus, the demand for simplicity of material existence would be absurd.” (Sontag, p. 47) 一般的故事里，人类哲学和理性越占主导，社会的物质生活越保守。相反，在科幻故事中，如果存在这种被通过科学达成的大统一，如果整个世界都被一种科学逻辑所统治，里面的物质生活往往也是极大丰富的。
 
-“Besides these new anxieties about physical disaster, the prospect of universal mutilation and even annihilation, the science fiction films reflect powerful anxieties about the condition of the individual psyche.” (Sontag, p. 47)
+~~“Besides these new anxieties about physical disaster, the prospect of universal mutilation and even annihilation, the science fiction films reflect powerful anxieties about the condition of the individual psyche.” (Sontag, p. 47)~~
 
 “The other-world creatures which seek to take "us" over, are an "it," not a "they." The planetary invaders are usually zombie-like. Their movements are either cool, mechanical, or lumbering, blobby. But it amounts to the same thing.” (Sontag, p. 47)
 
