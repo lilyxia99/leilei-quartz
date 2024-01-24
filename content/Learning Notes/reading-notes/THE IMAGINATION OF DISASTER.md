@@ -8,9 +8,14 @@ author: Susan Sontag
 
 ## Tropes in Sci-fi
 
-科幻一方面让我们从平庸中脱离，一方面让更无法忍受之物变得习惯。
+科幻一方面让我们从平庸中脱离，一方面让更无法忍受之物变得习惯。Being entertained makes the situation looks bearable. Humor becomes a coping mechanism. Also the tropes help with that anticipation cushion. 之所以科幻灾难片里有这么多搞笑有趣的台词，或许是因为实际上人们没有经历过这些事情。
+
+这篇文章写在60年代，30年代sci-fi 开始，
+
+WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（这篇文章写作的时间）—种族隔离结束—Vietnam—尼克森总统—2001/9/11–2024–Palestinian genocide(started in 1948)
 
 科幻片里也有很多套路：孤胆英雄发现危险，但是警告无人响应。感觉完全是李文亮的剧本啊……虽然他没有活下来
+
 
 ## Why do we have those tropes
 
