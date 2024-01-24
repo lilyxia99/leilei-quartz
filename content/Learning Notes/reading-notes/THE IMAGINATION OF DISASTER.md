@@ -16,6 +16,12 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 科幻片里也有很多套路：孤胆英雄发现危险，但是警告无人响应。感觉完全是李文亮的剧本啊……虽然他没有活下来
 
+## dehumanization
+
+怪物是不需要被共情的。怪物比人类低贱，可以被毁灭。非人之物的革命可以是玩笑。这是
+
+对于丧尸、杀人机器的恐惧，也是对于一种去人化的恐惧。
+
 
 ## Why do we have those tropes
 
@@ -80,7 +86,7 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 “The other-world creatures which seek to take "us" over, are an "it," not a "they." The planetary invaders are usually zombie-like. Their movements are either cool, mechanical, or lumbering, blobby. But it amounts to the same thing.” (Sontag, p. 47)
 
-“They are the wave of the future, man in his next stage of development.” (Sontag, p. 47) 对于丧尸、杀人机器的恐惧，也是对于一种去人化的恐惧。
+“They are the wave of the future, man in his next stage of development.” (Sontag, p. 47) ~~对于丧尸、杀人机器的恐惧，也是对于一种去人化的恐惧。~~
 
 “They do not simply kill the person. They obliterate him.” (Sontag, p. 47)
 
