@@ -28,3 +28,7 @@ dg-publish: true
 ![[Sci-fi to read list]]
 
 ![[Animation and Movie List]]
+
+## Receipe
+
+[[小高姐的贝果]]

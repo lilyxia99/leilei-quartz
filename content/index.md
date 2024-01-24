@@ -15,7 +15,7 @@ You can find the index on the left or the bottom (if your window is small or mob
 
 [[All Dairies|Some of my diaries ]]
 
-[[Artists&Scholars]]
+[[Leilei's Collections]]
 
 [[Learning Notes Index]]
 

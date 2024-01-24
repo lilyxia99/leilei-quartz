@@ -8,6 +8,7 @@ dg-publish: true
 ![[Chilly-and-Milly]] 
 ![[Scavengers Reign]]
 ![[夏娃的时间]]
+![[Pantheon]]
 
 ### Live Action
 ![[流浪地球]]
