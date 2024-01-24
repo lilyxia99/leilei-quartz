@@ -12,4 +12,5 @@ git push
 
 [a way to git from iphone](https://discuss.logseq.com/t/alternative-way-of-git-syncing-on-ios-using-a-shell-for-free/8570)
 
+关于这个repository
 [obsidian Git](https://publish.obsidian.md/git-doc/Start+here)
