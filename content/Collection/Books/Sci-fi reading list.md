@@ -16,6 +16,9 @@
 
 [Crimes of the Future 2022](https://en.wikipedia.org/wiki/Crimes_of_the_Future_(2022_film))
 
-## Sci-fi Magazine
+[[AYE, AND GOMORRAH . . .]]
+## Sci-fi Magazine / resource
 
 [Strange Horizon](http://strangehorizons.com)
+
+[[科幻讲播]]
