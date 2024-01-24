@@ -114,3 +114,6 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 - [ ] 一个component可以识别当前文件并且添加文字到当前文档里
 - [ ] 一个component可以识别当前文件并且添加文字到当前文档的 Comment 标题底下
 - [ ] 一个component可以输入内容，识别当前文件，并且添加之前输入的内容到当前文档的 Comment 标题底下
+
+[Isso](https://isso-comments.de/docs/guides/quickstart/)
+找到这个，感觉可以试试看
