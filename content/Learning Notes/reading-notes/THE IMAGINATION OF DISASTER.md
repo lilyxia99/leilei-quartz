@@ -4,7 +4,15 @@ tags:
   - sci-fi
 author: Susan Sontag
 ---
+# Review
 
+## Tropes in Sci-fi
+
+科幻一方面让我们葱平庸中脱离，一方面让更无法忍受之物变得习惯。
+
+科幻片里也有很多套路：孤胆英雄发现危险，但是警告无人响应。感觉完全是李文亮的剧本啊……虽然他没有活下来
+
+## Why do we have those tropes
 
 # Annotations  
 (1/24/2024, 11:02:55 AM)
