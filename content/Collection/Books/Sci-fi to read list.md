@@ -1,3 +1,5 @@
+## Sci-fi Books
+
 [Stung](https://www.imdb.com/title/tt3300572/)
 
 [All Tomorrow](https://en.wikipedia.org/wiki/All_Tomorrows)
@@ -14,3 +16,6 @@
 
 [Crimes of the Future 2022](https://en.wikipedia.org/wiki/Crimes_of_the_Future_(2022_film))
 
+## Sci-fi Magazine
+
+[Strange Horizon](http://strangehorizons.com)
