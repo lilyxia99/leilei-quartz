@@ -6,40 +6,48 @@ author: Susan Sontag
 ---
 # Review
 
-## Tropes in Sci-fi
+## What Sci-fi does
 
 科幻一方面让我们从平庸中脱离，因为在灾难面前，生活中鸡毛蒜皮的琐事和责任都变得无足轻重。一方面让更无法忍受之物变得习惯。一个星球爆炸也不会让人觉得惊奇，因为这只是inconceivable。
 
-之所以我们会认为这变得习以为常，因为being entertained makes the situation looks bearable. Humor becomes a coping mechanism. Also the tropes help with that anticipation cushion. 之所以科幻灾难片里有这么多搞笑有趣的台词，或许是因为实际上人们没有经历过这些事情。
-
-这篇文章写在60年代，30年代sci-fi 开始，
-
-WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（这篇文章写作的时间）—种族隔离结束—Vietnam—尼克森总统—2001/9/11–2024–Palestinian genocide(started in 1948)
+之所以我们会认为这变得习以为常，因为 being **entertained** makes the situation looks bearable. Humor becomes a coping mechanism. Also the tropes help with that anticipation cushion. 之所以科幻灾难片里有这么多搞笑有趣的台词，或许是因为实际上人们没有经历过这些事情。
 
 2001 年后的科幻是用机器来抹杀的。
 
 科幻片里也有很多套路：孤胆英雄发现危险，但是警告无人响应。感觉完全是李文亮的剧本啊……虽然他没有活下来
 
+### Disaster As Spectacle
 
+ 大部分科幻电影，特别是桑塔格讨论的那个时间之前的科幻电影，不是关于科学，而是关于灾难的。（这么一想感觉儒尔凡尔纳的小说是少有的真的就是纯纯关于探险的，可能和那个时候的科技理想主义有关）这篇文章写在60年代，30年代sci-fi 开始，大致的时间线是：WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（这篇文章写作的时间）—种族隔离结束—Vietnam—尼克森总统—2001/9/11–2024–Palestinian genocide(started in 1948)
 
-## dehumanization
+科幻片不仅满足了恐怖片的欲望，也满足了战争片的需要。
+
+科幻电影是纯粹的景观，我们甚至不会有机会关心角色是怎样的
+
+## Why do we have those tropes
+
+桑塔格总结了几个因素，都是一些人们的心里因素。
+
+### Fear of dehumanization
 
 > “Besides these new anxieties about physical disaster, the prospect of universal mutilation and even annihilation, the science fiction films reflect powerful anxieties about the condition of the individual psyche.” (Sontag, p. 47)
 
-科幻故事中恐惧的还有科学怪人，科学怪人的怪物，还有丧尸。
-
-怪物是不需要被共情的。怪物比人类低贱，可以被毁灭。非人之物的革命可以是玩笑。长得不像人是primitive的，是没有主体性的，是像动物一样的。当然，这有时候甚至和眼睛的设计有关——有眼睛的角色总是让人觉得更像人。可以被拟人化的东西让我们觉得更亲近。
-
-这可能也和少数群体不被写作有关系。当时的作者和导演估计都是白男，他们对于norm的渴望和坚持，恰恰也反映在了这些电影的桥段里。
-
-这些事物是可以被抹杀的，就像哥斯拉一样。只要哥斯拉被消灭了，这个电影就让人满足了。如果电影最后没有happy ending，这个电影=not worth it. 
+科幻故事中恐惧的还有科学怪人，科学怪人的怪物，还有丧尸。怪物是不需要被共情的。怪物比人类低贱，可以被毁灭。非人之物的革命可以是玩笑。长得不像人是primitive的，是没有主体性的，是像动物一样的。当然，这有时候甚至和眼睛的设计有关——有眼睛的角色总是让人觉得更像人。可以被拟人化的东西让我们觉得更亲近。这些事物是可以被抹杀的，就像哥斯拉一样。只要哥斯拉被消灭了，这个电影就让人满足了。是的，科幻电影必须要有一个HE。如果电影最后没有happy ending，这个电影=not worth it. 
 
 对于丧尸、杀人机器的恐惧，也是对于一种去人化的恐惧。 这是科幻恐怖片里的stake——你有可能会被抹杀。恐惧来自两种：he fear of being made subjugated va the fear of being made obsolete
+
+对怪物的讨论近年已经有明显的反思，即便是主流的电影叙事也已经在追求结构“怪物”到底是什么——因为这种对异类的恐惧实际上也映射了对少数群体和非主流人类的恐惧，是一种强烈的人类中心主义。这可能也和少数群体不被写作有关系。当时的作者和导演估计都是白男，他们对于norm的渴望和坚持，恰恰也反映在了这些电影的桥段里。
+
+### Fear of individual will
+
+恐怖电影中的科学怪人往往不停人劝，使用科技制造出怪物，或者是把自己变成怪物进而带来毁灭。“One science fiction equivalent of this is the scientist, usually a member of a team, who defects to the planetary invaders because "their" science is more advanced than "ours."” (Sontag, p. 45)  三体中的叶文洁某种意义上是这种投靠人物的代表。
+
+
+
 
 
 太空歌剧——saga
 
-## Why do we have those tropes
 
 # Annotations  
 (1/24/2024, 11:02:55 AM)
@@ -54,7 +62,7 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 “Good novels rarely make good films, but excellent films are often made from poor or trivial novels.” (Sontag, p. 43) 笑死，桑塔格好真实，好小说很少做成好电影，但是好电影往往来自烂小说。
 
-“Science fiction films are not about science. They are about disaster, which is one of the oldest subjects of art. In science fiction films, disaster is rarely viewed intensively; it is always extensive.” (Sontag, p. 44) 科幻电影不是关于科学，而是关于灾难的。不过这么一想感觉儒尔凡尔纳的小说是少有的真的就是纯纯关于探险的。
+“Science fiction films are not about science. They are about disaster, which is one of the oldest subjects of art. In science fiction films, disaster is rarely viewed intensively; it is always extensive.” (Sontag, p. 44) ~~科幻电影不是关于科学，而是关于灾难的。不过这么一想感觉儒尔凡尔纳的小说是少有的真的就是纯纯关于探险的。~~
 
 “the science fiction film (like a very different contemporary genre, the Happening) is concerned with the aesthetics of destruction, with the peculiar beauties to be found in wreaking havoc, making a mess.” (Sontag, p. 44) 科幻的美学是关于摧毁的美学
 
@@ -72,15 +80,15 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 “Another kind of satisfaction these films supply is extreme moral simplification-that is to say, a morally acceptable fantasy where one can give outlet to cruel or at least amoral feelings.” (Sontag, p. 45) 在科幻电影中，道德是简单的。同时灾难化的背景提供了给“不道德”出现的机会。
 
-“Science fiction films are one of the purest forms of spectacle; that is, we are rarely inside anyone's feelings.” (Sontag, p. 45) 科幻电影是纯粹的景观，我们甚至不会有机会关心角色是怎样的
+“Science fiction films are one of the purest forms of spectacle; that is, we are rarely inside anyone's feelings.” (Sontag, p. 45) ~~科幻电影是纯粹的景观，我们甚至不会有机会关心角色是怎样的~~
 
 “Things, rather than the helpless humans, are the locus of values because we experience them, rather than people, as the sources of power. According to science fiction films, man is naked without his artifacts.” (Sontag, p. 45) 物，也就是科技产物，才是科幻中力量的中心。就像流浪地球里的行星发动机，空间站，或者是万神殿里的上载和算法。这是科幻电影和恐怖电影不同的一点——科幻电影讲述的是物品如何击溃敌人，而人，看似是共情的中心，实则是这其中的媒介。
 
 “The science fiction films are strongly moralistic. The standard message is the one about the proper, or humane, uses of science, versus the mad, obsessional use of science.” (Sontag, p. 45) The message of sci-fi film is always to show the two bladed nature of science, and tell you to choose the "good" one instead of the "bad" one.
 
-“In the horror films, we have the mad or obsessed or misguided scientist who pursues his experiments against good advice to the contrary, creates a monster or monsters, and is himself destroyed” (Sontag, p. 45) 恐怖电影中的科学怪人往往不停人劝，使用科技制造出怪物，或者是把自己变成怪物进而带来毁灭。
-
-“One science fiction equivalent of this is the scientist, usually a member of a team, who defects to the planetary invaders because "their" science is more advanced than "ours."” (Sontag, p. 45) 三体中的叶文洁某种意义上是这种投靠人物的代表。
+“In the horror films, we have the mad or obsessed or misguided scientist who pursues his experiments against good advice to the contrary, creates a monster or monsters, and is himself destroyed” (Sontag, p. 45) ~~恐怖电影中的科学怪人往往不停人劝，使用科技制造出怪物，或者是把自己变成怪物进而带来毁灭。
+~~
+~~“One science fiction equivalent of this is the scientist, usually a member of a team, who defects to the planetary invaders because "their" science is more advanced than "ours."” (Sontag, p. 45) 三体中的叶文洁某种意义上是这种投靠人物的代表。~~
 
 “In this film, both sides of the ambivalence toward scientists are given voice. Generally, for a scientific enterprise to be treated entirely sympathetically in these films, it needs the certificate of utility. Science, viewed without ambivalence, means an efficacious response to danger.” (Sontag, p. 45) 科学在电影中往往要表现出这种矛盾的状态。科学必须要有用才能让人同情。科学是一种对危机最有效的应对措施。
 
@@ -90,7 +98,7 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 “particularly in the Japanese films, but not only there, that mass trauma exists over the use of nuclear weapons and the possibility of future nuclear wars.” (Sontag, p. 46) 很多科幻电影里都有核战争的影子，或者代表核创伤的隐喻。
 
-“one detects the hunger for a "good war," which poses no moral problems, admits of no moral qualifications. The imagery of science fiction films will satisfy the most bellicose addict of war films, for a lot of the satisfactions of war films pass, untransformed, into science fiction films.” (Sontag, p. 46) 科幻片不仅满足了恐怖片的欲望，也满足了战争片的需要。
+“one detects the hunger for a "good war," which poses no moral problems, admits of no moral qualifications. The imagery of science fiction films will satisfy the most bellicose addict of war films, for a lot of the satisfactions of war films pass, untransformed, into science fiction films.” (Sontag, p. 46) ~~科幻片不仅满足了恐怖片的欲望，也满足了战争片的需要。~~
 
 “the bellicosity of science fiction films is neatly channeled into the yearning for peace, or for at least peaceful coexistence.” (Sontag, p. 46) 然而好战的同时，科幻片也往往在呼唤和平，或者至少一种和平的共存，就像三体里面和三体人一样。
 
