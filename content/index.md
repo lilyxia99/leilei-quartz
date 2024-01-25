@@ -9,11 +9,12 @@ dg-home: true
 
 # Leilei's Mind Palace
 
-I am Leilei, and I am an tactile artist and filmmaker. This is [my blog](https://www.leileixia.online), reading notes and zettlekasten, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
+I am Leilei, and I am an tactile artist and filmmaker. This is [my blog](https://www.leileixia.online), I kind of just [[Why I write my post|like writing something to an anonymous public]] . I put my reading notes and zettlekasten here, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
 
 You can find the index on the left or the bottom (if your window is small or mobile)
 
-[[All Dairies|Some of my diaries ]] I write my Dairies everyday, somehow I just [[Why I write dairies here|like writing dairies here]]. 
+
+[[All Dairies|Some of my diaries ]] I write my Dairies everyday
 
 [[Leilei's Collections]] Where I put some references, artist I have looked at or want to look at, or books I have briefly read or wanted to read
 
