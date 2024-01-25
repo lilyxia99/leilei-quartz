@@ -17,6 +17,8 @@
 [Crimes of the Future 2022](https://en.wikipedia.org/wiki/Crimes_of_the_Future_(2022_film))
 
 [[AYE, AND GOMORRAH . . .]]
+
+[[content/Learning Notes/reading-notes/THE IMAGINATION OF DISASTER|THE IMAGINATION OF DISASTER]]
 ## Sci-fi Magazine / resource
 
 [Strange Horizon](http://strangehorizons.com)
