@@ -8,13 +8,18 @@ author: Susan Sontag
 
 ## Tropes in Sci-fi
 
-科幻一方面让我们从平庸中脱离，一方面让更无法忍受之物变得习惯。Being entertained makes the situation looks bearable. Humor becomes a coping mechanism. Also the tropes help with that anticipation cushion. 之所以科幻灾难片里有这么多搞笑有趣的台词，或许是因为实际上人们没有经历过这些事情。
+科幻一方面让我们从平庸中脱离，因为在灾难面前，生活中鸡毛蒜皮的琐事和责任都变得无足轻重。一方面让更无法忍受之物变得习惯。一个星球爆炸也不会让人觉得惊奇，因为这只是inconceivable。
+
+之所以我们会认为这变得习以为常，因为being entertained makes the situation looks bearable. Humor becomes a coping mechanism. Also the tropes help with that anticipation cushion. 之所以科幻灾难片里有这么多搞笑有趣的台词，或许是因为实际上人们没有经历过这些事情。
 
 这篇文章写在60年代，30年代sci-fi 开始，
 
 WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（这篇文章写作的时间）—种族隔离结束—Vietnam—尼克森总统—2001/9/11–2024–Palestinian genocide(started in 1948)
 
+2001 年后的科幻是用机器来抹杀的。
+
 科幻片里也有很多套路：孤胆英雄发现危险，但是警告无人响应。感觉完全是李文亮的剧本啊……虽然他没有活下来
+
 
 
 ## dehumanization
@@ -29,9 +34,10 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 这些事物是可以被抹杀的，就像哥斯拉一样。只要哥斯拉被消灭了，这个电影就让人满足了。如果电影最后没有happy ending，这个电影=not worth it. 
 
-对于丧尸、杀人机器的恐惧，也是对于一种去人化的恐惧。 这是科幻恐怖片里的stake——你有可能会被抹杀。
+对于丧尸、杀人机器的恐惧，也是对于一种去人化的恐惧。 这是科幻恐怖片里的stake——你有可能会被抹杀。恐惧来自两种：he fear of being made subjugated va the fear of being made obsolete
 
 
+太空歌剧——saga
 
 ## Why do we have those tropes
 
@@ -62,7 +68,7 @@ WW1—1930–1945（WW2）–1948（UN成立）—太空冒险出现–1965（�
 
 “Recent science fiction films have a decided grimness, bolstered by their much greater degree of visual credibility, which contrasts strongly with the older films.” (Sontag, p. 44) 近来的科幻电影，在视觉风格的变化下，变得更加黑暗
 
-“Fantasy is that it releases one from normal obligations.” (Sontag, p. 45) 在灾难面前，生活中鸡毛蒜皮的琐事和责任都变得无足轻重。
+“Fantasy is that it releases one from normal obligations.” (Sontag, p. 45) ~~在灾难面前，生活中鸡毛蒜皮的琐事和责任都变得无足轻重。~~
 
 “Another kind of satisfaction these films supply is extreme moral simplification-that is to say, a morally acceptable fantasy where one can give outlet to cruel or at least amoral feelings.” (Sontag, p. 45) 在科幻电影中，道德是简单的。同时灾难化的背景提供了给“不道德”出现的机会。
 
