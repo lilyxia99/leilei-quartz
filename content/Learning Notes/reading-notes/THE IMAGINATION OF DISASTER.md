@@ -2,6 +2,7 @@
 time: 2024-01-24
 tags:
   - sci-fi
+  - reading-notes
 author: Susan Sontag
 ---
 # Review

@@ -13,11 +13,11 @@ I am Leilei, and I am an tactile artist and filmmaker. This is [my blog](https:/
 
 You can find the index on the left or the bottom (if your window is small or mobile)
 
-[[All Dairies|Some of my diaries ]]
+[[All Dairies|Some of my diaries ]] I write my Dairies everyday, somehow I just [[Why I write dairies here|like writing dairies here]]. 
 
-[[Leilei's Collections]]
+[[Leilei's Collections]] Where I put some references, artist I have looked at or want to look at, or books I have briefly read or wanted to read
 
-[[Learning Notes Index]]
+[[Learning Notes Index]] reading reviews or technique notes. 
 
 [[Tags]]
 
