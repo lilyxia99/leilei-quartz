@@ -7,6 +7,7 @@ export interface ColorScheme {
   secondary: string
   tertiary: string
   highlight: string
+  quote:string
 }
 
 export interface Theme {
@@ -43,6 +44,7 @@ ${stylesheet.join("\n\n")}
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
+  --quote: ${theme.colors.lightMode.quote};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
@@ -58,6 +60,7 @@ ${stylesheet.join("\n\n")}
   --secondary: ${theme.colors.darkMode.secondary};
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
+  --quote: ${theme.colors.darkMode.quote};
 }
 `
 }

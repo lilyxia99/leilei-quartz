@@ -28,6 +28,7 @@ const config: QuartzConfig = {
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          quote:"#204761",//this is a blue color
         },
         darkMode: {
           light: "#242b23",
@@ -38,6 +39,7 @@ const config: QuartzConfig = {
           secondary: "#a4e655",
           tertiary: "#ffa230",
           highlight: "rgba(143, 159, 169, 0.15)",
+          quote:"#73c7de",
         },
       },
     },
