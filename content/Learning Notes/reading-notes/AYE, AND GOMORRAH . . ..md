@@ -12,4 +12,4 @@ Spacers in this setting is **genderless**, they have to be castrated in order to
 
 虽然总给我一种僧侣的感觉。
 
-Eugentic
+Eugenic 
