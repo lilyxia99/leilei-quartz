@@ -57,7 +57,7 @@ author: Susan Sontag
 
 “with radiation, or has built a machine to communicate with beings from other planets or to transport him to other places or times.” (Sontag, p. 43) 时间穿越剧本
 
-“For example: the temperature of the earth is becoming too high or too low to support life, or the earth is cracking in two, or it is gradually being blanketed by lethal fallout.” (Sontag, p. 43) 这不是流浪地球吗
+“For example: the temperature of the earth is becoming too high or too low to support life, or the earth is cracking in two, or it is gradually being blanketed by lethal fallout.” (Sontag, p. 43) 这不是[[流浪地球]]吗
 
 “I propose to discuss science fiction films (the present period began in 1950 and continues, considerably abated, to this day) as an independent sub-genre, without reference to the novels from which, in many cases, they were adapted. For while novel and film may share the same plot, the fundamental difference between the resources of the novel and the film makes them quite dissimilar.” (Sontag, p. 43) 科幻电影和小说还不太一样，因为电影，特别是院线电影，要求它必须要拥有一定的戏剧张力。
 

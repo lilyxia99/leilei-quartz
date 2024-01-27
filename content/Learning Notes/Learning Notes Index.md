@@ -1,4 +1,8 @@
 
+What I try to remind myself
+
+[[【经验教训】]]
+
 For tech related notes, refer to this tag #tech-notes  I sometimes update this list a bit late, and might not include all of it
 
 [[React]]
