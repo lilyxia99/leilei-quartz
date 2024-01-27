@@ -25,6 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({title: "Menu",folderDefaultState: "collapsed",useSavedState: true,})),
     Component.DesktopOnly(Component.TableOfContents()),
+    
     //Component.DesktopOnly(Component.Comments()),
   ],
   right: [

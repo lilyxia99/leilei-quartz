@@ -34,6 +34,7 @@ button#toc {
 
   &.collapsed > .overflow::after {
     opacity: 0;
+    //display:none;
   }
 
   & ul {
