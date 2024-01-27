@@ -16,6 +16,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
     Component.MobileOnly(Component.TableOfContents()),
+    //Component.Comments(),
     //Component.MobileOnly(Component.Comments()),
   ],
   left: [
@@ -26,11 +27,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({title: "Menu",folderDefaultState: "collapsed",useSavedState: true,})),
     Component.DesktopOnly(Component.TableOfContents()),
     
-    //Component.DesktopOnly(Component.Comments()),
   ],
   right: [
     Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 50,},globalGraph:{repelForce: 0.8,linkDistance: 50,}}),
     Component.Backlinks(),
+    
     //Component.DesktopOnly(Component.RecentNotes()),
   ],
 }

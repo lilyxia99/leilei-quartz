@@ -109,7 +109,7 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 
 - [x] 一个component
 - [x] 一个component可以输入内容
-- [ ] 一个component可用script，识别inbox里的变量
+- [x] 一个component可用script，识别inbox里的变量
 - [ ] 添加文字到当前文档里
 - [ ] 用footnote syntax的方式实现评论功能
 
