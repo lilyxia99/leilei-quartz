@@ -109,11 +109,9 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 
 - [x] 一个component
 - [x] 一个component可以输入内容
-- [ ] 一个component可以识别当前文件
-- [ ] 一个component可以识别当前文件的 ## Comment 标题
-- [ ] 一个component可以识别当前文件并且添加文字到当前文档里
-- [ ] 一个component可以识别当前文件并且添加文字到当前文档的 Comment 标题底下
-- [ ] 一个component可以输入内容，识别当前文件，并且添加之前输入的内容到当前文档的 Comment 标题底下
+- [ ] 一个component可用script，识别inbox里的变量
+- [ ] 添加文字到当前文档里
+- [ ] 用footnote syntax的方式实现评论功能
 
 [Isso](https://isso-comments.de/docs/guides/quickstart/)
 找到这个，感觉可以试试看

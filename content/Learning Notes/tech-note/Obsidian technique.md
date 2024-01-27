@@ -8,3 +8,12 @@
 [[Git| Obsidian Git]]
 
 [如何quote有个具体的句子](https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note)
+
+## testing area
+测试一下foot note[^1]
+
+You can also use inline footnotes. [^note]
+
+[^1]:this is an inline footnote right
+[^note]: let's try
+
