@@ -1,9 +1,19 @@
+---
+tags:
+  - "#tech-notes"
+  - reading-notes
+---
+
 
 What I try to remind myself
 
 [[【经验教训】]]
 
-For tech related notes, refer to this tag #tech-notes  I sometimes update this list a bit late, and might not include all of it
+## Tech Notes
+
+For tech related notes, refer to this tag [[tags/tech-notes]] I sometimes update this list a bit late, and might not include all of it
+
+<iframe src="https://leileixia.online/tags/tech-notes" width="100%" height="400px"></iframe>
 
 [[React]]
 
@@ -15,7 +25,10 @@ For tech related notes, refer to this tag #tech-notes  I sometimes update this l
 
 [[Quartz]]
 
-For my reading reviews and reading-notes, refer to the tag #reading-notes I sometimes update this list a little late
+## Reading-nots
+For my reading reviews and reading-notes, refer to the tag  [[tags/reading-notes]] I sometimes update this list a little late
+
+<iframe src="https://leileixia.online/tags/reading-notes" width="100%" height="400px"></iframe>
 
 [[The Bioethics of Enhancement-Transhumanism, Disability, and Biopolitics]]
 
