@@ -5,6 +5,7 @@ tags:
   - transhumanism
   - posthuman
   - sci-fi
+  - book
 dg-publish: true
 ---
 
