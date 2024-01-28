@@ -9,6 +9,16 @@
 
 [如何quote有个具体的句子](https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note)
 
+<iframe src="https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note" width="100%" height="400px"></iframe>
+
+网站嵌入：
+
+```html
+<iframe src="" width="100%" height="400px"></iframe>
+
+```
+
+
 ## testing area
 测试一下foot note[^1]
 
