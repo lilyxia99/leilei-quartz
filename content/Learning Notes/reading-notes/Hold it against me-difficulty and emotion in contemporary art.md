@@ -9,5 +9,7 @@ tags:
 ### Artworks or reference mentioned
 
 [[The Electronic Disturbance Theater]]
-
 [[Untitled (Hujar Dead)]]
+[[Genesis P-Orridge]]
+[[Ron Athey]]
+[[VANESSA BEECROFT]]
