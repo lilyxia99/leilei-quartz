@@ -18,7 +18,9 @@
 
 [[AYE, AND GOMORRAH . . .]]
 
-[[content/Learning Notes/reading-notes/THE IMAGINATION OF DISASTER|THE IMAGINATION OF DISASTER]]
+[[THE IMAGINATION OF DISASTER]]
+
+[[The Story of Your Life & Arrival]]
 ## Sci-fi Magazine / resource
 
 [Strange Horizon](http://strangehorizons.com)

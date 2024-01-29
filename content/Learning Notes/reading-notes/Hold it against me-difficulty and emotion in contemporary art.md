@@ -19,17 +19,31 @@ tags:
 
 ## Review
 
+### The more intimate, the more difficult
+
 The author missed a performance of Adrian Howells, and The author's seek to care and forgiveness is not to make Howell feel better, but **to make the author feel better**. It also becomes part of the work of "Held"--as Adrian Howells's work is about intimacy and care-taking. 
 
 Probably out of an attempt to make themselves feel better, started to think maybe they are subconsciously trying to avoid this "hard performance", and started thinking of how this seemingly tender and intimate performance could be challenging. It's the emotion, they argued, that is more challenging than blood or nudity. 
 
 The blood and attack might not be even more challenging than intimacy. Intimacy, care and trust is what's even more dangerous. The more tactile is the more intrusive, the more spectacle could be the more detached.
 
- It's more provoking when an artworks stimulates feeling rather than just letting it plainly flows. Facing this kind of works, critic could be very biased and even frightened, because it's uncool to be "moved". Taste is not only about the appreciation of art. It's essentially inter-personal relationships, and both are so at stake for critics:
+情感会让一个作品对某一个人来说变得容易，对另一个人来说变得很难吗？当然会的吧，这都是因为我们太在意其他人的看法了。情感里的一部分或许就是来自于人际关系。 It's more provoking when an artworks stimulates feeling rather than just letting it plainly flows. Facing this kind of works, critic could be very biased  and even frightened, because it's uncool to be "moved". Taste is not only about the appreciation of art. It's essentially inter-personal relationships, and both are so at stake for critics:
 
->it can be hard to have intense feelings in museums when those feelings go against social protocol. In an art gallery, anger, tears, arousal, and certain kinds of laughter may appear to signal the disintegration of composure, naïveté, and a lack of class. In such spaces, as much as we are encouraged to be moved by works of art, we are also encouraged to **remain cool.**..The museum as a whole, as an ideological home, does not welcome us equally.
+>it can be hard to have intense feelings in museums when those feelings go against social protocol. In an art gallery, anger, tears, arousal, and certain kinds of laughter may appear to signal the disintegration of composure, **naïveté, and a lack of class**. In such spaces, as much as we are encouraged to be moved by works of art, we are also encouraged to **remain cool.**..The museum as a whole, as an ideological home, does not welcome us equally.
 
-Adrian Howells is challenging in its contradictory intimacy and publicness. 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示. 这种又公共又亲密的体验是一种extimate，某种意义上约炮或者搭子是否也是这样？  我们都知道这是**灰姑娘的水晶鞋**，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。 因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？
+Adrian Howells is challenging in its contradictory intimacy and publicness. 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示. 这种又公共又亲密的体验是一种**extimate**，某种意义上约炮或者搭子是否也是这样？艺术家或者观众在这里变成了如同性工作者一样的存在，然而性工作者的行为本身就是被边缘化的。
+
+另一方面让这样的体验变得艰难的，是面对亲密离开时候的感伤。我们都知道这是**灰姑娘的水晶鞋**，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。 因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？
+
+The author mentions that people have a far higher standard for contemporary artworks than films. It's okay to be shocked, grossed, moved by films, but rare and uncomfortable if you feel the same in a gallery. 例如拉斯冯提尔的作品就是非常“难看”，但是不妨他依旧混得风生水起。Maggie Nelson 评价拉斯冯提尔的作品是不可原谅而且自我正当化的。拉斯冯提尔的电影出名，并非是出自别的事情，而**正是因为它的残酷**。_它把 "事情的真相 "说成是现实主义，说成是真知灼见，而实际上却是纯粹的意识形态。_ 单纯地呈现恶，在揭露的同时，也在将其**正当化，平凡化，景观化，更加地常态化**。[^正是因为它的残酷]
+
+## To argue for literalness
+
+>There’s so much art out there that doesn’t read. The information is so oblique that you can’t get it unless there’s a library next to it.
+
+this is so true. there r so many works that relies on the wall text instead of its actual affect, and it turns into an insider work of which the significance can only be understood by people who are familiar with art history. 很多艺术制造某种只有小圈子才能get到的黑话和玩笑，只是在铸造新的长城。并没有起到艺术应有的作用。
+
+在当代艺术圈里，似乎某种直白的表达是不被待见的。art criticism has formed a solid bias--difficulty to understand = information not available. = cool = anti-emotional. 这种不可解读性被直接售卖为艺术[^不可解读性] 。
 
 ## Annotations  
 (1/28/2024, 4:39:47 PM)
@@ -64,30 +78,30 @@ Adrian Howells is challenging in its contradictory intimacy and publicness. 明�
 
 “this home were a bordello offering not the sexual excitement of the mistress but the grounding companionship of the wife.” (Doyle, 2013, p. 6)
 
-“how overdetermined that scene of domestic intimacy is for many of us. Cairns therefore describes the artist as practicing an ambivalent form of intimacy—a fundamentally queer occupation of domestic, personal, feminine, and reproductive scenes in which sites associated with privacy and safety become instead scenes of exposure” (Doyle, 2013, p. 6) 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示
+“how overdetermined that scene of domestic intimacy is for many of us. Cairns therefore describes the artist as practicing an ambivalent form of intimacy—a fundamentally queer occupation of domestic, personal, feminine, and reproductive scenes in which sites associated with privacy and safety become instead scenes of exposure” (Doyle, 2013, p. 6) ~~明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示~~
 
 “Lauren Berlant describes these kinds of spaces as “intimate publics”; Tavia Nyong’o uses the term extimate to suggest how they can fail, leaving us feeling more alone than ever.5” (Doyle, 2013, p. 6) ~~这种又公共又亲密的体验是一种extimate，某种意义上约炮或者搭子是否也是这样？  
 我们都知道这是灰姑娘的水晶鞋，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。  ~~
   
 ~~因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？~~
 
-“what makes a work hard for one person and easy for another.” (Doyle, 2013, p. 6) 情感会让一个作品对某一个人来说变得容易，对另一个人来说变得很难吗？当然会的吧，这都是因为我们太在意其他人的看法了。情感里的一部分或许就是来自于人际关系。
+“what makes a work hard for one person and easy for another.” (Doyle, 2013, p. 6) ~~情感会让一个作品对某一个人来说变得容易，对另一个人来说变得很难吗？当然会的吧，这都是因为我们太在意其他人的看法了。情感里的一部分或许就是来自于人际关系。~~
 
 “one might ask why we are prepared to accept the value of feeling bad when we read a novel, for example, but are less prepared to do so when we go to a museum. Why is it easier for us to watch an upsetting movie than it is to keep company with contemporary art that makes similar emotional demands on us? Why should the idea of attending Howells’s performance be more unsettling than sitting through a movie like Secrets and Lies (1996) or Steel Magnolias (1989)?” (Doyle, 2013, p. 7) Is that true? is that true that we are less prepared to be disappointed by contemporary art? I don't think so.
 
-“Maggie Nelson describes that director’s cruelty as both unforgiving and self-righteous:” (Doyle, 2013, p. 7) Maggie Nelson 评价拉斯冯提尔的作品是不可原谅而且自我正当化的。
+“Maggie Nelson describes that director’s cruelty as both unforgiving and self-righteous:” (Doyle, 2013, p. 7) ~~Maggie Nelson 评价拉斯冯提尔的作品是不可原谅而且自我正当化的。~~
 
-“Thus this kind of work accrues cultural value not in spite of its cruelty but because of it: it rationalizes the brutality of the status quo. It presents “the way things are” as realism, as insight, when in fact it is pure ideology.” (Doyle, 2013, p. 8) 拉斯冯提尔的电影出名，并非是出自别的事情，而正是因为它的残酷。_它把 "事情的真相 "说成是现实主义，说成是真知灼见，而实际上却是纯粹的意识形态。_ 单纯地呈现恶，在揭露的同时，也在将其正当化，平凡化，景观化，更加地常态化。
+[^正是因为它的残酷]:“Thus this kind of work accrues cultural value not in spite of its cruelty but because of it: it rationalizes the brutality of the status quo. It presents “the way things are” as realism, as insight, when in fact it is pure ideology.” (Doyle, 2013, p. 8) ~~拉斯冯提尔的电影出名，并非是出自别的事情，而正是因为它的残酷。_它把 "事情的真相 "说成是现实主义，说成是真知灼见，而实际上却是纯粹的意识形态。_ 单纯地呈现恶，在揭露的同时，也在将其正当化，平凡化，景观化，更加地常态化。~~
 
-“Lucy Lippard expresses sympathy with a similar complaint lodged by Wojnarowicz. Writing about the contrast between the “literalness” of his work and the opacity of the work of his contemporaries, he observes, “There’s so much art out there that doesn’t read. The information is so oblique that you can’t get it unless there’s a library next to it.” (Doyle, 2013, p. 8) this is so true. there r so many works that relies on the wall text instead of its actual affect.
+“Lucy Lippard expresses sympathy with a similar complaint lodged by Wojnarowicz. Writing about the contrast between the “literalness” of his work and the opacity of the work of his contemporaries, he observes, “~~There’s so much art out there that doesn’t read. The information is so oblique that you can’t get it unless there’s a library next to it.~~” (Doyle, 2013, p. 8) ~~this is so true. there r so many works that relies on the wall text instead of its actual affect.
+~~
+“Creating an elite in the art world, in terms of how one gets the joke or can understand the information, is no better than what happens in the larger social structure.” (Doyle, 2013, p. 8) ~~制造某种只有小圈子才能get到的黑话和玩笑，只是在铸造新的长城。并没有起到艺术应有的作用。~~
 
-“Creating an elite in the art world, in terms of how one gets the joke or can understand the information, is no better than what happens in the larger social structure.” (Doyle, 2013, p. 8) 制造某种只有小圈子才能get到的黑话和玩笑，只是在铸造新的长城。并没有起到艺术应有的作用。
+“why the fear that it is uncool to show feelings on surface, to explain one’s work in the titles or captions, seems so universally internalized.”” (Doyle, 2013, p. 8) ~~在当代艺术圈里，似乎某种直白的表达是不被待见的。~~
 
-“why the fear that it is uncool to show feelings on surface, to explain one’s work in the titles or captions, seems so universally internalized.”” (Doyle, 2013, p. 8) 在当代艺术圈里，似乎某种直白的表达是不被待见的。
+“Art criticism has aligned one form of difficulty (in which a work’s meaning is not readily available to the viewer) with a regulation of affect (in which opacity, the difficulty of meaning, is packaged as cool, distanced, and antiemotional).” (Doyle, 2013, p. 8) ~~art criticism has formed a solid bias--difficulty to understand = information not available. = cool = anti-emotional~~
 
-“Art criticism has aligned one form of difficulty (in which a work’s meaning is not readily available to the viewer) with a regulation of affect (in which opacity, the difficulty of meaning, is packaged as cool, distanced, and antiemotional).” (Doyle, 2013, p. 8) art criticism has formed a solid bias--difficulty to understand = information not available. = cool = anti-emotional
-
-“sell this marriage of the impenetrable and the unmovable as Art” (Doyle, 2013, p. 8) 这种不可解读性被直接售卖为艺术。
+[^不可解读性]: “sell this marriage of the impenetrable and the unmovable as Art” (Doyle, 2013, p. 8) ~~这种不可解读性被直接售卖为艺术。~~
 
 “The moral panic of the decade led to the adoption of an antiobscenity clause in the administration of nea funding (eventually found unconstitutional) that prohibited the use of federal funding to support work that depicted homosexuality or that might offend religious viewers (for starters).” (Doyle, 2013, p. 9) 90年代的时候，NEA 赞助的资金不会赞助描写同性恋或者可能冒犯宗教观众的作品。虽然现在不是这样，但是这确实也产生了一些影响。
 
