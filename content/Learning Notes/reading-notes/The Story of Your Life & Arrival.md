@@ -44,3 +44,5 @@ Alien are designed for us not to feel for them, but we kind of feel for them. Th
 Atmosphere in the spaceship is viscus 
 
 Heptapod has giant 
+
+What individualism would look like in a society that everyone can 
