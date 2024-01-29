@@ -29,3 +29,13 @@ For heptapods, one has to know the beginning and ending state in order to initia
 Louise has the time and patience. 
 
 Who are the characters, 
+
+感觉这个电影总是不可避免地变成了一种博弈
+
+game theory
+
+
+zero-sum theory
+
+Game theory is all about communication
+
