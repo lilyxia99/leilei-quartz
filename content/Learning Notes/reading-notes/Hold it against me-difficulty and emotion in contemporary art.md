@@ -19,11 +19,17 @@ tags:
 
 ## Review
 
-The author missed a performance of 
+The author missed a performance of Adrian Howells, and The author's seek to care and forgiveness is not to make Howell feel better, but **to make the author feel better**. It also becomes part of the work of "Held"--as Adrian Howells's work is about intimacy and care-taking. 
 
-Adrian Howells's work is about intimacy and care-taking while the fact that the author was late and still seek that care and forgiveness, is not to make Howell feel better, but **to make the author feel better**. It also becomes part of the work of "Held"
+Probably out of an attempt to make themselves feel better, started to think maybe they are subconsciously trying to avoid this "hard performance", and started thinking of how this seemingly tender and intimate performance could be challenging. It's the emotion, they argued, that is more challenging than blood or nudity. 
 
-critic could be very biased.
+The blood and attack might not be even more challenging than intimacy. Intimacy, care and trust is what's even more dangerous. The more tactile is the more intrusive, the more spectacle could be the more detached.
+
+ It's more provoking when an artworks stimulates feeling rather than just letting it plainly flows. Facing this kind of works, critic could be very biased and even frightened, because it's uncool to be "moved". Taste is not only about the appreciation of art. It's essentially inter-personal relationships, and both are so at stake for critics:
+
+>it can be hard to have intense feelings in museums when those feelings go against social protocol. In an art gallery, anger, tears, arousal, and certain kinds of laughter may appear to signal the disintegration of composure, naïveté, and a lack of class. In such spaces, as much as we are encouraged to be moved by works of art, we are also encouraged to **remain cool.**..The museum as a whole, as an ideological home, does not welcome us equally.
+
+Adrian Howells is challenging in its contradictory intimacy and publicness. 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示. 这种又公共又亲密的体验是一种extimate，某种意义上约炮或者搭子是否也是这样？  我们都知道这是**灰姑娘的水晶鞋**，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。 因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？
 
 ## Annotations  
 (1/28/2024, 4:39:47 PM)
@@ -38,13 +44,13 @@ critic could be very biased.
 
 “by trekking down there anyway to solicit his forgiveness, I managed to extract the caretaking that Howells offered within the boundaries of Held but outside the boundaries of the event. I insisted on getting what I thought the artist had promised me, but on my own terms, and after blowing him off. (Of course, behind this self-analysis are years of therapy. The responsibility to each other’s time is one of the first things one works through with an analyst, especially if one has missed an appointment or is habitually late.)” (Doyle, 2013, p. 3) ~~Howells's work is about intimacy and care-taking while the fact that the author was late and still seek that care and forgiveness, is not to make Howell feel better, but **to make the author feel better**. It also becomes part of the work of "Held"~~
 
-“I was cavalier about my own limits and dismissive of others’, as if it were a moral failing to be averse to the sight of blood or be uncomfortable with the idea of live performances engaging in acts that look (and sometimes are) sexual. Howells showed me how deluded I’d been: the mere idea of certain kinds of performance provoked in me a defensive need to assert control over my place in the picture. As a spectator to performance art, I might have a high tolerance for blood, nudity, and noise, but I seem to have a lower tolerance for work engaged with more ordinary forms of relational intimacy, for the things that “feel” like life and therefore cut too close.” (Doyle, 2013, p. 4) The blood and attack might not be even more challenging than intimacy. Intimacy, care and trust is what's even more dangerous. The more tactile is the more intrusive, the more spectacle could be the more detached.
+“I was cavalier about my own limits and dismissive of others’, as if it were a moral failing to be averse to the sight of blood or be uncomfortable with the idea of live performances engaging in acts that look (and sometimes are) sexual. Howells showed me how deluded I’d been: the mere idea of certain kinds of performance provoked in me a defensive need to assert control over my place in the picture. As a spectator to performance art, I might have a high tolerance for blood, nudity, and noise, but I seem to have a lower tolerance for work engaged with more ordinary forms of relational intimacy, for the things that “feel” like life and therefore cut too close.” (Doyle, 2013, p. 4) ~~The blood and attack might not be even more challenging than intimacy. Intimacy, care and trust is what's even more dangerous. The more tactile is the more intrusive, the more spectacle could be the more detached.~~
 
-“Emotion can make our experience of art harder, but it also makes that experience more interesting. It may make things harder because the work provokes unpleasant or painful feelings.” (Doyle, 2013, p. 4) It's more provoking when an artworks stimulates feeling rather than just letting it plainly flows.
+“Emotion can make our experience of art harder, but it also makes that experience more interesting. It may make things harder because the work provokes unpleasant or painful feelings.” (Doyle, 2013, p. 4) ~~It's more provoking when an artworks stimulates feeling rather than just letting it plainly flows~~.
 
 “For all the ways that emotion animates the way we talk about art—being “carried away” or “moved” by the beauty of a painting, for example—it can be hard to have intense feelings in museums when those feelings go against social protocol. In an art gallery, anger, tears, arousal, and certain kinds of laughter may appear to signal the disintegration of composure, naïveté, and a lack of class. In such spaces, as much as we are encouraged to be moved by works of art, we are also encouraged to remain cool” (Doyle, 2013, p. 4)
 
-“questions of aesthetic judgment are questions of taste and that they are historically and socially conditioned.2 They reflect and reproduce the values of a class. What you enjoy, how you enjoy it, and how you express that enjoyment can reveal a lot about who you are and where you come from” (Doyle, 2013, p. 5) Taste is not only about the appreciation of art. It's essentially inter-personal relationships.
+“questions of aesthetic judgment are questions of taste and that they are historically and socially conditioned.2 They reflect and reproduce the values of a class. What you enjoy, how you enjoy it, and how you express that enjoyment can reveal a lot about who you are and where you come from” (Doyle, 2013, p. 5) ~~Taste is not only about the appreciation of art. It's essentially inter-personal relationships~~.
 
 “Many find themselves at odds with a world in which appearing to be cool and aloof is the mark of sophistication.” (Doyle, 2013, p. 5) 确实，在美术馆里保持高冷才会受到尊敬，即便是喜欢的作品也得表现地卓尔不群。
 
@@ -60,10 +66,10 @@ critic could be very biased.
 
 “how overdetermined that scene of domestic intimacy is for many of us. Cairns therefore describes the artist as practicing an ambivalent form of intimacy—a fundamentally queer occupation of domestic, personal, feminine, and reproductive scenes in which sites associated with privacy and safety become instead scenes of exposure” (Doyle, 2013, p. 6) 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示
 
-“Lauren Berlant describes these kinds of spaces as “intimate publics”; Tavia Nyong’o uses the term extimate to suggest how they can fail, leaving us feeling more alone than ever.5” (Doyle, 2013, p. 6) 这种又公共又亲密的体验是一种extimate，某种意义上约炮或者搭子是否也是这样？  
-我们都知道这是灰姑娘的水晶鞋，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。  
+“Lauren Berlant describes these kinds of spaces as “intimate publics”; Tavia Nyong’o uses the term extimate to suggest how they can fail, leaving us feeling more alone than ever.5” (Doyle, 2013, p. 6) ~~这种又公共又亲密的体验是一种extimate，某种意义上约炮或者搭子是否也是这样？  
+我们都知道这是灰姑娘的水晶鞋，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。  ~~
   
-因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？
+~~因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？~~
 
 “what makes a work hard for one person and easy for another.” (Doyle, 2013, p. 6) 情感会让一个作品对某一个人来说变得容易，对另一个人来说变得很难吗？当然会的吧，这都是因为我们太在意其他人的看法了。情感里的一部分或许就是来自于人际关系。
 
