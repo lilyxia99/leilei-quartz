@@ -21,7 +21,7 @@ tags:
 
 The author missed a performance of 
 
-Howells's work is about intimacy and care-taking while the fact that the author was late and still seek that care and forgiveness, is not to make Howell feel better, but **to make the author feel better**. It also becomes part of the work of "Held"
+Adrian Howells's work is about intimacy and care-taking while the fact that the author was late and still seek that care and forgiveness, is not to make Howell feel better, but **to make the author feel better**. It also becomes part of the work of "Held"
 
 critic could be very biased.
 
