@@ -60,7 +60,7 @@ Dominguez的作品不仅仅是作品本身，也包括外界的反应以及艺�
 
 “Howells’s work maximizes the possibilities of what he describes as “accelerated intimacy.” He has explored the contours of confession and autobiography in performances that rehearse the most painful and embarrassing moments in his history for small audiences, and sometimes audiences of one.” (Doyle, 2013, p. 2)
 
-“Apparently I couldn’t inhabit the structure of that encounter without being overwhelmed—by what, though?” (Doyle, 2013, p. 3)
+“Apparently I couldn’t inhabit the structure of that encounter without being overwhelmed—by what, though?” (Doyle, 2013, p. 3) 
 
 “What happens at the end of the appointment? I was attracted enough to the idea to schedule the appointment but disturbed enough that I made it impossible for me to honor it. In doing so, I subconsciously preempted the betrayal I expected, for the experience of Held would feel either very empty and disappointing or very full and disappointing. I had reacted badly to what Jon Cairns describes as the “confusing context of ‘staged’ intimacy” in which Howells works.” (Doyle, 2013, p. 3)
 
@@ -74,7 +74,7 @@ Dominguez的作品不仅仅是作品本身，也包括外界的反应以及艺�
 
 “questions of aesthetic judgment are questions of taste and that they are historically and socially conditioned.2 They reflect and reproduce the values of a class. What you enjoy, how you enjoy it, and how you express that enjoyment can reveal a lot about who you are and where you come from” (Doyle, 2013, p. 5) ~~Taste is not only about the appreciation of art. It's essentially inter-personal relationships~~.
 
-“Many find themselves at odds with a world in which appearing to be cool and aloof is the mark of sophistication.” (Doyle, 2013, p. 5) 确实，在美术馆里保持高冷才会受到尊敬，即便是喜欢的作品也得表现地卓尔不群。
+“Many find themselves at odds with a world in which appearing to be cool and aloof is the mark of sophistication.” (Doyle, 2013, p. 5) 确实，在美术馆里保持高冷才会受到尊敬，即便是喜欢的作品也得表现地卓尔不群。 ^68aab3
 
 “The museum as a whole, as an ideological home, does not welcome us equally.”” (Doyle, 2013, p. 5)
 

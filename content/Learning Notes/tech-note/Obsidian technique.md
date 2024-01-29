@@ -3,7 +3,7 @@
 ## testing area
 测试一下foot note[^1]
 
-You can also use inline footnotes. [^note
+You can also use inline footnotes. [^note]
 
 ## Technique
 
