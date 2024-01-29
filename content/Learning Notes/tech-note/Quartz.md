@@ -115,3 +115,7 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 
 [Isso](https://isso-comments.de/docs/guides/quickstart/)
 找到这个，感觉可以试试看
+
+## footnote function
+
+enable the footnote for the website to link to specific paragraph

@@ -1,5 +1,11 @@
 #obsidian #tech-notes 
 
+## testing area
+测试一下foot note[^1]
+
+You can also use inline footnotes. [^note
+
+## Technique
 
 网站嵌入：
 
@@ -21,10 +27,7 @@
 <iframe src="https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note" width="100%" height="400px"></iframe>
 
 
-## testing area
-测试一下foot note[^1]
 
-You can also use inline footnotes. [^note]
 
 [^1]:this is an inline footnote right
 [^note]: let's try
