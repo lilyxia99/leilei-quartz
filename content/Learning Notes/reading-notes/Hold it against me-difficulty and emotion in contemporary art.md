@@ -31,7 +31,7 @@ The blood and attack might not be even more challenging than intimacy. Intimacy,
 
 >it can be hard to have intense feelings in museums when those feelings go against social protocol. In an art gallery, anger, tears, arousal, and certain kinds of laughter may appear to signal the disintegration of composure, **naïveté, and a lack of class**. In such spaces, as much as we are encouraged to be moved by works of art, we are also encouraged to **remain cool.**..The museum as a whole, as an ideological home, does not welcome us equally.
 
-Adrian Howells is challenging in its contradictory intimacy and publicness. 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示. 这种又公共又亲密的体验是一种**extimate**，某种意义上约炮或者搭子是否也是这样？艺术家或者观众在这里变成了如同性工作者一样的存在，然而性工作者的行为本身就是被边缘化的。
+Adrian Howells is challenging in its contradictory intimacy and publicness. 明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示.[^明明家庭是一个温馨私密的空间]  这种又公共又亲密的体验是一种**extimate**，某种意义上约炮或者搭子是否也是这样？艺术家或者观众在这里变成了如同性工作者一样的存在，然而性工作者的行为本身就是被边缘化的。
 
 另一方面让这样的体验变得艰难的，是面对亲密离开时候的感伤。我们都知道这是**灰姑娘的水晶鞋**，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。 因为我们依赖的是一种外界的给予，而非我们自身的力量和勇气吧。如果存在和非存在都是持续存在，而非二元对立的时候，这种分离的焦虑是不是就会消失呢？
 
@@ -43,8 +43,13 @@ The author mentions that people have a far higher standard for contemporary artw
 
 this is so true. there r so many works that relies on the wall text instead of its actual affect, and it turns into an insider work of which the significance can only be understood by people who are familiar with art history. 很多艺术制造某种只有小圈子才能get到的黑话和玩笑，只是在铸造新的长城。并没有起到艺术应有的作用。
 
-在当代艺术圈里，似乎某种直白的表达是不被待见的。art criticism has formed a solid bias--difficulty to understand = information not available. = cool = anti-emotional. 这种不可解读性被直接售卖为艺术[^不可解读性] 。
+在当代艺术圈里，似乎某种直白的表达是不被待见的。art criticism has formed a solid bias--difficulty to understand = information not available. = cool = anti-emotional. 这种不可解读性被直接售卖为艺术[^不可解读性] 
 
+90年代的时候，NEA 赞助的资金不会赞助描写同性恋或者可能冒犯宗教观众的作品。虽然现在不是这样，但是这确实也产生了一些影响。[^90s] As an example of how government and institutional machine could see artworks as extra-difficult, the author mentions Ricardo Dominguez, who was accused by his artworks of helping immigrant to get water in desert. (But he is quite different from Lars Von Tier's films, which are fictions. These are real activism, isn't it?) [^Ricardo Dominguez
+
+_在墨西哥和美国边境地区的'死亡季节'将水藏起来，作为一种类似的自发释放行为--不是作为一种政治声明（或者不仅仅是政治声明），而是作为一种身体反射，作为一种直观的伦理姿态，坚持'不要在我的眼皮底下_ 。[^feeding action]母亲的身体是死的，但是喂养的动作却如同处于本能一样，在边境储水本身是一种对于生存的直觉反应——不管你跨越边境是否到的，既然你在这儿了，我不容你在我眼皮底下受难而没有尊严地死去。这是一种充满了情感的动作。[^mother]
+
+艺术界希望艺术像科学一样“改变生活”（tool本身就永远是改变生活的东西，否则无法称之为tool）另一方面希望艺术能够真的改变社会秩序和不平等，让大家自我感觉良好。作者认为，如果能做到这一点，那往往它一定是个革命性的。或许这是因为当它真实地解决了一些问题的时候，它就必然是政治性的，而政治性往往会触动某些人的奶酪。[^solve]
 ## Annotations  
 (1/28/2024, 4:39:47 PM)
 
@@ -78,7 +83,7 @@ this is so true. there r so many works that relies on the wall text instead of i
 
 “this home were a bordello offering not the sexual excitement of the mistress but the grounding companionship of the wife.” (Doyle, 2013, p. 6)
 
-“how overdetermined that scene of domestic intimacy is for many of us. Cairns therefore describes the artist as practicing an ambivalent form of intimacy—a fundamentally queer occupation of domestic, personal, feminine, and reproductive scenes in which sites associated with privacy and safety become instead scenes of exposure” (Doyle, 2013, p. 6) ~~明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示~~
+[^明明家庭是一个温馨私密的空间]:“how overdetermined that scene of domestic intimacy is for many of us. Cairns therefore describes the artist as practicing an ambivalent form of intimacy—a fundamentally queer occupation of domestic, personal, feminine, and reproductive scenes in which sites associated with privacy and safety become instead scenes of exposure” (Doyle, 2013, p. 6) ~~明明家庭是一个温馨私密的空间，但是在美术馆里却变成了一种奇怪的混合产物——一方面它在构造这种真诚的互动，另一方面它是一种展示~~
 
 “Lauren Berlant describes these kinds of spaces as “intimate publics”; Tavia Nyong’o uses the term extimate to suggest how they can fail, leaving us feeling more alone than ever.5” (Doyle, 2013, p. 6) ~~这种又公共又亲密的体验是一种extimate，某种意义上约炮或者搭子是否也是这样？  
 我们都知道这是灰姑娘的水晶鞋，过了十二点就会消失。我们享受着虚假的幸福，但是在真实的痛楚来临之时变得格外悲伤。  ~~
@@ -103,16 +108,16 @@ this is so true. there r so many works that relies on the wall text instead of i
 
 [^不可解读性]: “sell this marriage of the impenetrable and the unmovable as Art” (Doyle, 2013, p. 8) ~~这种不可解读性被直接售卖为艺术。~~
 
-“The moral panic of the decade led to the adoption of an antiobscenity clause in the administration of nea funding (eventually found unconstitutional) that prohibited the use of federal funding to support work that depicted homosexuality or that might offend religious viewers (for starters).” (Doyle, 2013, p. 9) 90年代的时候，NEA 赞助的资金不会赞助描写同性恋或者可能冒犯宗教观众的作品。虽然现在不是这样，但是这确实也产生了一些影响。
+[^90s]:“The moral panic of the decade led to the adoption of an antiobscenity clause in the administration of nea funding (eventually found unconstitutional) that prohibited the use of federal funding to support work that depicted homosexuality or that might offend religious viewers (for starters).” (Doyle, 2013, p. 9) ~~90年代的时候，NEA 赞助的资金不会赞助描写同性恋或者可能冒犯宗教观众的作品。虽然现在不是这样，但是这确实也产生了一些影响。~~
 
-“Ricardo Dominguez. He is an electronic artist, a founding member of Electronic Disturbance Theater, and a tenured professor at University of California, San Diego. In 2010 Dominguez and his collaborators at b.a.n.g.lab came under investigation for criminal charges related to his work on “virtual sit-ins” (legal forms of electronic protest). He was also accused of misusing university resources in the development of b.a.n.g.lab’s Transborder Immigrant Tool, a mobile phone application designed to guide people crossing the Mexico-U.S. border to water caches. (Thousands have died of dehydration in making this journey.) The application also offers lines of poetry inspired by the desert’s landscape. Members of the U.S. Congress petitioned the University of California to investigate the artist for violating Section 274(a) of the Immigration and Nationality Act, for, in their words, “encouraging aliens to illegally enter the United States.”15” (Doyle, 2013, p. 9) Ricardo Dominguez is accused by his artworks. But this is quite different from Lars Von Tier's films, which are fictions. These are real activism, isn't it?
+[^Ricardo Dominguez]:“Ricardo Dominguez. He is an electronic artist, a founding member of Electronic Disturbance Theater, and a tenured professor at University of California, San Diego. In 2010 Dominguez and his collaborators at b.a.n.g.lab came under investigation for criminal charges related to his work on “virtual sit-ins” (legal forms of electronic protest). He was also accused of misusing university resources in the development of b.a.n.g.lab’s Transborder Immigrant Tool, a mobile phone application designed to guide people crossing the Mexico-U.S. border to water caches. (Thousands have died of dehydration in making this journey.) The application also offers lines of poetry inspired by the desert’s landscape. Members of the U.S. Congress petitioned the University of California to investigate the artist for violating Section 274(a) of the Immigration and Nationality Act, for, in their words, “encouraging aliens to illegally enter the United States.”15” (Doyle, 2013, p. 9) Ricardo Dominguez is accused by his artworks. But this is quite different from Lars Von Tier's films, which are fictions. These are real activism, isn't it?
 
-“The b.a.n.g.lab artists write of the mother’s experience of the “letdown,” in which her body responds to her infant’s cry by producing milk. They ask, “What if we made the desert into such a body? . . . Imagine caching water in the Mexican-U.S. borderlands’ ‘season of dying’ as a comparable act of spontaneous release—not as a political statement (or not only that) but as a corporeal reflex, as an intuitive ethical gestus to insist, ‘not on my watch.’”16” (Doyle, 2013, p. 10) _在墨西哥和美国边境地区的'死亡季节'将水藏起来，作为一种类似的自发释放行为--不是作为一种政治声明（或者不仅仅是政治声明），而是作为一种身体反射，作为一种直观的伦理姿态，坚持'不要在我的眼皮底下_  
+[^the feeding action]:“The b.a.n.g.lab artists write of the mother’s experience of the “letdown,” in which her body responds to her infant’s cry by producing milk. They ask, “What if we made the desert into such a body? . . . Imagine caching water in the Mexican-U.S. borderlands’ ‘season of dying’ as a comparable act of spontaneous release—not as a political statement (or not only that) but as a corporeal reflex, as an intuitive ethical gestus to insist, ‘not on my watch.’”16” (Doyle, 2013, p. 10) ~~_在墨西哥和美国边境地区的'死亡季节'将水藏起来，作为一种类似的自发释放行为--不是作为一种政治声明（或者不仅仅是政治声明），而是作为一种身体反射，作为一种直观的伦理姿态，坚持'不要在我的眼皮底下_  
+  ~~
   
-  
-母亲的身体是死的，但是喂养的动作却如同处于本能一样，在边境储水本身是一种对于生存的直觉反应——不管你跨越边境是否到的，既然你在这儿了，我不容你在我眼皮底下受难而没有尊严地死去。这是一种充满了情感的动作。
+[^mother]:~~母亲的身体是死的，但是喂养的动作却如同处于本能一样，在边境储水本身是一种对于生存的直觉反应——不管你跨越边境是否到的，既然你在这儿了，我不容你在我眼皮底下受难而没有尊严地死去。这是一种充满了情感的动作。~~
 
-“The Transborder Immigrant Tool hysterically embodies Art’s conflict with itself: the desire that it have the value of a science—that its impact on the world be something we can measure and demonstrate—and the desire that art make us all feel better (about ourselves and the world) by actually redressing social inequity (but not really). An object that really did do all of these things might indeed be criminal. Or revolutionary.” (Doyle, 2013, p. 11) 艺术界希望艺术像科学一样“改变生活”（tool本身就永远是改变生活的东西，否则无法称之为tool）另一方面希望艺术能够真的改变社会秩序和不平等，让大家自我感觉良好。作者认为，如果能做到这一点，那往往它一定是个革命性的。或许这是因为当它真实地解决了一些问题的时候，它就必然是政治性的，而政治性往往会触动某些人的奶酪。
+[^solve]:“The Transborder Immigrant Tool hysterically embodies Art’s conflict with itself: the desire that it have the value of a science—that its impact on the world be something we can measure and demonstrate—and the desire that art make us all feel better (about ourselves and the world) by actually redressing social inequity (but not really). An object that really did do all of these things might indeed be criminal. Or revolutionary.” (Doyle, 2013, p. 11) ~~艺术界希望艺术像科学一样“改变生活”（tool本身就永远是改变生活的东西，否则无法称之为tool）另一方面希望艺术能够真的改变社会秩序和不平等，让大家自我感觉良好。作者认为，如果能做到这一点，那往往它一定是个革命性的。或许这是因为当它真实地解决了一些问题的时候，它就必然是政治性的，而政治性往往会触动某些人的奶酪。~~
 
 “The Transborder Immigrant Tool was projected into a conflict zone. Its authors are as much new media activists as artists. (Dominguez’s work can’t be thought of as one or the other; it should be treated as both.) The work here is not limited to the object; it includes public discourse about that object and the interventions of the artists themselves in the media. (The artists continue to index the application’s use and public discourse about it and about the border.)” (Doyle, 2013, p. 11) Dominguez的作品不仅仅是作品本身，也包括外界的反应以及艺术家本身的持续维护，让这个作品继续生存下去。
 
@@ -217,3 +222,4 @@ this is so true. there r so many works that relies on the wall text instead of i
 “As my friend watched Richard White sew the limes into Athey’s skin, she thought, “Is this really happening?” Another friend who was also at Sin-a-matic that night remembers that it changed her life even though at the sight of so much blood she (like quite a few other audience members) passed out.” (Doyle, 2013, p. 27)
 
 “you adjust and accommodate to what’s happening and also to the flexibility of your own desire. If you can’t, you look away or you leave. These are portraits of the people who stayed.” (Doyle, 2013, p. 27) 能够在这些有挑战性的表演里留下来的人，是能够适应眼前发生的事情， 并且适时的调整自己预期的人。
+
