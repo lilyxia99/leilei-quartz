@@ -120,7 +120,3 @@ Component.Graph({localGraph:{repelForce: 0.8,linkDistance: 40,},globalGraph:{rep
 
 enable the footnote for the website to link to specific paragraph~~
 
-## 一个自动footnote的功能
-
-- [ ] 一个快捷键，自动复制文字并且strike，并且在段落开头加上[^] 随机ID
-- [ ] 另一个快捷键，使用当前的随机ID，复制一个[^]  的内容进去

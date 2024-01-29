@@ -32,3 +32,9 @@ You can also use inline footnotes. [^note]
 [^1]:this is an inline footnote right
 [^note]: let's try
 
+## 一个自动footnote的功能
+
+^c1ab87
+
+- [ ] 一个快捷键，自动复制文字并且strike，并且在段落开头加上[^] 随机ID
+- [ ] 另一个快捷键，使用当前的随机ID，复制一个[^]  的内容进去
