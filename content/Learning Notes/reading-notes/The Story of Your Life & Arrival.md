@@ -23,3 +23,9 @@ For heptapods, one has to know the beginning and ending state in order to initia
 实际上这个故事，就像ted chiang那个关于按钮的故事一样，也是讨论关于自由意志的事情。但是这个事儿电影只是蜻蜓点水了一下…… 
 
 故事的结尾其实是一种有点苦涩但是又欣然的接受。
+
+## Arrival
+
+Louise has the time and patience. 
+
+Who are the characters, 
