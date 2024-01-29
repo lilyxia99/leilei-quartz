@@ -39,3 +39,8 @@ zero-sum theory
 
 Game theory is all about communication
 
+Alien are designed for us not to feel for them, but we kind of feel for them. They look like squid, probably because they are intelligent. 
+
+Atmosphere in the spaceship is viscus 
+
+Heptapod has giant 
