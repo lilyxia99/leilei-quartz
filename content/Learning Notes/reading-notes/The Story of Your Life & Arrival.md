@@ -11,6 +11,9 @@ The film added A LOT more political and disastrous context--the threat of war, t
 
 I wonder what Ted Chiang thought of the adaptation. Although General Shang at the end did some mercy, but I am sure the depiction of China in the film would make people frown. 
 
+[文字原文](https://raley.english.ucsb.edu/wp-content/uploads/Reading/Chiang-story.pdf)
+
+
 # The Story of Your Life
 
 For heptapods, one has to know the beginning and ending state in order to initiate an action. 
@@ -18,3 +21,5 @@ For heptapods, one has to know the beginning and ending state in order to initia
 谈到了一些不同的语法结构，这里似乎可以回溯一下[手语的语法](https://www.sohu.com/a/325445557_100290627#google_vignette) gosh我真的太久没有复习手语了…… 
 
 实际上这个故事，就像ted chiang那个关于按钮的故事一样，也是讨论关于自由意志的事情。但是这个事儿电影只是蜻蜓点水了一下…… 
+
+故事的结尾其实是一种有点苦涩但是又欣然的接受。
