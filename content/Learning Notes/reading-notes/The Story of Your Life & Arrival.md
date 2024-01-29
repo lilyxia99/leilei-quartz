@@ -14,3 +14,5 @@ I wonder what Ted Chiang thought of the adaptation. Although General Shang at th
 # The Story of Your Life
 
 For heptapods, one has to know the beginning and ending state in order to initiate an action. 
+
+谈到了一些不同的语法结构，这里似乎可以回溯一下[手语的语法](https://www.sohu.com/a/325445557_100290627#google_vignette) gosh我真的太久没有复习手语了…… 
