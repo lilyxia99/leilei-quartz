@@ -25,4 +25,6 @@ Story= How to live with grief of old kids
 
 End= give her new kids
 
-It’s ab
+It’s about care and education
+
+Teaching 
