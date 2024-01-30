@@ -28,3 +28,11 @@ End= give her new kids
 It’s about care and education
 
 Teaching 
+
+People go insane in solitary 
+
+You get strong emotions when people live in solitary(but I feel like the problem also arise from community, )
+
+能够有感情——是一种有嫉妒的感情的
+
+能够说话 > 读
