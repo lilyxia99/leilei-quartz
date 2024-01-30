@@ -11,4 +11,12 @@ Failure of moral =
 但是这种 minority 是基于 superiority—基于一种等级秩序，一种仇富类似的心态
 
 
+超能力者会被歧视是因为他们可能带来伤害
 
+能说话的人是否也能带来伤害
+
+class difference — 
+
+cultural revolution — ideological fight
+
+Having been abled-body. 
