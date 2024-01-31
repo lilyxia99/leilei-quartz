@@ -15,6 +15,34 @@
 
 文件夹在quartz里
 
+## Set up Github
+
+To create a new `main` branch based on the current branch or another branch, you can follow these steps:
+
+### If You Want to Create `main` Based on the Current Branch:
+
+1. **Check Your Current Branch:** First, make sure you are on the branch you want to use as the basis for `main`.
+    
+    bashCopy code
+    
+    `git branch`
+    
+    This will list all branches, with the current branch highlighted.
+    
+2. **Create the `main` Branch:** If you are on the desired branch, you can create `main` directly from it.
+    
+    bashCopy code
+    
+    `git branch main`
+    
+    This creates a new branch named `main` based on your current branch.
+    
+3. **Switch to the `main` Branch:** Switch to the `main` branch to start using it.
+    
+    bashCopy code
+    
+    `git checkout main`
+
 ## Graph
 
 修改graph的属性，进入 graph.inline.ts 
