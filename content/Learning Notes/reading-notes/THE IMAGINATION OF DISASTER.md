@@ -44,9 +44,6 @@ author: Susan Sontag
 恐怖电影中的科学怪人往往不停人劝，使用科技制造出怪物，或者是把自己变成怪物进而带来毁灭。“One science fiction equivalent of this is the scientist, usually a member of a team, who defects to the planetary invaders because "their" science is more advanced than "ours."” (Sontag, p. 45)  三体中的叶文洁某种意义上是这种投靠人物的代表。
 
 
-
-
-
 太空歌剧——saga
 
 

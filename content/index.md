@@ -10,14 +10,18 @@ dg-home: true
 
 I am Leilei, and I am an tactile artist and filmmaker. This is [my blog](https://www.leileixia.online), I kind of just [[Why I write my post|like writing something to an anonymous public]] . I put my reading notes and zettlekasten here, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
 
-You can find the index on the left or the bottom (if your window is small or mobile)
+You can find the [[Index_of_content|index ]] here or on the explorer on the left or the bottom (if your window is small or mobile) For screenreaders the index page is probably easier
 
 
 [[All Dairies|Some of my diaries ]] I write my Dairies everyday
 
 [[Leilei's Collections]] Where I put some references, artist I have looked at or want to look at, or books I have briefly read or wanted to read
 
-[[Learning Notes Index]] reading reviews or technique notes. 
+My Reading notes #reading-notes
+
+My tech notes #tech-notes
+
+Or check out the [[Learning Notes Index]] reading reviews or technique notes. 
 
 [[Tags]]
 
