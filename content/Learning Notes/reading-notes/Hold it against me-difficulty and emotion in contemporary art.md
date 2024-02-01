@@ -246,3 +246,18 @@ critical distance似乎是一个评论家很看重的东西, and the "difficult 
 “As my friend watched Richard White sew the limes into Athey’s skin, she thought, “Is this really happening?” Another friend who was also at Sin-a-matic that night remembers that it changed her life even though at the sight of so much blood she (like quite a few other audience members) passed out.” (Doyle, 2013, p. 27)
 
 “you adjust and accommodate to what’s happening and also to the flexibility of your own desire. If you can’t, you look away or you leave. These are portraits of the people who stayed.” (Doyle, 2013, p. 27) 能够在这些有挑战性的表演里留下来的人，是能够适应眼前发生的事情， 并且适时的调整自己预期的人。
+
+
+# Chapter 2
+
+## Annotations
+
+abortion is can only be an exception, it's usually in extreme cases like rape or medically dangerous pregnancy, making all other reason not solid
+
+作品：让自己变得怀孕，并且让自己流产。
+
+但是没有证据证明她怀孕了，只有法律和框架变成了作品的中心。
+
+这个作品受到非常多的争议--一个丑闻
+
+yale没有支持她，并且强调这个作品是"fictional“的。
