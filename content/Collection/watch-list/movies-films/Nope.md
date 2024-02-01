@@ -24,3 +24,4 @@ Bad miracle — it’s bad, but a mircle
 Preying, Capturing = watching, surveillance 
 
 Accompanying — 
+
