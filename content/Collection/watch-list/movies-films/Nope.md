@@ -19,4 +19,6 @@ Jean Jacket
 
 但是这个动物是从哪儿来的呢？
 
-Bad miracle — it’s bad, 
+Bad miracle — it’s bad, but a mircle
+
+Preying 
