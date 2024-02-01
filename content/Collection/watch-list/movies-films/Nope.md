@@ -21,4 +21,6 @@ Jean Jacket
 
 Bad miracle — it’s bad, but a mircle
 
-Preying 
+Preying, Capturing = watching, surveillance 
+
+Accompanying — 
