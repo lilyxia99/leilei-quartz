@@ -261,3 +261,9 @@ abortion is can only be an exception, it's usually in extreme cases like rape or
 这个作品受到非常多的争议--一个丑闻
 
 yale没有支持她，并且强调这个作品是"fictional“的。
+
+People have conflicting interest, 
+
+Fetal imaging : pregnancy body vs child’
+
+Woman doesn’t have auto
