@@ -266,4 +266,7 @@ People have conflicting interest,
 
 Fetal imaging : pregnancy body vs child’
 
-Woman doesn’t have auto
+Woman doesn’t have autonomy over her body, her body is at stake with the birth of the society. 
+
+对自己的事情发声，是一种Center the conversation 的权利。
+
