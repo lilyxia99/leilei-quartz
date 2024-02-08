@@ -6,7 +6,7 @@ tags:
   - game
   - 3D
 ---
-[艺术家网站](notion://www.notion.so/leileixia/%5B%3Chttp://www.sabinegruffat.com%3E%5D(%3Chttp://www.sabinegruffat.com/%3E))
+[艺术家网站](http://www.sabinegruffat.com)
 
 Technology is a material, which creates politics
 
