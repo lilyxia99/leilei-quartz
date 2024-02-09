@@ -5,7 +5,10 @@ tags:
 ---
 Je sens que j'amie parler aux gens.
 
-Je me sens trop seul pour <label class="ob-comment" title="" style=""> me parler à moi-même  <span style=""> talking to myself </span></label>.
+Je me sens trop seul pour <abbr title="talking to myself "> me parler à moi-même   </abbr>.
 
 Mais discuter avec d'autres personnes peut aussi être ennuyeux. 
+
+<abbr title="Tooltip">Message</abbr>
+
 
