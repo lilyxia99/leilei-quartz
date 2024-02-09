@@ -14,4 +14,6 @@ tags:
 
 想到我总是拿着一个饭盒去美术馆
 
-![](https://media.discordapp.net/attachments/1205205561222635580/1205336737585434624/image.png?ex=65d80050&is=65c58b50&hm=51e3dd252f7328b69e0b21b821f953fd6309959b19a9a2dfadb0b267aee4a2dc&=&width=792&height=1194)
+然而中国人民也很擅长自我调解——你已经很幸福了。
+
+![“你已经很幸福了”](https://media.discordapp.net/attachments/1205205561222635580/1205336737585434624/image.png?ex=65d80050&is=65c58b50&hm=51e3dd252f7328b69e0b21b821f953fd6309959b19a9a2dfadb0b267aee4a2dc&=&width=792&height=1194)
