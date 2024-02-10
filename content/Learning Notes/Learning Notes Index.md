@@ -55,7 +55,7 @@ For tech related notes, refer to this tag [[tags/tech-notes]] I sometimes update
 
 [[Unity]]
 
-[[Blender notes]]
+[[blender notes]]
 
 [[Git]]
 
