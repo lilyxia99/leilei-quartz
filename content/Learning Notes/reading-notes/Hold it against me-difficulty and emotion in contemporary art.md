@@ -14,6 +14,8 @@ tags:
 [[Genesis P-Orridge]]
 [[Ron Athey]]
 [[VANESSA BEECROFT]]
+[[Marina Abramovic]]
+
 
 # Chapter 1
 
