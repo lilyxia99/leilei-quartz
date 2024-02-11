@@ -15,6 +15,7 @@ tags:
 [[Ron Athey]]
 [[VANESSA BEECROFT]]
 [[Marina Abramovic]]
+[[Santiago Sierra]]
 
 
 # Chapter 1
