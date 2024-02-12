@@ -292,6 +292,28 @@ While the author calls for the return to emotion, the art education is doing exa
 
 感觉这个其实点出了很多art criticism里面的傲慢
 
+Addictive to the dopamine hit———no emotion, because all emotion = capital suspect
+
+Emotion does feels like propaganda—感动中国
+
+Orchestrated 
+
+Emotional towards 普世价值观
+
+Trama porn
+
+If you feel the audience to cry, it’s just soap opera. If you really are able to engage the audience, then it would be able to really move them. 
+
+Cringe— critical size — no allowance of cringeness, the intense fear of cringiness. 
+
+If the audience is responding to show the emotion.
+
+*Rebeeha*: is there such a binary between serious and emotional? Does it mean that if you are thinking of the future it’s good. 
+
+Dean: why do I end up there? Economy is also an element 
+
+
+
 ## Annotation
 
 “Collaborative, participatory works can completely displace the artist’s personality from his practices.” ([Doyle, 2013, p. 70](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=95&annotation=D5X3J7WK))
