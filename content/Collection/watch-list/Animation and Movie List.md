@@ -11,6 +11,8 @@ dg-publish: true
 ![[Pantheon]]
 
 ### Live Action
+![[Sunshine]]
+![[Nope]]
 ![[流浪地球]]
 ![[健听女孩]]
 
