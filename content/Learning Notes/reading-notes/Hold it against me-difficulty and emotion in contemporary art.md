@@ -312,7 +312,21 @@ If the audience is responding to show the emotion.
 
 Dean: why do I end up there? Economy is also an element 
 
+If you are not in capitalism, you wouldn’t have this type of privilege of making art. Otherwise there art is just a kind of political tool or religion
 
+作茧自缚，认为自己是特别的，也是一种作茧自缚。
+dean在roast Sina，感觉就像袁朗在说成才一样。Sina很聪明，像吴哲一样很直白，很敢于质疑，同时也很自信，但是可能他有一种独立电影人的孤傲。
+
+Sina会说 Main stream vs me，这样的说法。这很像很多bu de vi的电影人会说的话，which is fair. 
+
+Dean: being able to empathize, **seeing people as complex**, is basic to our reading. It is the foundation of our reading. When you find yourself in that place, you will limit the complexity. 
+When you are talking about capitalism, take it as complex as you are. 
+
+感觉dean还是挺阿德勒的。我觉得dean
+
+it's about making a ton of work.making way more work than she thought. Making that helps her understand how much more work people are doing. It has to be breathing, this is what I do. 这可能就是阿毛说的，艺术家其实是在展现自己的生活。
+
+为了让自己出名，得不停地生产。确实，要在现在这个世界里面变成一个成功的艺术家，你就得像印刷机一样不停
 
 ## Annotation
 
