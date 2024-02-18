@@ -16,6 +16,8 @@ tags:
 [[VANESSA BEECROFT]]
 [[Marina Abramovic]]
 [[Santiago Sierra]]
+[Strange Encounters: Embodied Others in Post-coloniality - Sara Ahmed - Google Books](https://books.google.co.uk/books/about/Strange_Encounters.html?id=oQKrb0Z7eEYC)
+
 
 
 # Chapter 1
