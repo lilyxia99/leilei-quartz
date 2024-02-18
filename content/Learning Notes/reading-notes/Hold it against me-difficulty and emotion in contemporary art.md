@@ -482,3 +482,10 @@ Racial works = too easy
 艺术评论家会觉得racial read是一种很无聊的解读，会让作品本身的experience变得扁平化。Critic wish the difficulty away
 
 racism's foundation = visual transparency 
+
+Luna's performance -- seemingly frustrated, 
+depressive as the media
+popular romance of native, native artist as artifact--the fact that they still survive
+
+>Luna combats the depiction of Native Americans as ***existing solely in the past***, as historical figures and in the present ***only as spectral entities*.**
+
