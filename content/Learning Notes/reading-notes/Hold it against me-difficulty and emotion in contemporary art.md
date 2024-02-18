@@ -471,3 +471,14 @@ it's about making a ton of work.making way more work than she thought. Making th
 “Their protest registers the offensiveness of the idea that they would not be aware of this difference and that they would be so economically vulnerable as to not care. These workers were aware, in other words, that service work is different and, in that setting, much more valuable than manual labor. It is hard to name their anger as a part of Sierra’s work, as that anger seems to have been the very thing that brought the piece to an end and forced the art to walk out the door.” ([Doyle, 2013, p. 93](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=118&annotation=86A6QC8P))
 
 “it forced into the light the intensity with which the emotional lives of the exploited are policed and negated, even (or especially) in art that purports to be critically engaged with this exploitation.” ([Doyle, 2013, p. 93](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=118&annotation=MNIH3K5G))
+# Chapter4
+
+Racial work are over simplified as 噱头
+
+Racial works = too easy
+
+"performing ideology" = too much emotion or anger =  critical failure
+
+艺术评论家会觉得racial read是一种很无聊的解读，会让作品本身的experience变得扁平化。Critic wish the difficulty away
+
+racism's foundation = visual transparency 
