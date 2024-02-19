@@ -499,7 +499,13 @@ dean觉得标题本身就能建立一些expectation
 
 但是这种patience是不是只给某些人的？
 What’s being asked for the audience
+To what degree you can take advantage of this patience?
+即便sit through了，我会不会觉得满足？关键是到最后我是否觉得这个过程真的有意义。
 
+小径分叉的花园
+
+但我觉得不是关于walked away便可justify the difficulty 的
+The provoking 到底能不能被感受到
 
 ## Annotations
 
