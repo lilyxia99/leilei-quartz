@@ -491,3 +491,83 @@ popular romance of native, native artist as artifact--the fact that they still s
 
 >Luna combats the depiction of Native Americans as ***existing solely in the past***, as historical figures and in the present ***only as spectral entities*.**
 
+## Annotations
+
+“Derek and Soraya Murray put it flatly: “Problems emerge when socially defined minorities become synonymous with the political.”1” ([Doyle, 2013, p. 94](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=119&annotation=FAXBTCSH))
+
+“Without the detachment and autonomy of conventional art to insulate them, [these artists] are doomed to “represent” in the most naïve and facile manner possible, a given political issue or constituency. This detachment is [argued to be] necessary because art is constantly in danger of being subsumed to the condition of consumer culture or “entertainment” (cultural forms predicated on immersion rather than on recondite critical distance)” ([Doyle, 2013, p. 95](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=120&annotation=GLJF2FUW)) 为了维护艺术的某种高高在上的气质，他不能与大众娱乐“同流合污”
+
+“Proximity, feeling, identification, and collaboration are lumped together as synonyms for each other, as complicit, “naïve and facile”—as, in other words, too easy.” ([Doyle, 2013, p. 95](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=120&annotation=EB9UCAJ8)) 亲近和情感被视作“简单”。  
+  
+但是同时我感觉其中也有分别，也有简单的确实是简单，和简单中能够打动人，以及有想象力的简单。
+
+“David Hammons’s installation Concerto in Black and Blue (2002). His analysis of this case is worth reproducing here, because it points to the way that the difficulty of work about race is suppressed in much art criticism, and it points to the role that affect plays in that critical failure.” ([Doyle, 2013, p. 95](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=120&annotation=H3QHC3U5))
+
+“It has a tight formalism that calls to mind the work of other artists using light as their medium, for example, James Turrell’s framing of the sky in Light Reign (2003) or Miroslaw Balka’s How It Is (2010), an enormous container that absorbs viewers in total darkness, but only as long as they have their back to the entrance.” ([Doyle, 2013, p. 96](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=121&annotation=A46W6HP8))
+
+“Concerto in Black and Blue, invokes the desire to manage the work’s difficulty by assuming a kind of transparency for it, in which the work’s meaning can be accessed by what the viewer happens to know (or think he knows) about “black art” (this is a contingent form of difficulty, dependent on what the viewer is able to recognize in the work’s references).” ([Doyle, 2013, p. 96](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=121&annotation=XPVSJE3F))
+
+“they see it as a metaphor for blackness (as if the meaning of that term were knowable and stable) rather than as a meditation on visuality and blindness (which has everything to do with the racialist discourse through which the work is invariably experienced).5 The critic thus responds to the work literally, and with a literalism that is not even guided by the object, by what he sees. It is in fact guided by what the critic feels. That critic, English explains, scrambles to enlist on his behalf “a rhetorical triumph over the disorientations that are most elemental to the work,” as if the declaration “It’s about race” constituted some sort of meaningful insight, and as if that statement could contain the anxiety that the work provokes.” ([Doyle, 2013, p. 97](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=122&annotation=DJKI89IB)) 仿佛认定这个作品和种族有关就可以对其一锤定音似的
+
+“as long as such work appears to have something to do with discourse on race, for many critics that work represents a completely unexamined notion of Race, and its contributions to conversations about art practice are unexamined.” ([Doyle, 2013, p. 97](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=122&annotation=EWWP954D))
+
+“When Luna performs alcoholic masculine depression as The History of the Luiseño People (La Jolla Reservation 1990) it is to mark history as a problem—not only as the lingering trauma of settler colonialism but, more significantly (for Luna’s practice), as the question of how one engages that past, how one narrates it, how one knows it, and how one feels it.” ([Doyle, 2013, p. 100](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=125&annotation=KSFNKZCB))
+
+“Luna, an artist who once sedated himself so that he might be exhibited as an artifact under museum glass (The Artifact Piece, 1987–1990), is all too aware of the ways in which his forms of expression are always already enlisted in a romantic fantasy of a traumatic past.” ([Doyle, 2013, p. 101](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=126&annotation=QG89SUG7)) 作为一个印第安艺术家，自己的身体永远代表着是一个凄美的过去，就像亚裔的艺术家在美国的语境里永远是一种特定的符号。
+
+“Luna pushes back against the pressure of making art as an Indian in part by making art with trash stewed in resentment. This opens up a world of ambivalence. If you couldn’t get that, if you took it literally, looking for a real expression of anger and some sort of spiritual relief, or if you were looking for knowing irony and cool affect, the performance was impossible to sit through.” ([Doyle, 2013, p. 102](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=127&annotation=3CJ59N6Q))
+
+“Trusting that there was something interesting waiting for us on the other side of that was hard for those unfamiliar with Luna’s work, because it really did seem like it was all just falling apart.” ([Doyle, 2013, p. 103](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=128&annotation=7ILL4XQJ)) Luna的作品让人难以sit through，但是这让我想起tony的小径分叉的花园，也是等到最后的人才会收获奇迹。
+
+“That depressive performance is set against the nostalgia that saturates mainstream, popular romance with Native American history, in which Native identity appears as always already “historical.” Renato Rosaldo’s term imperialist nostalgia names the sentimental economy that allows the imperial subject to weep over the bodies it has buried, to mourn the cultural practices it has annihilated.” ([Doyle, 2013, p. 103](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=128&annotation=YZVTRREW)) The romantic native american history becomes a guilt porn for white people
+
+“Viejo warns that the desire for this kind of transparency, for this sense of an alignment between who and what one is, lies at the heart of racist (and sexist) paradigms.” ([Doyle, 2013, p. 121](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=146&annotation=7QFI7C2E)) 种族主义寻求的就是一种标签和人的一一对应。
+
+“Racism depends on a reading of ethnic-racialized subjects that insists on their transparency; racism also banks on the faith and conceit that these subjects can be exhaustively and fully elucidated through a certain masterful operation of language.” ([Doyle, 2013, p. 121](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=146&annotation=VG5ULCL2))
+
+“Depression, as a practice of maintaining an awareness of this, can have a deeply social, deeply political dimension. The depressive appears to be stuck not by virtue of a lack of understanding but rather by virtue of his or her inability to forget.” ([Doyle, 2013, p. 121](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=146&annotation=VAVZFJ9Y)) 无法忘记过去，就像漫长的季节中无法走出创伤的人们。  
+  
+如果是阿德勒，面对那样的创伤和不公，他会选择笑脸相迎吗？
+
+“those histories are not there to resolve the difficulty of their work—they are not there as causal elements. They are not there to fill in the gaps of what we don’t or can’t know. Furthermore neither installation could be called tragic in a classical sense, or even sad. As much as the artists appear to perform sad, that sadness is laced with and framed by a black humor.” ([Doyle, 2013, p. 121](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=146&annotation=F2W646QL)) 这些处理种族话题的艺术家并没有滥用历史的记忆——相反，这些历史是缺席的，因为作为殖民者是永远无法知晓和理解过去发生的事情的。
+
+“Luna’s presentation of the History of the Luiseño People as a performance of depression, ambivalence, and alienation intervenes against the rendition of History as a story of evolution and progress, and also against the construction of History as a knowable past.” ([Doyle, 2013, p. 121](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=146&annotation=27BURCRD)) Luna的表演不想把历史变成某种既定的事实，而是表现它的某种不可知性。他也拒绝让历史变成某种进步和进化的代表，而是a big pile of messy telephone porriage
+
+“almost no level of irony, self-reflexivity, ambivalence, or complexity seems to ward off the urge to read the artist’s work as naïve, earnest forms of self-expression with no awareness of the complexity of representation, art history, or political institutions.” ([Doyle, 2013, p. 122](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=147&annotation=BKWSSSID)) no matter how self aware artists are, art critic can sill simply label them as simple and naive.
+
+“the difficulty of the artist’s work is actively disavowed by the literalminded critic, who projects that literalism onto the artist and her work, as is also sometimes the case with the reception of the most challenging feminist and queer work.” ([Doyle, 2013, p. 122](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=147&annotation=SWLZU7LF)) It's not the artists who is being literal, it's the critics who are literal.  
+  
+  
+But when to draw that line? what if the artist indeed didn't think through, and only the critics are imagining and fabricating the language for the artist?
+
+“it recasts racist logics in terms of art critical judgment, negates the complexity of racial discourse itself,” ([Doyle, 2013, p. 122](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=147&annotation=QE8G8GVY)) 评论家用art critical judgement去否定种族叙事，并且认为种族叙事本身就简单无用。
+
+“There is a false assumption in much art writing that we can be smart about emotions only if we are being cynical about them. ( Jaded is the default attitude one strikes in the social space of the art gallery about nearly everything.)” ([Doyle, 2013, p. 123](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=148&annotation=5K44P463)) ironic = smart 是一个假命题
+
+“This “ideology of emotion,” she writes, “diagrams emotion as something lifted from a depth to a surface.” It leads us to measure representations of emotion according to how well we are convinced that those feelings represent the subject’s interior life, and according to how those feelings correspond to the interior lives of the audience. (Thus an audience member might experience Luna’s performance as a failure if she didn’t find his performance of anger convincing or if she thought it was misdirected or inappropriate.)” ([Doyle, 2013, p. 123](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=148&annotation=K49EEFYB))
+
+“a novel could be moving exactly because the ownership of emotion is troubled and displaced from the reader onto someone else.” ([Doyle, 2013, p. 125](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=150&annotation=J7V3YJC5)) 小说之所以动人，是因为读者的感情不再是自己的感情，而变成了角色的感情。
+
+“we feel not to the extent that experience seems immediate, but to the extent that it doesn’t; not to the extent that other people’s experiences remind us of our own, but to the extent that our own seem like someone else’s.” ([Doyle, 2013, p. 125](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=150&annotation=C7F5PW2K)) 我们并不是感同身受，而是因为不同所以能感受。并不是他人的感情与我们共情，而是我们的感情变得像角色的。
+
+“An expression does not represent an already existing feeling; it is the very thing that makes emotion happen, or, more nearly, it is the thing that sets emotion into motion. Tears migrate” ([Doyle, 2013, p. 125](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=150&annotation=LIYGXQTA)) 表达并不是在模仿感情，表达本身就是情感。
+
+“Emotions are profoundly intersubjective. They do not happen inside the individual but in relation to others.” ([Doyle, 2013, p. 125](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=150&annotation=2KIUPIGL)) 情感绝非孤立的，他只能是interpersonal的。所有的情感都是人际关系。这符合阿德勒的心理学。
+
+““Emotion,” she argues, however, “is not simply something ‘I’ or ‘we’ have. Rather it is through emotions, or how we respond to objects and others, that surfaces and boundaries are made.”” ([Doyle, 2013, p. 125](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=150&annotation=VAWCUVMX)) 我们本身没有情感。情感是皮肤，是我们和外界的边界和关系。  
+  
+从这个意义上来说，皮肤，触摸，本身就是情感？？（醍醐灌顶！
+
+“Instead of being moved to tears, I felt myself shut down. A cold curiosity took over; he was making himself cry, for me, and I didn’t care.” ([Doyle, 2013, p. 126](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=151&annotation=ZDK35GN8))
+
+“The evolution of our dynamic reproduced the story of seduction, love, betrayal, and hostility that he had been recounting. It mirrored one of the stories Howells recounts, in which he handled the end of a relationship badly, hurting a man who had loved and been loyal to him. If he had just told the story, the performance would have been confessional. But the structure and poetics of Howells’s performance implicates the spectator in the artist’s injury. The participant’s detachment makes her into the artist’s tool. Guilt and anxiety circulate through this performance much the same way that tears migrate around the artist in the artworks described earlier.” ([Doyle, 2013, p. 126](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=151&annotation=FVRIAFQP)) 这个表演对于《奶奶的饺子》这个作品很有借鉴意义。应该是这种故事里的后悔要体现在行动里。
+
+“Contemporary artists have long demonstrated a critical interest in emotion as a “product” they are expected to produce. Bas Jan Ader’s I’m Too Sad to Tell You, for example, withholds the story behind his tears, and in so doing he isolates his affect as art object. His sadness appears as the work itself, and this may have been his point” ([Doyle, 2013, p. 127](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=152&annotation=88HPR54T))
+
+“Not all emotionally intense work is difficult, but some is difficult exactly insofar as it questions what emotion is, where it comes from, to whom and to what it belongs, and even whether it can be thought of as “belonging” at all.” ([Doyle, 2013, p. 127](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=152&annotation=T6K5NWFT)) 情感的作品的困难之处，在于质疑这种情感，甚至是这种情感属于谁。  
+但是这是不是和前面作者说的critical distance自相矛盾了？这里怎么又开始鼓吹critical distance一样了？
+
+“Artists take this on not only by making emotion itself their subject but by bringing the context for those feelings into the field of representation, as a means to resist exactly the kind of fetishization of emotion Ahmed describes.” ([Doyle, 2013, p. 127](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=152&annotation=Z84KN3E2)) 玩弄感情的艺术家不仅在作品中使用感情，也拒绝让感情变成滥情，变成某种fetish。这可能就和表演里的撕心裂肺vs默默哭泣一样吧。
+
+“Hidden Witness excavates an altogether different view of the relationship between African Americans and the camera, absorbing photography into African American history as a process in which black men and women are not only subjects of the camera but agents in creating and consuming the picture.” ([Doyle, 2013, p. 130](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=155&annotation=2DAZZRBQ))
+
