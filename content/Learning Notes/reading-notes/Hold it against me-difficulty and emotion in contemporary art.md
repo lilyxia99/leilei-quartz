@@ -497,6 +497,9 @@ popular romance of native, native artist as artifact--the fact that they still s
 
 dean觉得标题本身就能建立一些expectation
 
+但是这种patience是不是只给某些人的？
+What’s being asked for the audience
+
 
 ## Annotations
 
