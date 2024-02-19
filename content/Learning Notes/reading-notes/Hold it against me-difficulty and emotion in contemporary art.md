@@ -491,6 +491,9 @@ popular romance of native, native artist as artifact--the fact that they still s
 
 >Luna combats the depiction of Native Americans as ***existing solely in the past***, as historical figures and in the present ***only as spectral entities*.**
 
+
+作为一个印第安艺术家，自己的身体永远代表着是一个凄美的过去，就像亚裔的艺术家在美国的语境里永远是一种特定的符号。
+普通观众希望得到一种满足和娱乐，太过于专业的观众又会对这种娱乐鄙夷。
 ## Annotations
 
 “Derek and Soraya Murray put it flatly: “Problems emerge when socially defined minorities become synonymous with the political.”1” ([Doyle, 2013, p. 94](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=119&annotation=FAXBTCSH))
@@ -500,6 +503,10 @@ popular romance of native, native artist as artifact--the fact that they still s
 “Proximity, feeling, identification, and collaboration are lumped together as synonyms for each other, as complicit, “naïve and facile”—as, in other words, too easy.” ([Doyle, 2013, p. 95](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=120&annotation=EB9UCAJ8)) 亲近和情感被视作“简单”。  
   
 但是同时我感觉其中也有分别，也有简单的确实是简单，和简单中能够打动人，以及有想象力的简单。
+
+
+“Unlike the video of 1993 (the mood of which is subdued), this performance was animated with hostility and anger. There was a palpable awkwardness in the gallery, especially as people started to leave. It went on for ages, well past the point of comfort. As time passed, he seemed to lose his place, and his talk soured. He wobbled between an anger that felt faked (and was therefore a bad performance) and that felt real (and directed at his audience). More and more people left the room.” ([Doyle, 2013, p. 101](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=126&annotation=G69S88IN)) So what did he say??
+
 
 “David Hammons’s installation Concerto in Black and Blue (2002). His analysis of this case is worth reproducing here, because it points to the way that the difficulty of work about race is suppressed in much art criticism, and it points to the role that affect plays in that critical failure.” ([Doyle, 2013, p. 95](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=120&annotation=H3QHC3U5))
 
@@ -513,11 +520,15 @@ popular romance of native, native artist as artifact--the fact that they still s
 
 “When Luna performs alcoholic masculine depression as The History of the Luiseño People (La Jolla Reservation 1990) it is to mark history as a problem—not only as the lingering trauma of settler colonialism but, more significantly (for Luna’s practice), as the question of how one engages that past, how one narrates it, how one knows it, and how one feels it.” ([Doyle, 2013, p. 100](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=125&annotation=KSFNKZCB))
 
-“Luna, an artist who once sedated himself so that he might be exhibited as an artifact under museum glass (The Artifact Piece, 1987–1990), is all too aware of the ways in which his forms of expression are always already enlisted in a romantic fantasy of a traumatic past.” ([Doyle, 2013, p. 101](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=126&annotation=QG89SUG7)) 作为一个印第安艺术家，自己的身体永远代表着是一个凄美的过去，就像亚裔的艺术家在美国的语境里永远是一种特定的符号。
+“Luna, an artist who once sedated himself so that he might be exhibited as an artifact under museum glass (The Artifact Piece, 1987–1990), is all too aware of the ways in which his forms of expression are always already enlisted in a romantic fantasy of a traumatic past.” ([Doyle, 2013, p. 101](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=126&annotation=QG89SUG7)) ~~作为一个印第安艺术家，自己的身体永远代表着是一个凄美的过去，就像亚裔的艺术家在美国的语境里永远是一种特定的符号。~~
 
 “Luna pushes back against the pressure of making art as an Indian in part by making art with trash stewed in resentment. This opens up a world of ambivalence. If you couldn’t get that, if you took it literally, looking for a real expression of anger and some sort of spiritual relief, or if you were looking for knowing irony and cool affect, the performance was impossible to sit through.” ([Doyle, 2013, p. 102](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=127&annotation=3CJ59N6Q))
 
 “Trusting that there was something interesting waiting for us on the other side of that was hard for those unfamiliar with Luna’s work, because it really did seem like it was all just falling apart.” ([Doyle, 2013, p. 103](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=128&annotation=7ILL4XQJ)) Luna的作品让人难以sit through，但是这让我想起tony的小径分叉的花园，也是等到最后的人才会收获奇迹。
+
+“Luna does not aim hold the audience’s attention for the duration of the performance. He does not explain or show us how he feels. The performance instead recasts our relationship to him; we move from being members of an audience to something more challenging, in which we find ourselves keeping company with a difficult (and drunk) man.” ([Doyle, 2013, p. 103](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=128&annotation=4C8XL54W)) 有点难想象她会不会对一个初出茅庐的人这么说。
+
+“How can one be present to a depressive who experiences that presence as an act of aggression, as the living embodiment of his failure to connect?” ([Doyle, 2013, p. 103](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=128&annotation=3UNNMCNS)) 是不是可以对所有作品都这么说？？
 
 “That depressive performance is set against the nostalgia that saturates mainstream, popular romance with Native American history, in which Native identity appears as always already “historical.” Renato Rosaldo’s term imperialist nostalgia names the sentimental economy that allows the imperial subject to weep over the bodies it has buried, to mourn the cultural practices it has annihilated.” ([Doyle, 2013, p. 103](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=128&annotation=YZVTRREW)) The romantic native american history becomes a guilt porn for white people
 
