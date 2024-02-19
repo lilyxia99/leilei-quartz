@@ -511,6 +511,10 @@ The provoking 到底能不能被感受到
 
 Certain emotions are encoded into different skin tone
 
+Leaving is part of the emotional response
+
+The work 
+
 
 ## Annotations
 
