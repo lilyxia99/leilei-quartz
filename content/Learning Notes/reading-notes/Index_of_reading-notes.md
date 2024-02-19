@@ -2,6 +2,7 @@
 - 📄 [[Learning Notes/reading-notes/“LOST RACES OF SCIENCE FICTION” (1980)|“LOST RACES OF SCIENCE FICTION” (1980)]]
 - 📄 [[Learning Notes/reading-notes/AYE, AND GOMORRAH . . .|AYE, AND GOMORRAH . . .]]
 - 📄 [[Learning Notes/reading-notes/Chinese Film - Realism and Convention from the Silent Era to the Digital Age|Chinese Film - Realism and Convention from the Silent Era to the Digital Age]]
+- 📄 [[Learning Notes/reading-notes/Feminist,Queer, Crip|Feminist,Queer, Crip]]
 - 📄 [[Learning Notes/reading-notes/Hold it against me-difficulty and emotion in contemporary art|Hold it against me-difficulty and emotion in contemporary art]]
 - 📄 [[Learning Notes/reading-notes/mcgrathChineseFilmRealism|mcgrathChineseFilmRealism]]
 - 📄 [[Learning Notes/reading-notes/Speech Sound|Speech Sound]]
