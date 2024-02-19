@@ -509,6 +509,9 @@ The provoking 到底能不能被感受到
 
 很久以前，slow dance 也是一种trend。也有一种expectations 你不应该期待作品是有趣的。
 
+Certain emotions are encoded into different skin tone
+
+
 ## Annotations
 
 “Derek and Soraya Murray put it flatly: “Problems emerge when socially defined minorities become synonymous with the political.”1” ([Doyle, 2013, p. 94](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=119&annotation=FAXBTCSH))
