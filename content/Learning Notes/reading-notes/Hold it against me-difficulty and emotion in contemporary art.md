@@ -513,7 +513,11 @@ Certain emotions are encoded into different skin tone
 
 Leaving is part of the emotional response
 
-The work 
+Nobody leaves then you are not working hard enough
+
+people to leaving should be a outcome rather than an intention
+
+
 
 
 ## Annotations
