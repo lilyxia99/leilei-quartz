@@ -494,6 +494,10 @@ popular romance of native, native artist as artifact--the fact that they still s
 
 作为一个印第安艺术家，自己的身体永远代表着是一个凄美的过去，就像亚裔的艺术家在美国的语境里永远是一种特定的符号。
 普通观众希望得到一种满足和娱乐，太过于专业的观众又会对这种娱乐鄙夷。
+
+dean觉得标题本身就能建立一些expectation
+
+
 ## Annotations
 
 “Derek and Soraya Murray put it flatly: “Problems emerge when socially defined minorities become synonymous with the political.”1” ([Doyle, 2013, p. 94](zotero://select/library/items/5VI3AXAU)) ([pdf](zotero://open-pdf/library/items/JMDHDB3Q?page=119&annotation=FAXBTCSH))
