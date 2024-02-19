@@ -2,6 +2,7 @@
 - 📄 [[Collection/performance-action/Bas Jan Ader|Bas Jan Ader]]
 - 📄 [[Collection/performance-action/Dean Moss|Dean Moss]]
 - 📄 [[Collection/performance-action/Genesis P-Orridge|Genesis P-Orridge]]
+- 📄 [[Collection/performance-action/James Luna|James Luna]]
 - 📄 [[Collection/performance-action/Johanna Went|Johanna Went]]
 - 📄 [[Collection/performance-action/Kembra Pfahler|Kembra Pfahler]]
 - 📄 [[Collection/performance-action/Marina Abramovic|Marina Abramovic]]
