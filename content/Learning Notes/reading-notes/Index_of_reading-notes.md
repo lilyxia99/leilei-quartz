@@ -5,6 +5,7 @@
 - 📄 [[Learning Notes/reading-notes/Feminist,Queer, Crip|Feminist,Queer, Crip]]
 - 📄 [[Learning Notes/reading-notes/Hold it against me-difficulty and emotion in contemporary art|Hold it against me-difficulty and emotion in contemporary art]]
 - 📄 [[Learning Notes/reading-notes/mcgrathChineseFilmRealism|mcgrathChineseFilmRealism]]
+- 📄 [[Learning Notes/reading-notes/My Other Body is In the Shop|My Other Body is In the Shop]]
 - 📄 [[Learning Notes/reading-notes/Speech Sound|Speech Sound]]
 - 📄 [[Learning Notes/reading-notes/The Bioethics of Enhancement-Transhumanism, Disability, and Biopolitics|The Bioethics of Enhancement-Transhumanism, Disability, and Biopolitics]]
 - 📄 [[Learning Notes/reading-notes/THE IMAGINATION OF DISASTER|THE IMAGINATION OF DISASTER]]
