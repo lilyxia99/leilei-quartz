@@ -1,16 +1,18 @@
 {
 	"nodes":[
-		{"id":"01f58374cbda3140","type":"group","x":326,"y":-640,"width":1094,"height":1340,"label":"Transhumanism"},
-		{"id":"f76c74180b06896e","type":"text","text":"# Transhumanism \n#transhumanism","x":360,"y":-160,"width":294,"height":60},
+		{"id":"01f58374cbda3140","type":"group","x":80,"y":-740,"width":1340,"height":1440,"label":"Transhumanism"},
+		{"id":"f76c74180b06896e","type":"text","text":"# Transhumanism \n#transhumanism","x":360,"y":-200,"width":300,"height":100},
 		{"id":"8355312ebde97bb0","type":"link","url":"http://stelarc.org/_.php#page/1","x":507,"y":123,"width":424,"height":394},
 		{"id":"406e345eab12a294","type":"link","url":"https://www.pellinglab.net/about?hidden=true","x":820,"y":-440,"width":520,"height":380},
 		{"id":"f4401d47c64bf352","type":"link","url":"https://disabilityvisibilityproject.com/about?hidden=true/","x":1480,"y":40,"width":400,"height":400},
 		{"id":"57f96c2608c840aa","x":1630,"y":640,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=TiFzMALiv30&hidden=true"},
 		{"id":"cdea45b1f45ee596","x":917,"y":1080,"width":846,"height":627,"type":"link","url":"https://cdn.kinopio.club/gjD1HsjuYa-B31m0a3jOS/image.png"},
-		{"id":"c293b98b6b21a607","x":2077,"y":1271,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=OyvN0cujNog&hidden=true"}
+		{"id":"c293b98b6b21a607","x":2077,"y":1271,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=OyvN0cujNog&hidden=true"},
+		{"id":"4cae408c46228ab6","x":160,"y":-680,"width":400,"height":400,"type":"file","file":"content/Learning Notes/reading-notes/The Bioethics of Enhancement-Transhumanism, Disability, and Biopolitics.md"}
 	],
 	"edges":[
 		{"id":"38df1e2c2e62054f","fromNode":"f76c74180b06896e","fromSide":"bottom","toNode":"8355312ebde97bb0","toSide":"top"},
-		{"id":"3248dbbdc83993ac","fromNode":"f76c74180b06896e","fromSide":"right","toNode":"406e345eab12a294","toSide":"left"}
+		{"id":"3248dbbdc83993ac","fromNode":"f76c74180b06896e","fromSide":"right","toNode":"406e345eab12a294","toSide":"left"},
+		{"id":"f79876fe97f51452","fromNode":"f76c74180b06896e","fromSide":"top","toNode":"4cae408c46228ab6","toSide":"bottom"}
 	]
 }
