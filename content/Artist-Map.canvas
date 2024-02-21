@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"8355312ebde97bb0","x":476,"y":6,"width":400,"height":400,"type":"link","url":"http://stelarc.org/_.php#page/1"},
 		{"id":"49f74ba06ce5dbb8","type":"text","text":"testing","x":40,"y":-210,"width":250,"height":60},
-		{"id":"66fa356289237d92","type":"link","url":"https://media.discordapp.net/attachments/1095356640221478965/1172625978044985354/triology_midjourney_rt_creativity_creative_jam_people_painting__1280acba-d766-4c20-bafe-cb1d25ceffef.png?ex=65aad40b&is=65985f0b&hm=d5f259db5740c50115fd348adb91a74c2f0ec4d3db87a38ee7f523a6de440b72&=&width=916&height=1190","x":-160,"y":-80,"width":400,"height":400}
+		{"id":"66fa356289237d92","type":"link","url":"https://media.discordapp.net/attachments/1095356640221478965/1172625978044985354/triology_midjourney_rt_creativity_creative_jam_people_painting__1280acba-d766-4c20-bafe-cb1d25ceffef.png?ex=65aad40b&is=65985f0b&hm=d5f259db5740c50115fd348adb91a74c2f0ec4d3db87a38ee7f523a6de440b72&=&width=916&height=1190","x":-160,"y":-80,"width":400,"height":400},
+		{"id":"8355312ebde97bb0","x":476,"y":6,"width":424,"height":394,"type":"link","url":"http://stelarc.org/_.php#page/1"},
+		{"id":"f76c74180b06896e","x":360,"y":-160,"width":294,"height":60,"type":"text","text":"# Transhumanism"}
 	],
 	"edges":[]
 }
