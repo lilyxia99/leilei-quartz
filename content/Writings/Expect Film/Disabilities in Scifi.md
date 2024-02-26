@@ -6,7 +6,7 @@ time: 2024-02-25
 
 ## What is Sci-fi
 
-![[What is Sci-fi in Expect]]
+!![[What is Sci-fi in Expect]]
 
 ## Transhumanism VS Anti-Cure
 
