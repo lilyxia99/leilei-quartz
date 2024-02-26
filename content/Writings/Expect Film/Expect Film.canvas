@@ -5,7 +5,7 @@
 		{"id":"81f626cd1da2cf4d","type":"text","text":"[[Transhumanism]]和未来主义","x":80,"y":-470,"width":250,"height":60},
 		{"id":"e63e862f9f58d332","type":"text","text":"[[Anti-Cure]], Anti-Fixed, Pro-disabilities right","x":525,"y":-470,"width":250,"height":60},
 		{"id":"9a664fd6ace63575","type":"text","text":"1. 让我觉得世界观震碎\n2. 为什么世界观震碎，是因为其实我蛮科技狂热的\n3. 我一直都没有认为科幻小说中的叙事有任何问题，当我开始思考的时候才发现这其中的潜台词\n4. 如果科技也可以被拒绝的话，那我们要科技有什么用？怎么办？","x":-1240,"y":-410,"width":300,"height":320},
-		{"id":"59c15b0572b4643c","type":"text","text":"Phenomenon: Disability is used as narrative tools","x":-340,"y":25,"width":250,"height":58},
+		{"id":"59c15b0572b4643c","type":"text","text":"Phenomenon: Disability is used as narrative tools","x":-340,"y":25,"width":250,"height":115},
 		{"id":"0ddc2feacf7a0e98","type":"text","text":"有一类社会向的软科幻，会展现潜意识价值观的，在科技进步的潮流和危机中，考验我们的人性。\n\n[[What is Sci-fi in Expect|科幻作品]]，往往是考验到我们价值排序的作品。《万神殿》是这样的例子，《三体》也是这样的例子。","x":-840,"y":-585,"width":285,"height":290},
 		{"id":"44485b3ba5f0d9fc","type":"text","text":"empty touch： 在虚拟空间中做虚拟的表演，但是反而给予参与者更多的可能性，不受限于我有限的材料","x":3160,"y":-20,"width":240,"height":160},
 		{"id":"1167d26374c1b609","type":"text","text":"# 做一部半纪录片半虚构角色扮演VR电影","x":2100,"y":-281,"width":250,"height":201},
@@ -33,7 +33,8 @@
 		{"id":"7727cb7d08ff1125","type":"text","text":"VR 的整备过程、教程","x":3155,"y":215,"width":250,"height":60},
 		{"id":"4e4fde08efd6ab4d","type":"text","text":"## Disability as not as deficient, but as diversity","x":465,"y":-300,"width":250,"height":200},
 		{"id":"accb2c76e39e3957","type":"text","text":"拍一部纪录片：我需要真实的成分，需要和真实的残障人聊聊，问问他们的感受。","x":1640,"y":-421,"width":250,"height":140},
-		{"id":"1544cb3e74fb6657","type":"text","text":"拍一部虚构片：应该做一部科幻的电影来探索怎样的世界才是一个正视残障群体，正视这个群体在社会中位置的科幻故事。我想做的不是只关注真实残障困境的片子，而是关于“我们如何**想象**一个能包容残障的未来”以及\n\n","x":1640,"y":-150,"width":390,"height":240}
+		{"id":"1544cb3e74fb6657","type":"text","text":"拍一部虚构片：应该做一部科幻的电影来探索怎样的世界才是一个正视残障群体，正视这个群体在社会中位置的科幻故事。我想做的不是只关注真实残障困境的片子，而是关于“我们如何**想象**一个能包容残障的未来”以及\n\n","x":1640,"y":-150,"width":390,"height":240},
+		{"id":"c2d72e991fcbf95b","x":-540,"y":220,"width":280,"height":120,"type":"text","text":"Enhancement: disability being annihilated "}
 	],
 	"edges":[
 		{"id":"8187b7e5c3513539","fromNode":"5cf4f2fe084d3732","fromSide":"bottom","toNode":"59c15b0572b4643c","toSide":"top","color":"5","label":"Tropes"},
@@ -78,6 +79,7 @@
 		{"id":"c86b245442fd1e04","fromNode":"7ec768ed61754af9","fromSide":"right","toNode":"bdde0d85e9d225ff","toSide":"left"},
 		{"id":"48e13ba17a80bbe8","fromNode":"81f626cd1da2cf4d","fromSide":"right","toNode":"e63e862f9f58d332","toSide":"left","fromEnd":"arrow","color":"5","label":"Opposite"},
 		{"id":"d82ac6e5e32ab963","fromNode":"e63e862f9f58d332","fromSide":"bottom","toNode":"4e4fde08efd6ab4d","toSide":"top","color":"5","label":"advocate for"},
-		{"id":"68ce8b4ae6f4645b","fromNode":"e63e862f9f58d332","fromSide":"top","toNode":"8ee30326a9a28062","toSide":"top","color":"1"}
+		{"id":"68ce8b4ae6f4645b","fromNode":"e63e862f9f58d332","fromSide":"top","toNode":"8ee30326a9a28062","toSide":"top","color":"1"},
+		{"id":"36732d33b5c581b0","fromNode":"59c15b0572b4643c","fromSide":"bottom","toNode":"c2d72e991fcbf95b","toSide":"top"}
 	]
 }

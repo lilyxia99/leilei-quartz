@@ -8,6 +8,13 @@ time: 2024-02-25
 
 !![[What is Sci-fi in Expect]]
 
+### Tropes of Characters with disability in Science Fiction
+
+Characters with disability are very common in science fiction. The 
+
+As Josefine Wälivaara said: "portrayals of homo/bisexuality and disability has been used as narrative devices to emphasis 'good' or 'bad' futures...disability, partly due to the perseverance of a medical understanding of disability, instead is used as a sign of a failed future.” ([Josefine Wälivaara, 2018, p. 226](zotero://select/library/items/HTKFAMBB))
+
+
 ## Transhumanism VS Anti-Cure
 
 ### What is Transhumanism
