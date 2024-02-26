@@ -38,9 +38,9 @@ The starting point of this project is from the observation of popular science fi
 
 #### Science Fiction and  Futurescapes
 
-From *Twenty Thousand Leagues Under the Sea* to *Matrix*, sci-fi works dedicate themselves to think about how should human understand themselves and one another by the imagining alternative living conditions, some of them are almost equivalent to philosophical thought experiments. Sci-fi is definitely not limited to presenting what is mentioned above. A big part of the sci-fi works are disaster films like *2012* or *Wandering Earth* in which the disaster that will kill the entire species originates from some future problem. Others might be also showcasing terrible future, but more like political fantasy that involves modern technology, like *1984*. Some sci-fi works, Ted-Chiang's *The Story Of Your Life*, for example, enter more intimate perspective to explore how an individual's experience would be changed by alien languages, virtual pets, prediction machines, etc. There are many other mix-genre representatives as well, such as the combination of horror and sci-fi in *Nope* and the mixture of moku-mentary and sci-fi in *Journey to the west*. 
+From *Twenty Thousand Leagues Under the Sea* to *Matrix* (the Wachowskis, 1999), sci-fi works dedicate themselves to think about how should human understand themselves and one another by the imagining alternative living conditions, some of them are almost equivalent to philosophical thought experiments. Sci-fi is definitely not limited to presenting what is mentioned above. A big part of the sci-fi works are disaster films like *2012* (Roland Emmerich, 2009) and *Wandering Earth*(Guo Fan, 2019) which showcase how future situation leads to big human crisis, political fantasy that involves modern technology like *1984* (George Orwell, 1984), more intimate approach like *The Story Of Your Life* (Ted Chiang, 1998) that explore more niche aspect of human technology interaction or Niche *Journey to the west*. 
 
-The definition of Sci-fi in this paper will focus more on the sci-fi works that reveal the picture of a society or a portrait of a person living in a society under the development of technology or ideology, in another word, Futurescapes. Works like *Brave New World*, *Star Wars*, *Neuromancer* and  *Pantheon* would fall into that category. In these works, what satisfies and resonate the author and the readers is actually the display of our current ideology or the value judgement, although mediated through a fictional universe or time era. These type of works are also the one of the most popular types of science fiction works, which means they not only reflect a normally accepted belief or concern about technology, but also that inappropriate portrayal of people in minority groups-- people of color, people with disabilities and LGBTQ+ communities--in such works will put these group in danger of being reduced to symbols and instruments of narratives and further inflicted into stereotype. 
+The definition of Sci-fi in this paper will focus more on the sci-fi works that reveal the picture of a society or a portrait of a person living in a society under the development of technology or ideology, in another word, Futurescapes. Works like *Brave New World*, *Star Wars*, *Neuromancer* and  *Pantheon* would fall into that category. These type of works are also the one of the most popular types of science fiction works, which means they not only reflect a normally accepted belief or concern about technology, but also that inappropriate portrayal of people in minority groups-- people of color, people with disabilities and LGBTQ+ communities--in such works will put these group in danger of being reduced to symbols and instruments of narratives and further inflicted into stereotype. 
 
 #### Tropes of Characters with disability in Science Fiction
 
@@ -54,7 +54,7 @@ I will use *Full-metal Alchemist* as an example, because I personally love *Full
 
 The stereotype of the mutilated avengers (Mitchell and Snyder, 2001, p. 97) also exist in the story: The character Scar, who was one of the villains in the first half part of the stories (although more like frenemy), also experienced injury which took away his right arm. Although his arm was replaced by the one of his brother's, his cruelty in killing and destroying still originates from that trauma. 
 
-#### Transhumanism and Anti-Cure
+#### Transhumanism and Technological Cure
 
 There are many directions to critique about the represnetaions of disabilities, and what I am particularly interested is the idea of "technological cure": for Edward Erlic it's Automails and philosopher's stone, for Luke Skywalker in *Star Wars* it's the cybernetic limb, and for Motoko Kusanagi in Ghost in the Shell it's her whole body. Although this is the almost most classic way to imagine human future, we rarely think of these characters as disabled, because as soon as their disabilities emerges, it is erased by the technology and the body is fixed back to the normal, sometimes even powerful than human. The disability is only used as the pathway to level up, a transient status, a "used to be", instead of an actual state that's worth being discussed. Such tropes reflect a medical model of thinking. prothesis are presented as the panacea to turn a deformed body back to a homogenous standard, while the danger and risk that accompanies the technology are often ignored and overlooked in the stories. That's why in *Cyberpunk 2077*, changing limbs and arms are as easy as changing clothes, but nobody cares about whether they need to be charged.
 
@@ -64,12 +64,37 @@ Such a technological cure is closely related to a philosophical and social movem
 
 It's worth noting that transhumanism is not equivalent with posthumanism which strive to move away from an anthropocentric view by embracing the implication of technology. Transhumanism and posthuman are actually quite different. The former is a extreme pursue of highly centralized and homogenous view of a "better future", when the other embraces different creatures and races, diversity, and de-centered narratives. When Donna Haraway talked about cyborgs and posthuman, she was calling for a more diverse society where people can all be living in different ways. From transhumanist view, however, there is a standardized trajectory of "evolution": stronger, smarter, and live longer. A good transhumanist future is where individuals modify themselves to fit the fast pace and high standards of society. What a good society is not one in which all the different people can have their own way, but one in which all people move efficiently on a similar channels. 
 
+The presence of disability is often used as a sign of a failed future.” (Wälivaara, 2018, p. 226) 
 
-As Josefine Wälivaara said: "portrayals of homo/bisexuality and disability has been used as narrative devices to emphasis 'good' or 'bad' futures...disability, partly due to the perseverance of a medical understanding of disability, instead is used as a sign of a failed future.” ([Josefine Wälivaara, 2018, p. 226](zotero://select/library/items/HTKFAMBB))
+#### An Alternative Future of Anti-Cure
 
+### The Question of Omniscient Perspective
 
++ 怎样的叙事，怎样的人物，才是对残障群体一种负责人的刻画？从一个上帝视角来说我们可以要求作者这么样那样，但是感觉也挺难的。如果作为一个普通的作者来写，真的能免俗吗？
 
-## Why VR
+Although I read these theories of disability studies and understood the claims of anti-cure, a strange feeling always floated in my mind -- Is it really so easy to achieve the accessible world? What's really stopping us? As an non-disabled artist, I can't imagine how it really is to be a person with disabilities, but if I did have temporary paralyzing experience of breaking my back and couldn't get up from the bed, during which I don't know how soon or whether I could recover. The thought that flashed through my mind at that time was that I would really like some technology that would allow me to get off the ground and run again. Even though I knew what the more progressive and righteous perspective should be, when it comes down to it, it's hard for to resist the temptation to be cured by technology. If I were really born in a cyberpunk society, where enhancement and modification is the absolute norm, would I be courageous enough to stay as how I am? Compared to an epic time span, the life of a human being is too short to expect the social change, especially when you see the stubbornness of the norm. It's easy to imagine for an era from an omniscient perspective, but hard to carry it out as a person. 
+
+This conflict between the omniscient perspective and individual perspective surfaced again and again during my research. One time I participated 
+
+## Embodied Exploration: *Expect* 
+
+既然如此，欲知此事要躬行，与其读和批评小说，不如来体验小说，成为小说。
+
+### The question of form
+#### Documentary
+
+#### Fiction
+
+### Half and Half
+
+#### Strategy: Story As Both Noun and Verb
+
+##### Role Playing and Acting
+
+A Role-Playing Game(RPG), is a genre of game in which players assume the roles of characters in a fictional setting. RPG can be divided into many sub-categories like ERPG(Electronic Role-Playing Game), TRPG(Tabletop Role-Playing Game), VTRPG (Virtual Tabletop Role-Playing Game) and LARP ( Live Action Role-Playing). The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
+
+I use a made-up word called interview-actor to refer the people involved in this project. They are not exactly the interviewees in a documentary, nor are they entirely actors. While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false.
+##### VR
 
  Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. Documentary filmmaking in reality seeks a sense of "realism" - even if that "realism" is in question. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera.
 
@@ -77,51 +102,46 @@ Virtual filmmaking, especially in this film, emphasize acting and non-realism in
 
 环境虽然可以按照表演者想象的心意设置，但终究不是自己家里的，因此所谓的从环境中窥见演员
 我们都在谈一些虚构的事情。而且我对窥探采访对象的真实隐私没有兴趣。
-
-
-
-## Terminology
-
-### Interview-Actor
-
-~~在这篇文章中，我会使用 interview-actor 这样一个我自造的词。因为参与这个项目的人并不完全是纪录片中的受访者，也不全是演员。我们讨论的事情很大部分是基于他们的讲述，which stemmed from their own lives. 但与此同时，他们保留了在讲述中虚构的权利；我们在聊天的时候有时候会真实地聊天，有时候在一本正经地胡说八道，但是在影片中这两者并没有被严格的区别开，以至于观众无法分清真假。
-
-In this article, I will use a made-up word called interview-actor, because the people involved in this project are not exactly the interviewees in a documentary, nor are they entirely actors. While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false.
-
-### VR and VRChat
-
-As mentioned in the beginning, VR stands for Virtual Reality. 
-
-### RPG
-
-An RPG, or Role-Playing Game, is a genre of game in which players assume the roles of characters in a fictional setting. RPG can be divided into many sub-categories like ERPG(Electronic Role-Playing Game), TRPG(Tabletop Role-Playing Game), VTRPG (Virtual Tabletop Role-Playing Game) and LARP ( Live Action Role-Playing). The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
-
-### Invisible Object and Empty Touch
+##### Invisible Object
 
 In the film we will use a technique called “invisible object”, which comes from a workshop that I developed. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance, 这种无实物表演衔接了身处异地的表演者；它既是一种演技的练习，也是一种默契的建立。我们配合中完成一种非语言的交流，像玩过家家的小孩子一样，踏入共同确认的幻想中。
 
 invisible object同时也对应了这部影片半虚构半纪录的本质。在虚构的层面上，电影中每一个世界观和故事都是凭空虚构的。演绎的目的不是为了去除反而是突出这种幻想性，同时角色扮演本身就需要一种虚空中来的信念感，正如小说家创作他们作品时候需要的那样，
 
+##### Tutorial and Process
 
-## 赛博朋克世界
+#### The Worlds: Different Models
 
-虽然读了这些残障研究的理论，明白了anti-cure的主张，但是一种异样的感觉总是浮在我的心头——理论真的能那么容易地付诸实践吗？这种疑问在我带着各种残障理论知识去做采访的时候逐渐浮现出来，尤其是当我采访赛博朋克主题的这几位 interview-actors 的时候。
-
-Although I read these theories of disability studies and understood the claims of anti-cure, a strange feeling always floated in my mind -- can these theories really carried out that easily? This question gradually surfaced when I took my knowledge of various disability theories to do interviews, especially when I interviewed these interview-actors of the cyberpunk theme.
+##### Cyberpunk World
 
 其中一位给自己角色的名字叫小华。他是一名科技公司的程序员。他想象的世界是一个最为理想化的科幻世界，一个他
 
 有趣的是，虽然我采访的对象不多，但是几乎所有受访的男性都想象了一种赛博朋克感十足的世界，尤其是要含有身体改造的元素。
 
-有一次我去参加了一个有关残障和生育的研讨会，里面提到了优生优育是一个是一种
+##### Near Future World
 
-作为一个健全人，我没办法想象真正作为残障人会是怎样的生活，但是我曾经也面临过卧床不起的情况，那个时候闪过我脑海的念头就是我渴望那样的科技可以让我再下地去跑步。即便我知道更有残障权益视角的想法应该怎样，更加先进的理念是怎样，但是事情摊在自己的头上，一个人是会很难拒绝被科技治愈的诱惑的。
+##### Unity World
 
-## 近未来世界
+### The Ambivalent Individual
+
+#### About Stories
+
+发现2： 每个人的性格以及他们的背景，都和他们的故事本身一样很有趣。了解他们这些人的性格才能理解他们为什么会想到这样的故事。
+
+科幻故事总是和世界观有关，总是和很大的概念和创意有关。但是我似乎更加关心个人。到底怎样才是好的科幻呢？我也不指导。
+关于这些个人的描写，能够如何改变科幻的范式呢？怎样去书写一个残障的角色才是妥帖的，才不会沦为一种符号和工具呢？或许就是通过一个立体的角色的呈现吧。者无关主义，无关政治正确，而是关于角色本身是否鲜活，其实是关于是否是一个好作品。
+
+#### About Life
+
+发现1：残障人本身自然是有不同的看法。有的人会更有自己的身份认同，有的人会希望“光荣的进化”。两边都有一点理想主义的感觉，而且我与两边都能共情。面对那种“真诚的健全主义”期待，有一种秀才遇上兵，有理说不清的感觉。似乎每一个人都太不一样了，很难从一个自上而下的视角上去要求谁。
+
+即便我心里知道所谓更加“progressive”的想法的时候，作为个人，很难不期盼某种光荣的进化。这种时候一个人应该被教育，你就应该安分守己，安于自己的现状吗？
+“作为个人，我们如何contribute to到达这个未来的路”
 
 
 
-## Unity世界
+## Conclusion
+
 
 
 ## Bibliography
