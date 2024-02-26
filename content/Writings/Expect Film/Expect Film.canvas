@@ -1,12 +1,10 @@
 {
 	"nodes":[
 		{"id":"63a46c56334505b8","type":"text","text":"## Disability in Technology\n","x":80,"y":-280,"width":300,"height":120},
-		{"id":"64b0166ae5fd060c","type":"text","text":"Cyborg, Future world, Technological evolution science fiction","x":-340,"y":-500,"width":250,"height":120},
 		{"id":"81f626cd1da2cf4d","type":"text","text":"[[Transhumanism]]和未来主义","x":80,"y":-470,"width":250,"height":60},
 		{"id":"e63e862f9f58d332","type":"text","text":"[[Anti-Cure]], Anti-Fixed, Pro-disabilities right","x":525,"y":-470,"width":250,"height":60},
 		{"id":"9a664fd6ace63575","type":"text","text":"1. 让我觉得世界观震碎\n2. 为什么世界观震碎，是因为其实我蛮科技狂热的\n3. 我一直都没有认为科幻小说中的叙事有任何问题，当我开始思考的时候才发现这其中的潜台词\n4. 如果科技也可以被拒绝的话，那我们要科技有什么用？怎么办？","x":-1240,"y":-410,"width":300,"height":320},
 		{"id":"59c15b0572b4643c","type":"text","text":"Phenomenon: Disability is used as narrative tools","x":-340,"y":25,"width":250,"height":115},
-		{"id":"0ddc2feacf7a0e98","type":"text","text":"有一类社会向的软科幻，会展现潜意识价值观的，在科技进步的潮流和危机中，考验我们的人性。\n\n[[What is Sci-fi in Expect|科幻作品]]，往往是考验到我们价值排序的作品。《万神殿》是这样的例子，《三体》也是这样的例子。","x":-840,"y":-585,"width":285,"height":290},
 		{"id":"44485b3ba5f0d9fc","type":"text","text":"empty touch： 在虚拟空间中做虚拟的表演，但是反而给予参与者更多的可能性，不受限于我有限的材料","x":3160,"y":-20,"width":240,"height":160},
 		{"id":"1167d26374c1b609","type":"text","text":"# 做一部半纪录片半虚构角色扮演VR电影","x":2100,"y":-281,"width":250,"height":201},
 		{"id":"fcf265dd406b3466","type":"text","text":"[[Role-Playing in Expect]]：虽然是在虚构，但是因为有大量的即兴，以及我们在即兴的时候是和闲聊结合在一起的，所以一方面流露出现实主义的色彩，一方面又高度地虚拟化。","x":2545,"y":-325,"width":280,"height":170},
@@ -29,12 +27,19 @@
 		{"id":"178171fe1eb82c35","type":"text","text":"发现2： 每个人的性格以及他们的背景，都和他们的故事本身一样很有趣。了解他们这些人的性格才能理解他们为什么会想到这样的故事。\n","x":3780,"y":-210,"width":320,"height":161},
 		{"id":"7ec768ed61754af9","type":"text","text":"科幻故事总是和世界观有关，总是和很大的概念和创意有关。那么关于这些个人的描写，能够如何改变科幻的范式呢？怎样去书写一个残障的角色才是妥帖的，才不会沦为一种符号和工具呢？或许就是通过一个立体的角色的呈现吧。者无关主义，无关政治正确，而是关于角色本身是否鲜活，其实是关于是否是一个好作品。","x":4320,"y":-244,"width":480,"height":229},
 		{"id":"bdde0d85e9d225ff","type":"text","text":"结论：","x":4920,"y":-380,"width":400,"height":285},
-		{"id":"adfe953981a3d6b1","type":"text","text":"[[VR in Expect]]：我希望还是保留某种纪录片的质感——去和他们“实地”地相处一下。有一种observational的感觉\n","x":2520,"y":140,"width":330,"height":150},
 		{"id":"7727cb7d08ff1125","type":"text","text":"VR 的整备过程、教程","x":3155,"y":215,"width":250,"height":60},
 		{"id":"4e4fde08efd6ab4d","type":"text","text":"## Disability as not as deficient, but as diversity","x":465,"y":-300,"width":250,"height":200},
 		{"id":"accb2c76e39e3957","type":"text","text":"拍一部纪录片：我需要真实的成分，需要和真实的残障人聊聊，问问他们的感受。","x":1640,"y":-421,"width":250,"height":140},
 		{"id":"1544cb3e74fb6657","type":"text","text":"拍一部虚构片：应该做一部科幻的电影来探索怎样的世界才是一个正视残障群体，正视这个群体在社会中位置的科幻故事。我想做的不是只关注真实残障困境的片子，而是关于“我们如何**想象**一个能包容残障的未来”以及\n\n","x":1640,"y":-150,"width":390,"height":240},
-		{"id":"c2d72e991fcbf95b","x":-540,"y":220,"width":280,"height":120,"type":"text","text":"Enhancement: disability being annihilated "}
+		{"id":"fa56ec4b58f761d3","type":"text","text":"Disability as the motivation","x":-330,"y":300,"width":240,"height":120},
+		{"id":"063837bf7b097653","type":"text","text":"disability as a failed future","x":-20,"y":300,"width":240,"height":120},
+		{"id":"b8b2c92b3e7b3c39","type":"text","text":"Changing the Way of viewing","x":2100,"y":60,"width":250,"height":60},
+		{"id":"6ba56780b99d2cf7","type":"text","text":"虽然看上去是VR动画，但是实际上是实拍的逻辑。","x":2225,"y":185,"width":255,"height":155},
+		{"id":"adfe953981a3d6b1","type":"text","text":"[[VR in Expect]]：我希望还是保留某种纪录片的质感——去和他们“实地”地相处一下。有一种observational的感觉\n","x":2520,"y":140,"width":330,"height":150},
+		{"id":"305f624fea0e6dd6","type":"text","text":"虽然是单屏影像，但是大量的POV以及界面信息，让观众必须从一个VR体验者的角度去思考电影。它既保留了传统媒介的reference (因为本身就在critique传统电影)又引申出了新媒介的探讨","x":1835,"y":215,"width":325,"height":265},
+		{"id":"64b0166ae5fd060c","type":"text","text":"Cyborg, Future world, Technological evolution science fiction \n\n[[Disabilities in Scifi#^cyborg-characters]]","x":-340,"y":-520,"width":250,"height":160,"color":"4"},
+		{"id":"c2d72e991fcbf95b","type":"text","text":"Enhancement: disability being cured\n\n[[Disabilities in Scifi#Tropes of Characters with disability in Science Fiction]]","x":-740,"y":280,"width":280,"height":200,"color":"4"},
+		{"id":"0ddc2feacf7a0e98","type":"text","text":"有一类社会向的软科幻，会展现潜意识价值观的，在科技进步的潮流和危机中，考验我们的人性。\n\n[[Disabilities in Scifi#Science Fiction and Futurescapes|科幻作品]]，往往是考验到我们价值排序的作品。《万神殿》是这样的例子，《三体》也是这样的例子。","x":-840,"y":-635,"width":280,"height":335,"color":"4"}
 	],
 	"edges":[
 		{"id":"8187b7e5c3513539","fromNode":"5cf4f2fe084d3732","fromSide":"bottom","toNode":"59c15b0572b4643c","toSide":"top","color":"5","label":"Tropes"},
@@ -46,7 +51,6 @@
 		{"id":"403b10bcdb2c3390","fromNode":"5cf4f2fe084d3732","fromSide":"left","toNode":"9a664fd6ace63575","toSide":"right","color":"1","label":"为什么我会关心这个话题"},
 		{"id":"c66e4a5f30b8f04b","fromNode":"accb2c76e39e3957","fromSide":"right","toNode":"1167d26374c1b609","toSide":"left","color":"1","label":"所以"},
 		{"id":"51c91ece8487e7bd","fromNode":"fcf265dd406b3466","fromSide":"bottom","toNode":"adfe953981a3d6b1","toSide":"top","color":"1","label":"涉及到world building\n虚构的叙事，所以"},
-		{"id":"9be35661c9244933","fromNode":"0ddc2feacf7a0e98","fromSide":"right","toNode":"64b0166ae5fd060c","toSide":"left","color":"5","label":"例子"},
 		{"id":"040490681c440e71","fromNode":"adfe953981a3d6b1","fromSide":"right","toNode":"44485b3ba5f0d9fc","toSide":"left","color":"1","label":"在VR中\n贯彻角色扮演的真传"},
 		{"id":"d118f63b57a80400","fromNode":"adfe953981a3d6b1","fromSide":"right","toNode":"7727cb7d08ff1125","toSide":"left","color":"1"},
 		{"id":"53904b65815ce927","fromNode":"81f626cd1da2cf4d","fromSide":"top","toNode":"8ee30326a9a28062","toSide":"top","color":"1"},
@@ -80,6 +84,13 @@
 		{"id":"48e13ba17a80bbe8","fromNode":"81f626cd1da2cf4d","fromSide":"right","toNode":"e63e862f9f58d332","toSide":"left","fromEnd":"arrow","color":"5","label":"Opposite"},
 		{"id":"d82ac6e5e32ab963","fromNode":"e63e862f9f58d332","fromSide":"bottom","toNode":"4e4fde08efd6ab4d","toSide":"top","color":"5","label":"advocate for"},
 		{"id":"68ce8b4ae6f4645b","fromNode":"e63e862f9f58d332","fromSide":"top","toNode":"8ee30326a9a28062","toSide":"top","color":"1"},
-		{"id":"36732d33b5c581b0","fromNode":"59c15b0572b4643c","fromSide":"bottom","toNode":"c2d72e991fcbf95b","toSide":"top"}
+		{"id":"36732d33b5c581b0","fromNode":"59c15b0572b4643c","fromSide":"bottom","toNode":"c2d72e991fcbf95b","toSide":"top","color":"5"},
+		{"id":"3bd73e218c28a1f6","fromNode":"59c15b0572b4643c","fromSide":"bottom","toNode":"fa56ec4b58f761d3","toSide":"top","color":"5"},
+		{"id":"e784c6912c9fbb43","fromNode":"59c15b0572b4643c","fromSide":"bottom","toNode":"063837bf7b097653","toSide":"top","color":"5"},
+		{"id":"a848fdb478628981","fromNode":"1167d26374c1b609","fromSide":"bottom","toNode":"b8b2c92b3e7b3c39","toSide":"top","color":"1","label":"效果/结果"},
+		{"id":"ef6f2a116cce8430","fromNode":"adfe953981a3d6b1","fromSide":"left","toNode":"6ba56780b99d2cf7","toSide":"right","color":"1"},
+		{"id":"f8e6502b5a555351","fromNode":"b8b2c92b3e7b3c39","fromSide":"bottom","toNode":"6ba56780b99d2cf7","toSide":"top","color":"1"},
+		{"id":"e12d9f8f3db4f530","fromNode":"b8b2c92b3e7b3c39","fromSide":"bottom","toNode":"305f624fea0e6dd6","toSide":"top","color":"1"},
+		{"id":"9be35661c9244933","fromNode":"0ddc2feacf7a0e98","fromSide":"right","toNode":"64b0166ae5fd060c","toSide":"left","color":"5","label":"例子"}
 	]
 }
