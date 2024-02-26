@@ -4,6 +4,7 @@
 - 📄 [[Learning Notes/reading-notes/Chinese Film - Realism and Convention from the Silent Era to the Digital Age|Chinese Film - Realism and Convention from the Silent Era to the Digital Age]]
 - 📄 [[Learning Notes/reading-notes/Feminist,Queer, Crip|Feminist,Queer, Crip]]
 - 📄 [[Learning Notes/reading-notes/Hold it against me-difficulty and emotion in contemporary art|Hold it against me-difficulty and emotion in contemporary art]]
+- 📄 [[Learning Notes/reading-notes/Marginalized Bodies of Imagined Futurescapes- Ableism and Heteronormativity in Science Fiction|Marginalized Bodies of Imagined Futurescapes- Ableism and Heteronormativity in Science Fiction]]
 - 📄 [[Learning Notes/reading-notes/mcgrathChineseFilmRealism|mcgrathChineseFilmRealism]]
 - 📄 [[Learning Notes/reading-notes/My Other Body is In the Shop|My Other Body is In the Shop]]
 - 📄 [[Learning Notes/reading-notes/Speech Sound|Speech Sound]]
