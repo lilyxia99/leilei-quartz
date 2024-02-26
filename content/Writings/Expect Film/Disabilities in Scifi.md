@@ -11,9 +11,9 @@ The definition of disability has always been changing along with the evolution o
 
 ### Moral Model and Invididual Model
 
-The moral model of disability views disability as a reflection of an individual's or family's character, deeds, thoughts, and karma, leading to either stigma and shame or being seen as a mark of honor and strength. In ancient China, for example, although there was notion to support and care about people with disabilities in classical Chinese philosophy, in rural area disability is often seen as a punishment or a test of faith which requires moral correction or spiritual healing rather than medical treatment or social accommodation. This model is often utilized in media in which characters with disabilities either are evil due to their miserable life caused by their body and marginalized situation, or become what we call “super-crip”, who becomes the inspirational symbol simply because they overcome the barriers that were imposed by the normative environment.
+The moral model of disability views disability as a reflection of an individual's or family's character, deeds, thoughts, and karma, leading to either stigma and shame or being seen as a mark of honor and strength. In ancient China, for example, although there was notion to support and care about people with disabilities in classical Chinese philosophy, in rural area disability is often seen as a punishment or a test of faith which requires moral correction or spiritual healing rather than medical treatment or social accommodation, especially under the influence of Buddism and its idea of Karma[[Disabilities in Scifi#^d47931|(Ghose, 2007).]]  This model is often utilized in media in which characters with disabilities either are evil due to their miserable life caused by their body and marginalized situation, or become what we call “super-crip”, who becomes the inspirational symbol simply because they overcome the barriers that were imposed by the normative environment.
 
-Individual model is different from moral model in that it doesn't associate moral judgement with body 
+Individual model is different from moral model in that it doesn't associate moral judgement with body, but still attribute disability to personal failure and inability. (YANG Zeng. 2015)
 
 ### Medical Model
 
@@ -108,4 +108,6 @@ Although I read these theories of disability studies and understood the claims o
 
 ## Bibliography
 
-YANG Zeng. 2015. Institutions and Life for People with Disability: From "Individual Model" to "Universal Model". Chinese Journal of Sociology(in Chinese Version), 35(6): 85-115.
+Ghose, Lynken. “‘Karma’ and the Possibility of Purification: An Ethical and Psychological Analysis of the Doctrine of ‘Karma’ in Buddhism.” _The Journal of Religious Ethics_ 35, no. 2 (2007): 259–89. http://www.jstor.org/stable/40014869. ^d47931
+
+YANG Zeng. 2015. *Institutions and Life for People with Disability: From "Individual Model" to "Universal Model". Chinese Journal of Sociology*(in Chinese Version), 35(6): 85-115.
