@@ -14,6 +14,7 @@ Virtual filmmaking, especially in this film, emphasize acting and non-realism in
 环境虽然可以按照表演者想象的心意设置，但终究不是自己家里的，因此所谓的从环境中窥见演员
 我们都在谈一些虚构的事情。而且我对窥探采访对象的真实隐私没有兴趣。
 
+!![[Role-Playing in Expect]]
 
 
 
