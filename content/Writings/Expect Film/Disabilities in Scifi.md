@@ -15,7 +15,7 @@ The moral model of disability views disability as a reflection of an individual'
 
 ### Medical Model
 
-The medical model of disability emerged as societies started to view disability more as a matter of health and biology rather than moral failing.
+The medical model of disability emerged as societies started to view disability more as a matter of health and biology rather than moral failing. It focuses on the individual's impairment or difference, treating disability as a problem that resides within the person. According to the medical model, the primary response to disability is treatment or cure through medical intervention. This model seeks to "fix" the disability through surgery, medication, or rehabilitation, with the goal of bringing the individual's physical or mental condition as close to the norm as possible. While the medical model has contributed significantly to advancements in treatment and accessibility, it has also been criticized for overlooking the social and environmental barriers faced by people with disabilities.
 
 ## Disability in Science Fiction
 
@@ -115,3 +115,5 @@ Oliver Michael. 1983. _Social Work with Disabled People_. London: Macmillan.
 Oliver Michael. 1990. _The Politics of Disablement_. London: Macmillan.
 
 Finkelstein, Vic. 1993. "The Commonality of Disability. " in John Swain, Sally French Colin Barnes and Carol Thomas (eds. ). _Disabling Barriers-Enabling Environments_. London: SAGE Publications.
+
+World Health Organization. (2001). International Classification of Functioning, Disability and Health: ICF. Geneva: World Health Organization.
