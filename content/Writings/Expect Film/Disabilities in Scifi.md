@@ -9,10 +9,11 @@ time: 2024-02-25
 
 The definition of disability has always been changing along with the evolution of social value and contexts. In China, according Law of the People’s Republic of China on the Protection of Persons with Disabilities, “a person with a disability is a person who, psychologically, physiologically…has suffered a loss or abnormality… and has lost … the ability to engage in certain activities in a normal manner.” The definition is focused more on a person’s instability to fit the “normal” life (usually production life) in with the “normal” manner, without a clear definition of what normal means. This definition, however, is not the only way to define disability. There are many models for recognizing what disability is. The three most classic ones are moral models, medical models and social models, and these different models also influenced the archetype of disabilities in fiction literature and films. 
 
-### Moral Model
-The moral model of disability views disability as a reflection of an individual's or family's character, deeds, thoughts, and karma, leading to either stigma and shame or being seen as a mark of honor and strength. In ancient China, for example, although there was notion to support and care about people with disabilities in classical Chinese philosophy, in rural area disability is often seen as a punishment or a test of faith which requires moral correction or spiritual healing rather than medical treatment or social accommodation.
+### Moral Model and Invididual Model
 
-This model is often utilized in media in which characters with disabilities either are evil due to their miserable life caused by their body and marginalized situation, or become what we call “super-crip”, who becomes the inspirational symbol simply because they overcome the barriers that were imposed by the normative environment.
+The moral model of disability views disability as a reflection of an individual's or family's character, deeds, thoughts, and karma, leading to either stigma and shame or being seen as a mark of honor and strength. In ancient China, for example, although there was notion to support and care about people with disabilities in classical Chinese philosophy, in rural area disability is often seen as a punishment or a test of faith which requires moral correction or spiritual healing rather than medical treatment or social accommodation. This model is often utilized in media in which characters with disabilities either are evil due to their miserable life caused by their body and marginalized situation, or become what we call “super-crip”, who becomes the inspirational symbol simply because they overcome the barriers that were imposed by the normative environment.
+
+Individual model is different from moral model in that it doesn't associate moral judgement with body 
 
 ### Medical Model
 
@@ -107,3 +108,4 @@ Although I read these theories of disability studies and understood the claims o
 
 ## Bibliography
 
+YANG Zeng. 2015. Institutions and Life for People with Disability: From "Individual Model" to "Universal Model". Chinese Journal of Sociology(in Chinese Version), 35(6): 85-115.
