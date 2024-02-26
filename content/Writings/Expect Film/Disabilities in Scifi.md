@@ -4,6 +4,20 @@ tags:
 time: 2024-02-25
 ---
 
+## What is Disability
+
+
+The definition of disability has always been changing along with the evolution of social value and contexts. In China, according Law of the People’s Republic of China on the Protection of Persons with Disabilities, “a person with a disability is a person who, psychologically, physiologically…has suffered a loss or abnormality… and has lost … the ability to engage in certain activities in a normal manner.” The definition is focused more on a person’s instability to fit the “normal” life (usually production life) in with the “normal” manner, without a clear definition of what normal means. This definition, however, is not the only way to define disability. There are many models for recognizing what disability is. The three most classic ones are moral models, medical models and social models, and these different models also influenced the archetype of disabilities in fiction literature and films. 
+
+### Moral Model
+The moral model of disability views disability as a reflection of an individual's or family's character, deeds, thoughts, and karma, leading to either stigma and shame or being seen as a mark of honor and strength. In ancient China, for example, although there was notion to support and care about people with disabilities in classical Chinese philosophy, in rural area disability is often seen as a punishment or a test of faith which requires moral correction or spiritual healing rather than medical treatment or social accommodation.
+
+This model is often utilized in media in which characters with disabilities either are evil due to their miserable life caused by their body and marginalized situation, or become what we call “super-crip”, who becomes the inspirational symbol simply because they overcome the barriers that were imposed by the normative environment.
+
+### Medical Model
+
+The medical model of disability emerged as societies started to view disability more as a matter of health and biology rather than moral failing.
+
 ## Disability in Science Fiction
 
 While this is not a literature analysis piece, the starting point of this piece is from the observation of popular science fiction, and the question that's being explored is embedded in the context of the current insufficient and problematic portray of disability in those narrative. Therefore, I would briefly talk about what kind of science fiction works I am referring to in this project, what are their problems, and how it leads to the artistic research in the next chapter. 
@@ -26,7 +40,7 @@ This passage concludes the common situation of disability in a story. For protag
 
 I will use *Full-metal Alchemist* as an example, because I personally love *Full-Metal Alchemist* so much that when I read the about the Narrative Prothesis, the first work I thought of is this piece. It's appears not really a sci-fi as the background is a little steampunk and fantasy, but the way alchemy is used in the story is very much similar to that of technology. Protagonist Edward Erlic lost his arm and legs after a human revival alchemy ritual, and while he got equipped with Automails afterwards, which are Metal Prothesis that enabled him to be as agile as any other fighters, he still persist on finding his lost body and took on the journey. When he hadn't got Automails, he was depressed and couldn't set off for anything. As soon as he recollected his hope, he requested for Automails. This dichotomy of "cured and hopeful" vs "not cured and miserable" happens several times in the story. The stereotype of the mutilated avengers (Mitchell and Snyder, 2001, p. 97) also exist in the story: The character Scar, who was one of the villains in the first half part of the stories (although more like frenemy), also experienced injury which took away his right arm. Although he didn't turn one-armed because his arm was replaced by the one of his brother's, he cruelty in killing and destroying still originates from that trauma. 
 
-While these are all interesting aspect to discuss, I am particularly interested in the idea of "technological cure" for disability, just like how Edward Erlic is "cured" by Automails. This is the most classic way to imagine human future. There are countless examples in science fiction like Luke Skywalker in *Star Wars*, Winter Soldier in *Captain America*, Major Motoko Kusanagi in Ghost in the Shell, and so on. We rarely think of them as disabilities, however, because as soon as their disabilities emerges, they are immediately "cured" by the technology and fixed back to the normal state, and sometimes even more becomes super human. Such narrative convention reflects our eagerness to annihilate disability as soon as possible instead of accommodating or including it as part of our society, because disability is only used as the pathway to level up, a transient status, a "used to be", instead of an actual state that's worth being discussed. 
+While these are all interesting aspect to discuss, I am particularly interested in the idea of "technological cure" for disability, just like how Edward Erlic is "cured" by Automails. This is the most classic way to imagine human future. There are countless examples in science fiction like Luke Skywalker in *Star Wars*, Winter Soldier in *Captain America*, Major Motoko Kusanagi in Ghost in the Shell, and so on. We rarely think of these characters as disabled because as soon as their disabilities emerges, they are immediately "cured" by the technology and fixed back to the normal state, and sometimes even more becomes super human. Such narrative convention reflects our eagerness to annihilate disability as soon as possible instead of accommodating or including it as part of our society, because disability is only used as the pathway to level up, a transient status, a "used to be", instead of an actual state that's worth being discussed. 
 
 While enhancement is a tempting possibility, such a homogenous way to imagine the future of disability is inherently implementing a medical model of thinking that regards disability as impairment and pathological condition. (Wälivaara, 2018, p. 229) Prothesis are presented as the panacea to turn a deformed body back to a homogenous standard, and the danger and risk that accompanies the technology are often ignored and overlooked in the stories. 
 
@@ -90,4 +104,6 @@ Although I read these theories of disability studies and understood the claims o
 
 ## Unity世界
 
+
+## Bibliography
 
