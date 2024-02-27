@@ -4,6 +4,11 @@ tags:
 time: 2024-02-25
 ---
 - [ ] 还需要写一下科技不会照顾残障者这一点
+- [ ] Brechetian and neorealism
+
+## Abstract
+
+"Expect'' is a speculative sci-fi documentary shot in Virtual Reality (VR) that explores the hidden details behind how disabilities are represented in science fiction literature and media. The work features Chinese actors with disabilities role-playing as sci-fi characters in VR to rewrite, challenge and reimagine the conventional, ableist sci-fi tropes, such as “super-crip” and the tendency to “fix” or eradicate disabilities through the myth of enhancement. It brings focus to a larger social fabric of bio-power, labor, technology, and their interplay in the Chinese ideological environment. The accessibility of spectatorship is self-reflexively manifested inside and outside the film. “Expect” includes the process of actors with different disabilities interacting with the inaccessible VR device, and the film juxtaposes dialogues, meta-narrations and actors’ real-story interviews to further break the fourth walls in a Brechetian style. The VR filmmaking process reveals the fake promise of immersiveness, media augmentation and accessibility, which becomes the best commentary on how disabilities were instrumentalized yet never really been respected in a futuristic discussion.
 
 ## Background
 
