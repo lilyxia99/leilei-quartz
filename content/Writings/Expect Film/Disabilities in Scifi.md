@@ -118,13 +118,7 @@ Virtual filmmaking, especially in this film, emphasize acting and non-realism in
 
 #### Invisible Object
 
-Although the VR world theoretically can contain endless objects, due to the improvisation nature, not every needed props could be prepared. To resolve this,  we used a technique called “invisible object”, which is essentially miming. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance. I have used this methods in my previous work *Palace* and *Empty Touch Workshop*, and while in previous cases we were touching things with out eyes closed, this time I added a step to open our eyes and mimic sound effects while doing the gesturing. This materialless performance bridges the performers who are in different places; it is both an exercise in acting and the building of a tacit understanding. We work in tandem to accomplish a non-verbal communication, like children playing house, stepping into the fantasy of mutual recognition.
-
-The invisible object corresponds to the half-fictional, half-documentary nature of the movie. On the fictional level, every worldview and story in the movie is made up out of thin air. Touching invisible object emphasizes this fantastical nature; on the other hand, creating invisible object and role-playing both require the sense of faithfulness to extract things from the void.
-
-
-
-invisible object同时也对应了这部影片半虚构半纪录的本质。在虚构的层面上，电影中每一个世界观和故事都是凭空虚构的。演绎的目的不是为了去除反而是突出这种幻想性，同时角色扮演本身就需要一种虚空中来的信念感，正如小说家创作他们作品时候需要的那样，
+Although the VR world theoretically can contain endless objects, due to the improvisation nature, not every needed props could be prepared. To resolve this,  we used a technique called “invisible object”, which is essentially miming. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance. I have used this methods in my previous work *Palace* and *Empty Touch Workshop*, and while in previous cases we were touching things with out eyes closed, this time I added a step to open our eyes and mimic sound effects while doing the gesturing. The methods not only help the actors enter their acting state more quickly, but also thematically fits the setting that every world and stories in this film are made up out of thin air. This materialless performance bridges the performers who are in different places; it is both an exercise in acting and the building of a tacit understanding. We work in tandem to accomplish a non-verbal communication, like children playing house, stepping into the fantasy of mutual recognition.
 
 #### Tutorial and Process
 
