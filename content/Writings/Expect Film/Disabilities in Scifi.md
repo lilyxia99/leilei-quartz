@@ -9,7 +9,7 @@ time: 2024-02-25
 ### Disability in Real Life
 
 
-The definition of disability has always been changing along with the evolution of social value and contexts. In China, according Law of the People’s Republic of China on the Protection of Persons with Disabilities, “a person with a disability is a person who, psychologically, physiologically…has suffered a loss or abnormality… and has lost … the ability to engage in certain activities in a normal manner.” The definition is focused more on a person’s instability to fit the “normal” life (usually production life) in with the “normal” manner, without a clear definition of what normal means. This definition, however, is not the only way to define disability. There are many models for recognizing what disability is. The three most classic ones are moral models, medical models and social models, and these different models also influenced the archetype of disabilities in fiction literature and films.
+The definition of disability has always been changing along with the evolution of social value and contexts. The three most classic ways to understand disabilities are moral models, medical models and social models.
 
 #### Different Individual Models
 
@@ -32,9 +32,7 @@ While medical models was established, a lot of social movement also were happeni
 
 ### Disability in Science Fiction
 
-Fictions are mirror of our public consciousness. While I don't think the settings and characters of an individual novel necessary reflect the author's moral values, I do think that popular trends and common tropes in works reveal the common subconscious choices that originated from our shared belief, and the story in return shape, reinforce or subvert the reader's norms. 
-
-The starting point of this project is from the observation of popular science fiction from in which the mindsets in reality are represented. I would briefly talk about what kind of science fiction works I am referring to in this project, how they are related to the different models we have discussed, and how it leads to the artistic research in the next chapter. 
+Fictions are mirror of our public consciousness. While I don't think the settings and characters of an individual novel necessary reflect the author's moral values, I do think that popular trends and common tropes in works reveal the common subconscious choices that originated from our shared belief, and the story in return shape, reinforce or subvert the reader's norms. The starting point of this project is from the observation of popular science fiction from in which the mindsets in reality are represented. I would briefly talk about what kind of science fiction works I am referring to in this project, how they are related to the different models we have discussed, and how it leads to the artistic research in the next chapter. 
 
 #### Science Fiction and  Futurescapes
 
@@ -66,6 +64,9 @@ It's worth noting that transhumanism is not equivalent with posthumanism which s
 
 The presence of disability is often used as a sign of a failed future.” (Wälivaara, 2018, p. 226) Eugenics
 
+中国语境很符合超人类主义
+In China, according Law of the People’s Republic of China on the Protection of Persons with Disabilities, “a person with a disability is a person who, psychologically, physiologically…has suffered a loss or abnormality… and has lost … the ability to engage in certain activities in a normal manner.” The definition is focused more on a person’s instability to fit the “normal” life (usually production life) in with the “normal” manner, without a clear definition of what normal means. 
+
 #### An Alternative Future of Anti-Cure
 
 ### The Question of Omniscient Perspective
@@ -74,9 +75,7 @@ Although I read these theories of disability studies and understood the claims o
 
 Even though I knew what the more progressive and righteous perspective should be, when it comes down to it, it's hard for to resist the temptation to be cured by technology. One time I listened to a panel about birth control and disability, while most of the expert there were talking about the anti-eugenics, which I totally agree. Later when it comes to a guest of an ordinary woman with disabilities, she told her story, and just directly express her gratitude that her child is healthy and normal. It was actually a little awkward: on one hand for the fight of disabilities right, we need to oppose the idea of eugenics, but on the other hand, it's such a natural thought to want your child to be healthy, especially when family would have to afford all the expenses caused by social barriers. I know it's not the "right" way to think, but I couldn't blame that mother. Who has the right to force her to undertake all the burden of ideological progress? The life of a human being is too short to expect the social change, and not everyone is ready to fight against it, especially when one understand the stubbornness of the norm. It's easy to imagine for an era from an omniscient perspective, but hard to carry it out as a person. 
 
-The question of the omniscient perspective also happens on the research level. If the current depiction of characters with disabilities and futurescape is not being responsible enough, then what would be a good way to create those movies and novels? I again couldn't help imagining myself being the author -- can't write a disabled villain because that's stereotype, can't write a disabled good person because that's super-crip, can't write a normal disabled person because that's ignoring the issue of disabilities; and, after all, how big a responsibility does a writer have to write appropriately, while it's just one novel? Or, maybe I am just over thinking about the difficulties of writers, and making up this micro versus macro conflict?
-
-I am not sure, I need to find out.
+The question of the omniscient perspective also happens on the research level. If the current depiction of characters with disabilities and futurescape is not being responsible enough, then what would be a good way to create those movies and novels? I again couldn't help imagining myself being the author -- can't write a disabled villain because that's stereotype, can't write a disabled good person because that's super-crip, can't write a normal disabled person because that's ignoring the issue of disabilities; and, after all, how big a responsibility does a writer have to write appropriately, while it's just one novel? The micro versus macro conflict in fiction is just as confusing as the one in reality. I am not sure. I need to find out. 
 
 ## Embodied Exploration: *Expect* 
 
@@ -84,23 +83,28 @@ In *Lost Race of Science Fiction*(1980), Octavia Butler writes:
 
 >what do authors ordinarily do when they decide to write about an unfamiliar subject? They research. They read—in this case recent biographies and autobiographies of people in the group they want to write about are good. They talk to members of that group—friends, acquaintances, coworkers, fellow students, even strangers on buses or waiting in lines. 
 
-They research, they read, they talk, and in this case, I want to add another element to it: they act. 
+They research, read and talk, and afterwards, they need to write. As a filmmaker, how do I achieve all of those things together? 
 
-### In What Way?
-#### Documentary
+### Form: Half Documentary Half Fiction
 
-#### Fiction
+The first way I think of is to make a documentary. The question I was having all comes thinking from the perspective of people with disability and ask how they feel and how would they choose. *Fixed: The Science/Fiction of Human Enhancement* is a great example that covers all the basic conflict point around the debate of transhumanism, in which opinions from scholars, ordinary people, engineers and many other stakeholders form a spectrum of discussion over this topic. 
 
-### Half and Half: Mixing, Reflecting and Transparancy
+What I am interested, however, is not only the discussion of reality. What I am interested is the real tendency that's being reflected in the context of science fiction. There is a Chinese saying of "纸上得来终觉浅，绝知此事要躬行"（Paper knowledge is shallow, real understanding comes from personal experience.) Instead of simply asking about their opinion on existing science fiction work, why not throw ourselves into those world? It's probably when one really becomes an individual in those futurescape that they would find out what's really at stake to live in this world. 
 
-#### Strategy: Story As Both Noun and Verb
+Following these purpose, I used role-playing and other strategies which are introduced in the following section to conduct the research, and decided on the having the film be presented as half fiction half documentary. 
 
-##### Role Playing and Acting
+### Strategy: Story As Both Noun and Verb
 
-A Role-Playing Game(RPG), is a genre of game in which players assume the roles of characters in a fictional setting. RPG can be divided into many sub-categories like ERPG(Electronic Role-Playing Game), TRPG(Tabletop Role-Playing Game), VTRPG (Virtual Tabletop Role-Playing Game) and LARP ( Live Action Role-Playing). The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
+#### Role Playing and Acting
+
+A Role-Playing Game(RPG), is a genre of game in which players assume the roles of characters in a fictional setting. When I was playing some TRPG game(Tabletop Role-Playing Game, in Chinese we call it "跑团", which means "run the group"), I feel like I was writing a novel along with other player, a process that combines writing and conversing. I see the potential of using this framework to both talk about problems in real life and explore science fiction imagination. 
+
+I asked people with disabilities who are interested in science fiction to imagine themselves as a member of a science fiction work or a future, alien, alternative civilization, and 
+
+RPG can be divided into many sub-categories. The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
 
 I use a made-up word called interview-actor to refer the people involved in this project. They are not exactly the interviewees in a documentary, nor are they entirely actors. While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false.
-##### VR
+#### VR
 
  Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. Documentary filmmaking in reality seeks a sense of "realism" - even if that "realism" is in question. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera.
 
@@ -108,15 +112,15 @@ Virtual filmmaking, especially in this film, emphasize acting and non-realism in
 
 环境虽然可以按照表演者想象的心意设置，但终究不是自己家里的，因此所谓的从环境中窥见演员
 我们都在谈一些虚构的事情。而且我对窥探采访对象的真实隐私没有兴趣。
-##### Invisible Object
+#### Invisible Object
 
 In the film we will use a technique called “invisible object”, which comes from a workshop that I developed. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance, 这种无实物表演衔接了身处异地的表演者；它既是一种演技的练习，也是一种默契的建立。我们配合中完成一种非语言的交流，像玩过家家的小孩子一样，踏入共同确认的幻想中。
 
 invisible object同时也对应了这部影片半虚构半纪录的本质。在虚构的层面上，电影中每一个世界观和故事都是凭空虚构的。演绎的目的不是为了去除反而是突出这种幻想性，同时角色扮演本身就需要一种虚空中来的信念感，正如小说家创作他们作品时候需要的那样，
 
-##### Tutorial and Process
+#### Tutorial and Process
 
-#### The Worlds: Different Models
+### The Worlds: Different Models
 
 ##### Cyberpunk World
 
