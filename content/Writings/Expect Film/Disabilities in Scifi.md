@@ -64,28 +64,34 @@ Such a technological cure is closely related to a philosophical and social movem
 
 It's worth noting that transhumanism is not equivalent with posthumanism which strive to move away from an anthropocentric view by embracing the implication of technology. Transhumanism and posthuman are actually quite different. The former is a extreme pursue of highly centralized and homogenous view of a "better future", when the other embraces different creatures and races, diversity, and de-centered narratives. When Donna Haraway talked about cyborgs and posthuman, she was calling for a more diverse society where people can all be living in different ways. From transhumanist view, however, there is a standardized trajectory of "evolution": stronger, smarter, and live longer. A good transhumanist future is where individuals modify themselves to fit the fast pace and high standards of society. What a good society is not one in which all the different people can have their own way, but one in which all people move efficiently on a similar channels. 
 
-The presence of disability is often used as a sign of a failed future.” (Wälivaara, 2018, p. 226) 
+The presence of disability is often used as a sign of a failed future.” (Wälivaara, 2018, p. 226) Eugenics
 
 #### An Alternative Future of Anti-Cure
 
 ### The Question of Omniscient Perspective
 
-+ 怎样的叙事，怎样的人物，才是对残障群体一种负责人的刻画？从一个上帝视角来说我们可以要求作者这么样那样，但是感觉也挺难的。如果作为一个普通的作者来写，真的能免俗吗？
+Although I read these theories of disability studies and understood the claims of anti-cure, a strange feeling always floated in my mind -- Is it really so easy to achieve the accessible world? What's really stopping us? As an non-disabled artist, I can't imagine how it really is to be a person with disabilities, but if I did have temporary paralyzing experience of breaking my back and couldn't get up from the bed, during which I don't know how soon or whether I could recover. The thought that flashed through my mind at that time was that I would really like some technology that would allow me to get off the ground and run again. 
 
-Although I read these theories of disability studies and understood the claims of anti-cure, a strange feeling always floated in my mind -- Is it really so easy to achieve the accessible world? What's really stopping us? As an non-disabled artist, I can't imagine how it really is to be a person with disabilities, but if I did have temporary paralyzing experience of breaking my back and couldn't get up from the bed, during which I don't know how soon or whether I could recover. The thought that flashed through my mind at that time was that I would really like some technology that would allow me to get off the ground and run again. Even though I knew what the more progressive and righteous perspective should be, when it comes down to it, it's hard for to resist the temptation to be cured by technology. If I were really born in a cyberpunk society, where enhancement and modification is the absolute norm, would I be courageous enough to stay as how I am? Compared to an epic time span, the life of a human being is too short to expect the social change, especially when you see the stubbornness of the norm. It's easy to imagine for an era from an omniscient perspective, but hard to carry it out as a person. 
+Even though I knew what the more progressive and righteous perspective should be, when it comes down to it, it's hard for to resist the temptation to be cured by technology. One time I listened to a panel about birth control and disability, while most of the expert there were talking about the anti-eugenics, which I totally agree. Later when it comes to a guest of an ordinary woman with disabilities, she told her story, and just directly express her gratitude that her child is healthy and normal. It was actually a little awkward: on one hand for the fight of disabilities right, we need to oppose the idea of eugenics, but on the other hand, it's such a natural thought to want your child to be healthy, especially when family would have to afford all the expenses caused by social barriers. I know it's not the "right" way to think, but I couldn't blame that mother. Who has the right to force her to undertake all the burden of ideological progress? The life of a human being is too short to expect the social change, and not everyone is ready to fight against it, especially when one understand the stubbornness of the norm. It's easy to imagine for an era from an omniscient perspective, but hard to carry it out as a person. 
 
-This conflict between the omniscient perspective and individual perspective surfaced again and again during my research. One time I participated 
+The question of the omniscient perspective also happens on the research level. If the current depiction of characters with disabilities and futurescape is not being responsible enough, then what would be a good way to create those movies and novels? I again couldn't help imagining myself being the author -- can't write a disabled villain because that's stereotype, can't write a disabled good person because that's super-crip, can't write a normal disabled person because that's ignoring the issue of disabilities; and, after all, how big a responsibility does a writer have to write appropriately, while it's just one novel? Or, maybe I am just over thinking about the difficulties of writers, and making up this micro versus macro conflict?
+
+I am not sure, I need to find out.
 
 ## Embodied Exploration: *Expect* 
 
-既然如此，欲知此事要躬行，与其读和批评小说，不如来体验小说，成为小说。
+In *Lost Race of Science Fiction*(1980), Octavia Butler writes:
 
-### The question of form
+>what do authors ordinarily do when they decide to write about an unfamiliar subject? They research. They read—in this case recent biographies and autobiographies of people in the group they want to write about are good. They talk to members of that group—friends, acquaintances, coworkers, fellow students, even strangers on buses or waiting in lines. 
+
+They research, they read, they talk, and in this case, I want to add another element to it: they act. 
+
+### In What Way?
 #### Documentary
 
 #### Fiction
 
-### Half and Half
+### Half and Half: Mixing, Reflecting and Transparancy
 
 #### Strategy: Story As Both Noun and Verb
 
@@ -161,3 +167,5 @@ WHO. 1980. _The International Classification of Impairments, Disabilities and H
 WHO, 2001, *International Classification of Functioning, Disability and Health (ICF)*. [https://icd.who.int/dev11/l-icf/en](https://icd.who.int/dev11/l-icf/en).
 
 Oliver, Mike. 1990, “THE INDIVIDUAL AND SOCIAL MODELS OF DISABILITY,” paper presented at Joint Workshop of the Living Options Group and the Research Unit of the Royal College of Physicians.
+
+Butler, Octavia E. 2016. “‘LOST RACES OF SCIENCE FICTION’ (1980).”
