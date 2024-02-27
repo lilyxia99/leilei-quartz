@@ -27,7 +27,7 @@ You can also use inline footnotes. [^note]
 <iframe src="https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note" width="100%" height="400px"></iframe>
 
 
-
+<iframe src="https://help.obsidian.md/Editing+and+formatting/Callouts#Foldable+callouts" width="100%" height="400px"></iframe>
 
 [^1]:this is an inline footnote right
 [^note]: let's try

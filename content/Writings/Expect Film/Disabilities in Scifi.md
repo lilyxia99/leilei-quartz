@@ -136,9 +136,14 @@ The failure of technology is also reflected in the lack of consideration for dis
 
 Although the VR world theoretically can contain endless objects, due to the improvisation nature, not every needed props could be prepared. To resolve this,  we used a technique called “invisible object”, which is essentially miming. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance. I have used this methods in my previous work *Palace* and *Empty Touch Workshop*, and while in previous cases we were touching things with out eyes closed, this time I added a step to open our eyes and mimic sound effects while doing the gesturing. The methods not only help the actors enter their acting state more quickly, but also thematically fits the setting that every world and stories in this film are made up out of thin air. This materialless performance bridges the performers who are in different places; it is both an exercise in acting and the building of a tacit understanding. We work in tandem to accomplish a non-verbal communication, like children playing house, stepping into the fantasy of mutual recognition.
 
-While being shot in VR, the final product is a single channel film piece that shows the best in a theatre, conforming to a more traditional medium as what is being discussed here is also traditional popular medium. Yet the shooting method itself provide the viewer a way to enter the virtual space. The point of view perspective and the often showed up 
+While being shot in VR, the final product is a single channel film piece that shows the best in a theatre, conforming to a more traditional medium as what is being discussed here is also traditional popular medium. Yet the shooting method itself provide the viewer a way to enter the virtual space. The pop up window of the game menu, the presence of the VR camera, the shaky point of view all convey the sense of immersiveness, creating a new kind of viewing experience that feels both in and out of the game. 
+
+> [!info] 
+> Not really sure about how to write the viewing effect.
 
 ### The Worlds: Different Models
+
+In this chapter I will introduce the specific worlds that we built in the film, as well as introducing different characters. For readability sake, I will just use the character name to refer to the actor. 
 
 #### Cyberpunk World
 
@@ -152,7 +157,7 @@ While being shot in VR, the final product is a single channel film piece that sh
 
 #### Unity World
 
-
+Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her voice doesn't . When she improvise, she has a burst of energy
 
 ### The Ambivalent Individual
 
@@ -163,7 +168,7 @@ While being shot in VR, the final product is a single channel film piece that sh
 科幻故事总是和世界观有关，总是和很大的概念和创意有关。但是我似乎更加关心个人。到底怎样才是好的科幻呢？我也不指导。
 关于这些个人的描写，能够如何改变科幻的范式呢？怎样去书写一个残障的角色才是妥帖的，才不会沦为一种符号和工具呢？或许就是通过一个立体的角色的呈现吧。者无关主义，无关政治正确，而是关于角色本身是否鲜活，其实是关于是否是一个好作品。
 
-#### About Lifeh
+#### About Reality
 
 发现1：残障人本身自然是有不同的看法。有的人会更有自己的身份认同，有的人会希望“光荣的进化”。两边都有一点理想主义的感觉，而且我与两边都能共情。面对那种“真诚的健全主义”期待，有一种秀才遇上兵，有理说不清的感觉。似乎每一个人都太不一样了，很难从一个自上而下的视角上去要求谁。
 
