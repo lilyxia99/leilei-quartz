@@ -163,7 +163,16 @@ The story of Unity is a complex one. The Unity here is not the Unity Engine whic
 
 As Unity share their consciousness, to some degrees they are not individuals. All of them are a single unity. Their pronoun is a single they, and it's the same for any of them. When a person grows into adult, they could choose whether to join Unity or not. To be a unity means being part of an advanced society, living a higher quality life with more companions, but it also means erasing your own identity. Talking to one unity would be equivalent to talking to every unity. 
 
-People who chose not to join Unity is called the Lonely People, or Loniers. A lot of them have different body abilities, and they don't want to be assimilated. A Lonier doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely people can only undertake some "unimportant works", like repairing mosquito nets, or doing art. (sadly true) The Lonely People accept monthly salary from the Unity, and 
+People who chose not to join Unity is called the Lonely People, or Loniers. Lulu is part of this community. A lot of them have different body abilities, and they don't want to be assimilated. A Lonier doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely people can only undertake some "unimportant works" like basic crafts thing or doing art, (sadly true). Even for art, The Lonely People couldn't produce anything that Unity needs, because Unity can use AI to generate and comsume art immediately. Money became meaningless to the Lonely People, because they accept monthly economic payment from Unity. In another word, The Lonely People are raised by Unity. 
+
+When I first arrived, she introduced me all the details of the world, during which we witness a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. When Dog Egg 
+
++ 狗蛋回到家，玛丽亚把他绑起来
++ 狗蛋一心想要回到unity
++ 玛丽亚悲痛，放走了狗蛋，因为她不想像unity一样抹杀孩子的想法，随后自尽
++ lulu和立夏去到unity世界
++ 立夏参观lulu的房间
+
 
 
 ### The Ambivalent Individual
