@@ -143,7 +143,7 @@ While being shot in VR, the final product is a single channel film piece that sh
 
 ### The Worlds: Different Models
 
-In this chapter I will introduce the specific worlds that we built in the film, as well as introducing different characters. For readability sake, I will just use the character name to refer to the actor. 
+In this chapter I will introduce the specific worlds that we built in the film, as well as introducing different characters. For readability sake, I will just use the character name to refer to the actor. Here I am only briefly writing about the general world view and some interesting points, while more detailed and comprehensive content could be found in the film.
 
 #### Cyberpunk World
 
@@ -157,7 +157,14 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 
 #### Unity World
 
-Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her voice doesn't . When she improvise, she has a burst of energy
+Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her natural voice is a little stuttered and slow, but that also gave her voice a weird sense of tension, which works really well in storytelling. Her burst of energy and fast improvisational skills makes her story stands out quite differently among all the worlds. 
+
+The story of Unity is a complex one. The Unity here is not the Unity Engine which drove me crazy in the VR setup, but a civilization where people's mind are all connected. Unity people, according to Lulu, can share knowledge with instantly like maga-computers, and even have the ability to calculate and experience higher dimensional information. 
+
+As Unity share their consciousness, to some degrees they are not individuals. All of them are a single unity. Their pronoun is a single they, and it's the same for any of them. When a person grows into adult, they could choose whether to join Unity or not. To be a unity means being part of an advanced society, living a higher quality life with more companions, but it also means erasing your own identity. Talking to one unity would be equivalent to talking to every unity. 
+
+People who chose not to join Unity is called the Lonely People, or Loniers. A lot of them have different body abilities, and they don't want to be assimilated. A Lonier doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely people can only undertake some "unimportant works", like repairing mosquito nets, or doing art. (sadly true) The Lonely People accept monthly salary from the Unity, and 
+
 
 ### The Ambivalent Individual
 
