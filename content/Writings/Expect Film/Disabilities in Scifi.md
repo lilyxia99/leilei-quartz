@@ -99,7 +99,9 @@ Following these purpose, I used role-playing and other strategies which are intr
 
 A Role-Playing Game(RPG), is a genre of game in which players assume the roles of characters in a fictional setting. When I was playing some TRPG game(Tabletop Role-Playing Game, in Chinese we call it "跑团", which means "run the group"), I feel like I was writing a novel along with other player, a process that combines writing and conversing. I see the potential of using this framework to both talk about problems in real life and explore science fiction imagination. 
 
-I asked people with disabilities who are interested in science fiction to imagine themselves as a member of a science fiction work or a future, alien, alternative civilization, and 
+I asked people with disabilities who are interested in science fiction to imagine themselves as a member of a science fiction work or a future, alien, alternative civilization. I act as a traveller who accidentally came into their, and they would take me around their world and answer various questions of mine.
+
+I first sent out an open call 
 
 RPG can be divided into many sub-categories. The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
 
