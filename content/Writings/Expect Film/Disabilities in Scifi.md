@@ -157,22 +157,24 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 
 #### Unity World
 
-Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her natural voice is a little stuttered and slow, but that also gave her voice a weird sense of tension, which works really well in storytelling. Her burst of energy and fast improvisational skills makes her story stands out quite differently among all the worlds. 
+I first arrived at the Unity world because I heard that Unity has advanced technology that can fix my telecommunication system, and it is said that Unity has something to do with the running the every universe. The Unity is a civilization where people's mind are all connected. Unity people, according to Lulu, can share knowledge with instantly like maga-computers, and even have the ability to calculate and experience higher dimensional information. 
 
-The story of Unity is a complex one. The Unity here is not the Unity Engine which drove me crazy in the VR setup, but a civilization where people's mind are all connected. Unity people, according to Lulu, can share knowledge with instantly like maga-computers, and even have the ability to calculate and experience higher dimensional information. 
+As Unity share their consciousness, to some degrees they are not individuals. All of them are a single unity. Their pronoun is a single they, and it's the same for any of them. Each Unity body has a blue square on their forehead. When a person grows into adult, they could choose whether to join Unity or not. To be a unity means being part of an advanced society, living a higher quality life with more companions, but it also means erasing your own identity. Talking to one unity would be equivalent to talking to every unity. 
 
-As Unity share their consciousness, to some degrees they are not individuals. All of them are a single unity. Their pronoun is a single they, and it's the same for any of them. When a person grows into adult, they could choose whether to join Unity or not. To be a unity means being part of an advanced society, living a higher quality life with more companions, but it also means erasing your own identity. Talking to one unity would be equivalent to talking to every unity. 
+People who chose not to join Unity is called the Lonely People, or loners. Lulu is part of this community. A lot of them have different body abilities, and they don't want to be assimilated. A loner doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely People can only undertake some "unimportant works" like basic crafts thing or doing art, (sadly true). Even for art, The Lonely People couldn't produce anything that Unity needs, because Unity can use AI to generate and comsume art immediately. Money became meaningless to the Lonely People, because they accept monthly economic payment from Unity. In another word, The Lonely People are raised by Unity. 
 
-People who chose not to join Unity is called the Lonely People, or Loniers. Lulu is part of this community. A lot of them have different body abilities, and they don't want to be assimilated. A Lonier doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely people can only undertake some "unimportant works" like basic crafts thing or doing art, (sadly true). Even for art, The Lonely People couldn't produce anything that Unity needs, because Unity can use AI to generate and comsume art immediately. Money became meaningless to the Lonely People, because they accept monthly economic payment from Unity. In another word, The Lonely People are raised by Unity. 
+When I first arrived, she introduced me all the details of the world, during which we witness a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. In one occasion, Maria caught the Unity who used to be Dog Egg, and forced him to turn back into a loner. They had a big argument. In the end, Maria gave in because she didn't want to erase her child's mind just like what Unity does. Dog Egg turned back to Unity, and Maria killed herself in despair. 
 
-When I first arrived, she introduced me all the details of the world, during which we witness a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. When Dog Egg 
+Being a childhood friend of Dog Egg, Lulu is outraged. 
 
-+ 狗蛋回到家，玛丽亚把他绑起来
-+ 狗蛋一心想要回到unity
-+ 玛丽亚悲痛，放走了狗蛋，因为她不想像unity一样抹杀孩子的想法，随后自尽
-+ lulu和立夏去到unity世界
+
 + 立夏参观lulu的房间
++ lulu和立夏去到unity世界, 狗蛋说了他的想法
 
++ 立夏发现Unity确实通向了整个世界
+
+
+Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her natural voice is a little stuttered and slow, but that also gave her voice a weird sense of tension, which works really well in storytelling. Her burst of energy and fast improvisational skills makes her story stands out quite differently among all the worlds. 
 
 
 ### The Ambivalent Individual
