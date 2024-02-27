@@ -91,36 +91,44 @@ The first way I think of is to make a documentary. The question I was having all
 
 What I am interested, however, is not only the discussion of reality. What I am interested is the real tendency that's being reflected in the context of science fiction. There is a Chinese saying of "纸上得来终觉浅，绝知此事要躬行"（Paper knowledge is shallow, real understanding comes from personal experience.) Instead of simply asking about their opinion on existing science fiction work, why not throw ourselves into those world? It's probably when one really becomes an individual in those futurescape that they would find out what's really at stake to live in this world. 
 
-Following these purpose, I used role-playing and other strategies which are introduced in the following section to conduct the research, and decided on the having the film be presented as half fiction half documentary. 
+I decided on the having the film be presented as half fiction half documentary: sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false. Following these purpose, I used role-playing and other strategies which are introduced in the following section to conduct the research. 
+
+It's worth mentioning that I also decided to keep the realm of the project within China. As a Chinese artist, I am particularly interested in disability in the Chinese context. In China, disability study is not yet an official discipline, nor is there enough discussion on equal rights for disability which are sometimes even politically sensitive. At the same time, there's a strange tendency toward transhumanism in the values of Chinese society today as I have mentioned before. While the question in Chinese context is fascinating, I am also more familiar with the disabilities community in China, as I had worked with different communities of disabilities and learned disability studies through Chinese grassroots organizations; in my professional practice, I have a long-time working relationship with Chinese disabled artists(who will also participate in this project) and have a follower community of disabilities. I wanted to have deeper conversations with them on how they see ableism permeating in China, and if there is a way out.
 
 ### Strategy: Story As Both Noun and Verb
 
 #### Role Playing and Acting
 
-A Role-Playing Game(RPG), is a genre of game in which players assume the roles of characters in a fictional setting. When I was playing some TRPG game(Tabletop Role-Playing Game, in Chinese we call it "跑团", which means "run the group"), I feel like I was writing a novel along with other player, a process that combines writing and conversing. I see the potential of using this framework to both talk about problems in real life and explore science fiction imagination. 
+A Role-Playing Game(RPG), is a genre of game in which players assume the roles of characters in a fictional setting. When I was playing some TRPG game(Tabletop Role-Playing Game, in Chinese we call it "跑团", which means "run the group"), I feel like I was writing a novel along with other player. While still very much being myself, I am indeed acting another character, and will not think out of character (OOC). I see the potential of using this framework to both talk about problems in real life and explore science fiction imagination. 
 
-I asked people with disabilities who are interested in science fiction to imagine themselves as a member of a science fiction work or a future, alien, alternative civilization. I act as a traveller who accidentally came into their, and they would take me around their world and answer various questions of mine.
+I asked people with disabilities who are interested in science fiction to imagine themselves as a member of a science fiction work or a future, alien, alternative civilization. I act as a traveller who accidentally came into their, and they would take me around their world and answer various questions of mine. 
 
-I first asked some of my friends who fit the criteria, and then sent out an open call to the WeChat group of disabilities communities, and soon I got several responses. 
+I first asked some of my friends who fit the criteria, and then sent out an open call to the WeChat group of disabilities communities, and soon I got several responses, from which I did the interview, and selected 3 people plus 3 of my friends in the end, all of whom are from China. The way I filter them is based quite subjective: simply based on whether I feel they are interesting and in the play while doing Role-Playing with me. 
 
-RPG can be divided into many sub-categories. The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
+The reason why I have this "interview" process is because I am not simply looking for documentary subject --  I am recruiting actors. I regard the participants of this project as what I call "interview-actor". While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; On the other hand, I do have requirement on them as actors, as they need to dedicate enough shooting time with me, be able to jump into the story whenever we start, and stay within the character during the acting.
 
-I use a made-up word called interview-actor to refer the people involved in this project. They are not exactly the interviewees in a documentary, nor are they entirely actors. While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false.
+Another reason why I want to recruit them as actors is because I’ve seen a lot of other projects that claim themselves to be “co-creation”, but ended up as just exploiting the time and labor of people with disabilities for free. In this project, actors are also paid for their acting, time and effort. They contribute to the script, set design and their costume design. 
 #### VR
 
- Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. Documentary filmmaking in reality seeks a sense of "realism" - even if that "realism" is in question. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera.
+ When I am talking about sets and costumes, however, I am actually referring to 3D worlds and avatars. This is because our Role-Playing didn't happen in real life, but in Virtual Reality(VR). We use VRChat as the platform for immersive environment, so that the actors in China can be in a same space with me and my cinematographer in the US. 
+ 
+ Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera.
 
-Virtual filmmaking, especially in this film, emphasize acting and non-realism in the first place. Although it also partly  refusing to present everything as it is, it nullifies the expectation of realism or truth-seeking in conventional documentary context, and, on the contrary,
+Virtual filmmaking, especially in this film, emphasize acting and non-realism in the first place. It refuses to present everything as it is and nullifies the expectation of realism or truth-seeking in conventional documentary context. The world, houses and even their own appearance are all virtual assets that are by no means realistic, but since they are designed and selected based on their imagination, they do reflect their personal preferences and values, just like how we see real life from science fictions. 
 
-环境虽然可以按照表演者想象的心意设置，但终究不是自己家里的，因此所谓的从环境中窥见演员
-我们都在谈一些虚构的事情。而且我对窥探采访对象的真实隐私没有兴趣。
 #### Invisible Object
 
-In the film we will use a technique called “invisible object”, which comes from a workshop that I developed. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance, 这种无实物表演衔接了身处异地的表演者；它既是一种演技的练习，也是一种默契的建立。我们配合中完成一种非语言的交流，像玩过家家的小孩子一样，踏入共同确认的幻想中。
+Although most of the world Assets are built in, In the film we will use a technique called “invisible object”, which comes from a workshop that I developed. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance. This materialless performance bridges the performers who are in different places; it is both an exercise in acting and the building of a tacit understanding. We work in tandem to accomplish a non-verbal communication, like children playing house, stepping into the fantasy of mutual recognition.
+
+The invisible object corresponds to the half-fictional, half-documentary nature of the movie. On the fictional level, every worldview and story in the movie is made up out of thin air. Touching invisible object emphasizes this fantastical nature; on the other hand, creating invisible object and role-playing both require the sense of faithfulness to extract things from the void.
+
+
 
 invisible object同时也对应了这部影片半虚构半纪录的本质。在虚构的层面上，电影中每一个世界观和故事都是凭空虚构的。演绎的目的不是为了去除反而是突出这种幻想性，同时角色扮演本身就需要一种虚空中来的信念感，正如小说家创作他们作品时候需要的那样，
 
 #### Tutorial and Process
+
+
 
 ### The Worlds: Different Models
 
