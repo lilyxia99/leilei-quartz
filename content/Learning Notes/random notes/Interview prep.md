@@ -21,4 +21,12 @@ technique wise--自学的一些共通点。
 
 theme wise: 1. be able to feel about an animation 2. how to tell a sincere story 
 
-## 
+## What class I want to teach
+
+seminar: about disability studies
+
+fictional documentary course
+
+Tactile device course
+
+tutorial video course -- a blend between viralness and ponderness

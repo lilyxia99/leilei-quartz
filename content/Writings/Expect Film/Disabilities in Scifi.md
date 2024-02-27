@@ -75,9 +75,14 @@ In China, according Law of the People’s Republic of China on the Protection of
 
 #### An Alternative Future of Anti-Cure
 
-+ What is Anti-Cure
-+ how an Anti-Cure and accessible future be
-+ An accessible future doesn't need that advance technology. Ideology is also a technology.
+> [!info]
+> needs revision
+
+The concept of "anti-cure" refers to a critical stance or perspective against the idea of curing disabilities. This viewpoint is rooted in the social model of disability, which suggests that disability is not solely defined by an individual's physical or mental condition but is also significantly shaped by societal barriers and attitudes.
+
+An ideal society embracing the spirit of anti-cure prioritizes challenging ableism and enhancing accessibility through comprehensive societal reform. This involves the widespread adoption of universal design principles, ensuring that all public spaces, technologies, and services are accessible to everyone, thereby eliminating physical and digital barriers that exclude individuals with disabilities. Education systems, workplaces, and healthcare services would adopt inclusive practices, recognizing and accommodating the diverse needs and abilities of all individuals. Efforts to challenge ableism would be embedded in all sectors of society, from media representation to policy-making, actively working to dismantle prejudices and stereotypes that marginalize people with disabilities. Awareness and education campaigns would also play a crucial role in shifting societal attitudes, fostering a culture of respect, equality, and appreciation for diversity.
+
+Moreover, this society would guarantee the autonomy and choice of individuals with disabilities, allowing them to lead lives according to their preferences and decisions, free from paternalism or coercion. By centering the experiences and voices of individuals with disabilities, this society would not only challenge ableism but also celebrate and value disability as a natural and integral aspect of human diversity.
 
 ### The Question of Omniscient Perspective
 
@@ -145,11 +150,17 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 
 #### Cyberpunk World
 
+> [!info]
+> This part is still work in progress
+
 其中一位给自己角色的名字叫小华。他是一名科技公司的程序员。他想象的世界是一个最为理想化的科幻世界，一个他
 
 有趣的是，虽然我采访的对象不多，但是几乎所有受访的男性都想象了一种赛博朋克感十足的世界，尤其是要含有身体改造的元素。
 
+
 #### Near Future World
+
+Miss.Time Orange is the owner of the antique store. I was delivered to her house in the hope to find an old map from her antique store to travel to Unity world. She is a wheelchair user, and 
 
 
 #### Unity World
@@ -162,16 +173,9 @@ People who chose not to join Unity is called the Lonely People, or loners. Livin
 
 Lulu is a loner without her two arms. Her job is mosquito net maker, for fun, as mosquito nets are mass produced by Unity mostly. She took me to her house, in which there is a big computer. She is computer scientist, (in real life she is also having a test for a computer science graduate school) and I was surprised that although she holds a really distain attitude towards Unity, she was actually one of the developer of Unity, but left the project because Unity derails her expectations. She want to use machine to overcome her disability, but doesn't want it to control her mind.  
 
-When we were walking around the village, we a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. In one occasion, Maria caught the Unity who used to be Dog Egg, and forced him to turn back into a loner. They had a big argument. In the end, Maria gave in because she didn't want to erase her child's mind just like what Unity does. Dog Egg turned back to Unity, and Maria killed herself in despair. 
+When we were walking around the village, we a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. In one occasion, Maria caught the Unity who used to be Dog Egg, and forced him to turn back into a loner. They had a big argument. In the end, Maria gave in because she didn't want to erase her child's mind just like what Unity does. Dog Egg turned back to Unity, and Maria killed herself in despair. Being a childhood friend of Dog Egg, Lulu is outraged. We went to Unity and saw Dog Egg again, but obviously he is no longer himself, nor was he feeling sorry for his mother. To Lulu, Unity doesn't have humanity anymore. 
 
-Being a childhood friend of Dog Egg, Lulu is outraged. 
-
-
-+ 立夏参观lulu的房间
-+ lulu和立夏去到unity世界, 狗蛋说了他的想法
-
-+ 立夏发现Unity确实通向了整个世界
-
+In the end, Unity provided me access to the outer world. It turns out the Unity is connected to the Unity Engine, which is what made the VRChat platform possible. The whole film also ends there -- with me in the software space, looking back at each world that I've went to. 
 
 Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her natural voice is a little stuttered and slow, but that also gave her voice a weird sense of tension, which works really well in storytelling. Her burst of energy and fast improvisational skills makes her story stands out quite differently among all the worlds. 
 
