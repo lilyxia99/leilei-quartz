@@ -101,7 +101,7 @@ A Role-Playing Game(RPG), is a genre of game in which players assume the roles o
 
 I asked people with disabilities who are interested in science fiction to imagine themselves as a member of a science fiction work or a future, alien, alternative civilization. I act as a traveller who accidentally came into their, and they would take me around their world and answer various questions of mine.
 
-I first asked some of my friends who fit the criteria, and then sent out an open call 
+I first asked some of my friends who fit the criteria, and then sent out an open call to the WeChat group of disabilities communities, and soon I got several responses. 
 
 RPG can be divided into many sub-categories. The acting process in this film is similar to a VTRPG: we meet each other virtually through VRChat, and interview-actors need to act out their roles within a narrative through dialogue or narrating actions, just like how players in TRPG do. It’s a different from traditional TRPG that is not win or lose in this process, nor are we using strict character building system or any maps to chart our progress. It’s not a classic “The Hero’s Journey”, but rather “A Hero’s Day”.  
 
