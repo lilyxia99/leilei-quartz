@@ -3,6 +3,7 @@ tags:
   - expect-film
 time: 2024-02-25
 ---
+- [ ] 还需要写一下科技不会照顾残障者这一点
 
 ## Background
 
@@ -69,6 +70,10 @@ In China, according Law of the People’s Republic of China on the Protection of
 
 #### An Alternative Future of Anti-Cure
 
++ What is Anti-Cure
++ how an Anti-Cure and accessible future be
++ An accessible future doesn't need that advance technology. Ideology is also a technology.
+
 ### The Question of Omniscient Perspective
 
 Although I read these theories of disability studies and understood the claims of anti-cure, a strange feeling always floated in my mind -- Is it really so easy to achieve the accessible world? What's really stopping us? As an non-disabled artist, I can't imagine how it really is to be a person with disabilities, but if I did have temporary paralyzing experience of breaking my back and couldn't get up from the bed, during which I don't know how soon or whether I could recover. The thought that flashed through my mind at that time was that I would really like some technology that would allow me to get off the ground and run again. 
@@ -112,29 +117,31 @@ Another reason why I want to recruit them as actors is because I’ve seen a lot
 
  When I am talking about sets and costumes, however, I am actually referring to 3D worlds and avatars. This is because our Role-Playing didn't happen in real life, but in Virtual Reality(VR). We use VRChat as the platform for immersive environment, so that the actors in China can be in a same space with me and my cinematographer in the US. 
  
- Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera.
+ Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera. Virtual filmmaking, especially in this film, emphasize acting and non-realism in the first place. It refuses to present everything as it is and nullifies the expectation of realism or truth-seeking in conventional documentary context. The world, houses and even their own appearance are all virtual assets that are by no means realistic, but since they are designed and selected based on their imagination, they do reflect their personal preferences and values, just like how we see real life from science fictions. 
 
-Virtual filmmaking, especially in this film, emphasize acting and non-realism in the first place. It refuses to present everything as it is and nullifies the expectation of realism or truth-seeking in conventional documentary context. The world, houses and even their own appearance are all virtual assets that are by no means realistic, but since they are designed and selected based on their imagination, they do reflect their personal preferences and values, just like how we see real life from science fictions. 
+Although shot in VR, the final product is a single channel film piece. 
+
+To some degrees, VR itself also a very "sci-fi-ish" technology. While constantly being depicted as the ultimate technology for entertainment, education, and even escaping the limitations of the physical world, the technical limitations, high costs, and a lack of widespread content makes it a perpetually unfulfilled promise. During our shooting process, we also encounter many barriers: The inaccessible design of VR headset, the constant bugs of device that arise out of nowhere and the Internet firewalls between China and US. All those process becomes the best real life echo of how technology, while providing certain access, creates even more barriers and difficulties, and often doesn't take the need from people with disabilities into account. While the device reflects the failure of technology, the virtual set up for VR also reflects the lack of consideration for disabilities. There is no existing instruction on how to design a wheelchair chair character, and I have to figure out a work around which is imperfect in fitting with the the VRChat system. The process and tutorial for how to create an accessible VR environment are included in the film, pointing back to the concept the mixing of fiction and reality.
 
 #### Invisible Object
 
 Although the VR world theoretically can contain endless objects, due to the improvisation nature, not every needed props could be prepared. To resolve this,  we used a technique called “invisible object”, which is essentially miming. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance. I have used this methods in my previous work *Palace* and *Empty Touch Workshop*, and while in previous cases we were touching things with out eyes closed, this time I added a step to open our eyes and mimic sound effects while doing the gesturing. The methods not only help the actors enter their acting state more quickly, but also thematically fits the setting that every world and stories in this film are made up out of thin air. This materialless performance bridges the performers who are in different places; it is both an exercise in acting and the building of a tacit understanding. We work in tandem to accomplish a non-verbal communication, like children playing house, stepping into the fantasy of mutual recognition.
 
-#### Tutorial and Process
-
-
-
 ### The Worlds: Different Models
 
-##### Cyberpunk World
+#### Cyberpunk World
 
 其中一位给自己角色的名字叫小华。他是一名科技公司的程序员。他想象的世界是一个最为理想化的科幻世界，一个他
 
 有趣的是，虽然我采访的对象不多，但是几乎所有受访的男性都想象了一种赛博朋克感十足的世界，尤其是要含有身体改造的元素。
 
-##### Near Future World
+#### Near Future World
 
-##### Unity World
+
+
+#### Unity World
+
+
 
 ### The Ambivalent Individual
 
