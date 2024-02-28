@@ -146,7 +146,7 @@ While being shot in VR, the final product is a single channel film piece that sh
 
 ### The Worlds: Different Models
 
-In this chapter I will introduce the specific worlds that we built in the film, as well as introducing different characters. For readability sake, I will just use the character name to refer to the actor. Here I am only briefly writing about the general world view and some interesting points, while more detailed and comprehensive content could be found in the film.
+In this chapter I will introduce the specific worlds that we built in the film, as well as introducing different characters. For readability sake, I will just use the character name to refer to the actor. Here I am only briefly writing about the general world view and some interesting points, and will mix the true story with the fiction part, just like how the film is presented. 
 
 #### Cyberpunk World
 
@@ -164,7 +164,10 @@ Miss.Time Orange is the owner of the antique store. I was delivered to her house
 
 She is a wheelchair user, and her own room is designed to be fully accessible. Outside of her house, all the roads are also flat and easy to road on. Their world surprisingly wasn't using as advanced technology as other places are. It is definitely a slow town. People here are not eager for efficiency. They are more interested in history, art, literature and just taking time. Miss.Time Orange herself wrote novels, mostly fan-fictions. She likes adding wheelchair perspectives into her novel. 
 
-She has a AI owl, who is also her girlfriend. Her girlfriend 
+Such golden life doesn't come out of no struggle. Changing people's mind sometimes take more time than adopting new technology. Back in the day when she was a student, she was struggling with the difficulties of going to classes because classroom were all very high, and she has to have her father and mother carry her upstairs. informed that she couldn't do teaching internship because the schools are not equipped with elevators. 
+
++ 她的妹妹
+
 #### Unity World
 
 I first arrived at the Unity world because I heard that Unity has advanced technology that can fix my telecommunication system, and it is said that Unity has something to do with the running the every universe. The Unity is a civilization where people's mind are all connected. They live in highly modernized world, high rise building with the most advanced technology. Unity people, according to Lulu, can share knowledge with instantly like maga-computers, and even have the ability to calculate and experience higher dimensional information. 
@@ -174,6 +177,8 @@ As Unity share their consciousness, to some degrees they are not individuals. Al
 People who chose not to join Unity is called the Lonely People, or loners. Living in a small village with broken houses, a lot of them have different body abilities, and they don't want to be assimilated. A loner doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely People can only undertake some "unimportant works" like basic crafts thing or doing art, (sadly true). Even for art, The Lonely People couldn't produce anything that Unity needs, because Unity can use AI to generate and consume art immediately. Money became meaningless to the Lonely People, because they accept monthly economic payment from Unity. In another word, The Lonely People are raised by Unity. 
 
 Lulu is a loner without her two arms. Her job is mosquito net maker, for fun, as mosquito nets are mass produced by Unity mostly. She took me to her house, in which there is a big computer. She is computer scientist, (in real life she is also having a test for a computer science graduate school) and I was surprised that although she holds a really distain attitude towards Unity, she was actually one of the developer of Unity, but left the project because Unity derails her expectations. She want to use machine to overcome her disability, but doesn't want it to control her mind.  
+
+- [ ] 加入lulu真实故事中的就职经验
 
 When we were walking around the village, we a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. In one occasion, Maria caught the Unity who used to be Dog Egg, and forced him to turn back into a loner. They had a big argument. In the end, Maria gave in because she didn't want to erase her child's mind just like what Unity does. Dog Egg turned back to Unity, and Maria killed herself in despair. Being a childhood friend of Dog Egg, Lulu is outraged. We went to Unity and saw Dog Egg again, but obviously he is no longer himself, nor was he feeling sorry for his mother. To Lulu, Unity doesn't have humanity anymore. 
 
