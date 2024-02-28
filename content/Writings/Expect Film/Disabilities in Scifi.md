@@ -208,16 +208,17 @@ Maybe the key of a proper representation of character with disability lies exact
 
 #### What is the ideal futurescape
 
-People with disabilities themselves naturally have different views. Some will have more of an identity and some will want to "evolve gloriously". There is a bit of idealism on both sides, and I can empathize with both. When confronted with the expectation of "sincere soundness", I have the feeling that I can't make sense out of it. It seems that everyone is so different that it's hard to hold anyone to a top-down perspective.
+What strikes me also is that being disabled doesn't mean they are naturally not ableism, especially under a circumstance in China where there is ableism perpetuated in a top-down way. It's natural that some will be more proud of their disability identity and some will want to be fixed by technology. Either transhumanism or Anti-cure, there is a bit of idealism on both sides, and I can empathize with both. Even when I know in my heart the idea of being more "progressive", it is hard not to expect and dream some kind of "glorious evolution" as an individual--after all, isn't it cool to experience more? It's true that being content with what we have is a good attitude, but do we really have to right to tell someone that you should just know your place and be content? When we are making decisions for ourselves, no matter whether it's a decision in fiction or in real life, it's ambiguous much responsibility should be taken for the overall social attitude. If imagining me as the decision maker, if I decide to be a cyborg, am I influencing the world by adding a brick to the transhumanism? Am I really making a difference when I actively say no to the technological cure? How am I, as an individual, actually contributing to the path to the future by making my decisions?
 
-Even when I know in my heart the idea of being more "progressive", it is hard not to expect some kind of glorious evolution as an individual. Is this a time when one should be taught that you should be content with what you are?
-"How do we, as individuals, contribute to the path to this future?"
+>[!info]
+>This part I still don't know yet, as the project is not finished
 
 
 
 ## Conclusion
 
-
+>[!info] 
+>kind of don't know how to write a conclusion...a conclusion for the paper?
 
 ## Bibliography
 
