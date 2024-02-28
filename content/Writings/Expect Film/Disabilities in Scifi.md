@@ -83,9 +83,11 @@ In China, according Law of the People’s Republic of China on the Protection of
 
 The concept of "anti-cure" refers to a critical stance or perspective against the idea of curing disabilities. This viewpoint is rooted in the social model of disability, which suggests that disability is not solely defined by an individual's physical or mental condition but is also significantly shaped by societal barriers and attitudes.
 
-An ideal society embracing the spirit of anti-cure prioritizes challenging ableism and enhancing accessibility through comprehensive societal reform. This involves the widespread adoption of universal design principles, ensuring that all public spaces, technologies, and services are accessible to everyone, thereby eliminating physical and digital barriers that exclude individuals with disabilities. Education systems, workplaces, and healthcare services would adopt inclusive practices, recognizing and accommodating the diverse needs and abilities of all individuals. Efforts to challenge ableism would be embedded in all sectors of society, from media representation to policy-making, actively working to dismantle prejudices and stereotypes that marginalize people with disabilities. Awareness and education campaigns would also play a crucial role in shifting societal attitudes, fostering a culture of respect, equality, and appreciation for diversity.
+When I first read about the idea of anti-cure, I was shocked because I know this would be such a controversial if it is mentioned in China. 
 
-Moreover, this society would guarantee the autonomy and choice of individuals with disabilities, allowing them to lead lives according to their preferences and decisions, free from paternalism or coercion. By centering the experiences and voices of individuals with disabilities, this society would not only challenge ableism but also celebrate and value disability as a natural and integral aspect of human diversity.
+An ideal society embracing the spirit of anti-cure prioritizes challenging ableism and enhancing accessibility through comprehensive societal reform. This involves the widespread adoption of universal design principles, ensuring that all public spaces, technologies, and services are accessible to everyone, thereby eliminating physical and digital barriers that exclude individuals with disabilities. Education systems, workplaces, and healthcare services would adopt inclusive practices, recognizing and accommodating the diverse needs and abilities of all individuals. Efforts to challenge ableism would be embedded in all sectors of society, from media representation to policy-making, actively working to dismantle prejudices and stereotypes that marginalize people with disabilities. Awareness and education campaigns would also play a crucial role in shifting societal attitudes, fostering a culture of respect, equality, and appreciation for diversity. 
+
+Moreover, this society should guarantee the autonomy and choice of individuals with disabilities, allowing them to lead lives according to their preferences and decisions, free from paternalism or coercion. By centering the experiences and voices of individuals with disabilities, this society would not only challenge ableism but also celebrate and value disability as a natural and integral aspect of human diversity.
 
 ### The Question of Omniscient Perspective
 
@@ -198,19 +200,18 @@ Lulu is probably the most interesting and the most imaginative one. When she fir
 
 ### The Ambivalent Individual
 
-#### About Stories
+#### How to write a character with disability
 
 A lot of time when we talk about science fiction stories, we are talking about worldviews and settings, about very big concepts and ideas, but I prefer the understanding from Octavia Butler that, at the end of the day, science fiction writers are writing about people, especially people in minority who needs more exposure to the public. (Butler, 2016, p4) I also understand, however, that it's so easy to end up using people with disability as a novel story starter, a pedal of story, or a functional puppet. So what's the actual problem? As writer, how to appropriately represent people with disabilities? To our previous problem, should we write more about the issue of disabilities, or should we write less about it? 
 
-After these chatting and acting with different actors, I seem to have some answers. When I was first interviewing them, I was just asking them very big questions about the world, about the story, and generally about the social environment they live in, without going any deeper into their life. 
+After these chatting and acting with different actors, I seem to have some answers. When I was first interviewing them, I was just asking them very big questions about the world, about the story, and generally about the social environment they live in, without going any deeper into their life, but as I was got to do role-playing with them in VR, I started to have more tangible feeling about their characteristics. Lulu loves climbing around, Miss. Time Orange likes doing gesturing......Through more in-depth conversation, I know more details of their life, and from those details the specificity of the life as a person with disabilities naturally arise. Some of those details contributes to their personalities, and some of them don't. 
 
-Each person's personality and their background is as interesting as their story itself. It's important to know them as people in order to understand why they came up with the stories they did.
+Maybe the key of a proper representation of character with disability lies exactly in those specificity--acknowledging the disability background does change a person, while also acknowledging that everyone is so different. It's not about "isms" but about whether or not the character actually comes alive, which is basically to write it well. 
 
+> [!info]
+> I need to sort through this part. I have a lot to say but I kind of can't find words to it
 
-
-关于这些个人的描写，能够如何改变科幻的范式呢？怎样去书写一个残障的角色才是妥帖的，才不会沦为一种符号和工具呢？或许就是通过一个立体的角色的呈现吧。者无关主义，无关政治正确，而是关于角色本身是否鲜活，其实是关于是否是一个好作品。
-
-#### About Reality
+#### What is the ideal futurescape
 
 发现1：残障人本身自然是有不同的看法。有的人会更有自己的身份认同，有的人会希望“光荣的进化”。两边都有一点理想主义的感觉，而且我与两边都能共情。面对那种“真诚的健全主义”期待，有一种秀才遇上兵，有理说不清的感觉。似乎每一个人都太不一样了，很难从一个自上而下的视角上去要求谁。
 
