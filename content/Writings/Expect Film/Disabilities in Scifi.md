@@ -43,7 +43,7 @@ While medical models was established, a lot of social movement also were happeni
 
 Fictions are mirror of our public consciousness. While I don't think the settings and characters of an individual novel necessary reflect the author's moral values, I do think that popular trends and common tropes in works reveal the common subconscious choices that originated from our shared belief, and the story in return shape, reinforce or subvert the reader's norms. The starting point of this project is from the observation of popular science fiction from in which the mindsets in reality are represented. I would briefly talk about what kind of science fiction works I am referring to in this project, how they are related to the different models we have discussed, and how it leads to the artistic research in the next chapter. 
 
-#### Science Fiction and  Futurescapes
+#### Science Fiction and Futurescapes
 
 From *Twenty Thousand Leagues Under the Sea* to *Matrix* (the Wachowskis, 1999), sci-fi works dedicate themselves to think about how should human understand themselves and one another by the imagining alternative living conditions, some of them are almost equivalent to philosophical thought experiments. Sci-fi is definitely not limited to presenting what is mentioned above. A big part of the sci-fi works are disaster films like *2012* (Roland Emmerich, 2009) and *Wandering Earth*(Guo Fan, 2019) which showcase how future situation leads to big human crisis, political fantasy that involves modern technology like *1984* (George Orwell, 1984), more intimate approach like *The Story Of Your Life* (Ted Chiang, 1998) that explore more niche aspect of human technology interaction or Niche *Journey to the west*. 
 
@@ -69,11 +69,11 @@ Such a technological cure is closely related to a philosophical and social movem
 
 >Transhumanism ...... holds that current human nature is improvable through the use of applied science and other rational methods, which may make it possible to increase human health-span, extend our intellectual and physical capacities, and give us increased control over our own mental states and moods. Technologies of concern include not only current ones, like genetic engineering and information technology, but also anticipated future developments such as fully immersive virtual reality, machinephase nanotechnology, and artificial intelligence
 
-It's worth noting that transhumanism is not equivalent with posthumanism which strive to move away from an anthropocentric view by embracing the implication of technology. Transhumanism and posthuman are actually quite different. The former is a extreme pursue of highly centralized and homogenous view of a "better future", when the other embraces different creatures and races, diversity, and de-centered narratives. When Donna Haraway talked about cyborgs and posthuman, she was calling for a more diverse society where people can all be living in different ways. From transhumanist view, however, there is a standardized trajectory of "evolution": stronger, smarter, and live longer. A good transhumanist future is where individuals modify themselves to fit the fast pace and high standards of society. What a good society is not one in which all the different people can have their own way, but one in which all people move efficiently on a similar channels. 
+It's worth noting that transhumanism is not equivalent with posthumanism which strive to move away from an anthropocentric view by embracing the implication of technology. Transhumanism and posthuman are actually quite different. Posthumanism embraces different creatures and races, diversity, and de-centered narratives. When Donna Haraway talked about cyborgs and posthuman, she was calling for a more diverse society where people can all be living in different ways. Yet in a transhumanist future, there is a highly centralized and homogenous view of a "better future", a standardized trajectory of "evolution": stronger, smarter, and live longer. A good transhumanist future is not one in which all the different people can have their own way, but one in which all people move efficiently on a similar channels. The presence of disability is a sign of failed future, and with transhumanism, disabilities are cured, erased, and therefore not part of the future (Wälivaara, 2018, p. 230) That's why transhumanist trope in science fiction is problematic: **People who don't exist in the imagination of future won't have their place in the actual future either**. 
 
-The presence of disability is often used as a sign of a failed future.” (Wälivaara, 2018, p. 226) Eugenics
-
+That's also why I feel so worried about the social climate in China which is quite conforming to transhumanism. 
 中国语境很符合超人类主义
+优生优育
 In China, according Law of the People’s Republic of China on the Protection of Persons with Disabilities, “a person with a disability is a person who, psychologically, physiologically…has suffered a loss or abnormality… and has lost … the ability to engage in certain activities in a normal manner.” The definition is focused more on a person’s instability to fit the “normal” life (usually production life) in with the “normal” manner, without a clear definition of what normal means. 
 
 #### An Alternative Future of Anti-Cure
@@ -200,7 +200,9 @@ Lulu is probably the most interesting and the most imaginative one. When she fir
 
 #### About Stories
 
-A lot of time when we talk about science fiction stories, we are talking about worldviews and settings, about very big concepts and ideas, but I prefer the understanding from Octavia Butler that, at the end of the day, science fiction is about person. (Butler, 2016, p4) The imagination of futurescape is only convincing when we can see specific person living their specific lives, 
+A lot of time when we talk about science fiction stories, we are talking about worldviews and settings, about very big concepts and ideas, but I prefer the understanding from Octavia Butler that, at the end of the day, science fiction writers are writing about people, especially people in minority who needs more exposure to the public. (Butler, 2016, p4) I also understand, however, that it's so easy to end up using people with disability as a novel story starter, a pedal of story, or a functional puppet. So what's the actual problem? As writer, how to appropriately represent people with disabilities? To our previous problem, should we write more about the issue of disabilities, or should we write less about it? 
+
+After these chatting and acting with different actors, I seem to have some answers. When I was first interviewing them, I was just asking them very big questions about the world, about the story, and generally about the social environment they live in, without going any deeper into their life. 
 
 Each person's personality and their background is as interesting as their story itself. It's important to know them as people in order to understand why they came up with the stories they did.
 
@@ -236,6 +238,8 @@ Finkelstein, Vic. 1993. "The Commonality of Disability. " in John Swain, Sally F
 WHO. 1980. _The International Classification of Impairments, Disabilities and Handicaps_. Geneva: World Health Organization.
 
 WHO, 2001, *International Classification of Functioning, Disability and Health (ICF)*. [https://icd.who.int/dev11/l-icf/en](https://icd.who.int/dev11/l-icf/en).
+
+Josefine Wälivaara. 2018. “Marginalized Bodies of Imagined Futurescapes: Ableism and Heteronormativity in Science Fiction.” _Culture Unbound_ 10 (2): 226–45. [https://doi.org/10.3384/cu.2000.1525.2018102226](https://doi.org/10.3384/cu.2000.1525.2018102226).
 
 Oliver, Mike. 1990, “THE INDIVIDUAL AND SOCIAL MODELS OF DISABILITY,” paper presented at Joint Workshop of the Living Options Group and the Research Unit of the Royal College of Physicians.
 
