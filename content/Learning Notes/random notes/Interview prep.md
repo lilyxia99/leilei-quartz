@@ -6,6 +6,7 @@ time: 2024-02-27
 
 Video, Animation, Engagement. Coding, 3D. Seminar (reading club experience)
 
+
 ## Teaching experience
 
 My own teaching: 
