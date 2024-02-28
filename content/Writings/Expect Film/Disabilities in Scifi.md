@@ -76,18 +76,14 @@ That's also why I feel so worried about the social climate in China which is qui
 优生优育
 In China, according Law of the People’s Republic of China on the Protection of Persons with Disabilities, “a person with a disability is a person who, psychologically, physiologically…has suffered a loss or abnormality… and has lost … the ability to engage in certain activities in a normal manner.” The definition is focused more on a person’s instability to fit the “normal” life (usually production life) in with the “normal” manner, without a clear definition of what normal means. 
 
-#### An Alternative Future of Anti-Cure
+#### An Alternative Future of Social Model and Anti-Cure
 
 > [!info]
 > needs revision
 
-The concept of "anti-cure" refers to a critical stance or perspective against the idea of curing disabilities. This viewpoint is rooted in the social model of disability, which suggests that disability is not solely defined by an individual's physical or mental condition but is also significantly shaped by societal barriers and attitudes.
+The concept of "anti-cure" refers to a critical stance or perspective against the idea of curing disabilities. This viewpoint is rooted in the social model of disability, which suggests that disability is not personal deficits, but the failure of a society accommodate and include those with natural or biological impairments (Courtney, 2019) An example of such notion could be the case of a deaf couple intentionally chose to have a deaf baby (Spriggs, M. 2002). When I first read about that you could choose not to be "fixed", I was shocked because I know this would be such a controversial if it is mentioned in China. In a society where people are compared with a normalized better standard all the time, it's hard to be happy with what one has and even take that as part of their unique identity. 
 
-When I first read about the idea of anti-cure, I was shocked because I know this would be such a controversial if it is mentioned in China. 
-
-An ideal society embracing the spirit of anti-cure prioritizes challenging ableism and enhancing accessibility through comprehensive societal reform. This involves the widespread adoption of universal design principles, ensuring that all public spaces, technologies, and services are accessible to everyone, thereby eliminating physical and digital barriers that exclude individuals with disabilities. Education systems, workplaces, and healthcare services would adopt inclusive practices, recognizing and accommodating the diverse needs and abilities of all individuals. Efforts to challenge ableism would be embedded in all sectors of society, from media representation to policy-making, actively working to dismantle prejudices and stereotypes that marginalize people with disabilities. Awareness and education campaigns would also play a crucial role in shifting societal attitudes, fostering a culture of respect, equality, and appreciation for diversity. 
-
-Moreover, this society should guarantee the autonomy and choice of individuals with disabilities, allowing them to lead lives according to their preferences and decisions, free from paternalism or coercion. By centering the experiences and voices of individuals with disabilities, this society would not only challenge ableism but also celebrate and value disability as a natural and integral aspect of human diversity.
+What would a futurescape of that allows for anti-cure be? Maybe it will enhance accessibility through comprehensive societal reform through widespread adoption of universal design principles--adding enough slope and elevators, signal sound for traffic lights, sign language translator for performances. Apps and website have to conform to the screen reader standard. People are not forced to take mental illness pills, and parents are not forced to get rid of their baby through eugenics. Would these be hard to achieve? It actually doesn't take super advanced technology to achieve all these. Then why are we not achieving it? Why do we have to expect people equip themselves with prothesis, when it could be simply solved by adding a slope? It seems like the improvement of technology is probably harder than the change of social notions. 
 
 ### The Question of Omniscient Perspective
 
@@ -178,7 +174,6 @@ She decided to sue the school and the education bureau, even all the local schoo
 - [ ] 写关于小鸟，同人文的事情
 
 
-
 #### Unity World
 
 I first arrived at the Unity world because I heard that Unity has advanced technology that can fix my telecommunication system, and it is said that Unity has something to do with the running the every universe. The Unity is a civilization where people's mind are all connected. They live in highly modernized world, high rise building with the most advanced technology. Unity people, according to Lulu, can share knowledge with instantly like maga-computers, and even have the ability to calculate and experience higher dimensional information. 
@@ -213,10 +208,10 @@ Maybe the key of a proper representation of character with disability lies exact
 
 #### What is the ideal futurescape
 
-发现1：残障人本身自然是有不同的看法。有的人会更有自己的身份认同，有的人会希望“光荣的进化”。两边都有一点理想主义的感觉，而且我与两边都能共情。面对那种“真诚的健全主义”期待，有一种秀才遇上兵，有理说不清的感觉。似乎每一个人都太不一样了，很难从一个自上而下的视角上去要求谁。
+People with disabilities themselves naturally have different views. Some will have more of an identity and some will want to "evolve gloriously". There is a bit of idealism on both sides, and I can empathize with both. When confronted with the expectation of "sincere soundness", I have the feeling that I can't make sense out of it. It seems that everyone is so different that it's hard to hold anyone to a top-down perspective.
 
-即便我心里知道所谓更加“progressive”的想法的时候，作为个人，很难不期盼某种光荣的进化。这种时候一个人应该被教育，你就应该安分守己，安于自己的现状吗？
-“作为个人，我们如何contribute to到达这个未来的路”
+Even when I know in my heart the idea of being more "progressive", it is hard not to expect some kind of glorious evolution as an individual. Is this a time when one should be taught that you should be content with what you are?
+"How do we, as individuals, contribute to the path to this future?"
 
 
 
@@ -245,3 +240,7 @@ Josefine Wälivaara. 2018. “Marginalized Bodies of Imagined Futurescapes: Able
 Oliver, Mike. 1990, “THE INDIVIDUAL AND SOCIAL MODELS OF DISABILITY,” paper presented at Joint Workshop of the Living Options Group and the Research Unit of the Royal College of Physicians.
 
 Butler, Octavia E. 2016. “‘LOST RACES OF SCIENCE FICTION’ (1980).”
+
+Bailey, Courtney W. 2019. “On the Impossible: Disability Studies, Queer Theory, and the Surviving Crip.” _Disability Studies Quarterly_ 39 (4). [https://doi.org/10.18061/dsq.v39i4.6580](https://doi.org/10.18061/dsq.v39i4.6580).
+
+Spriggs, M. 2002. “Lesbian Couple Create a Child Who Is Deaf like Them.” _Journal of Medical Ethics_ 28 (5): 283–283. [https://doi.org/10.1136/jme.28.5.283](https://doi.org/10.1136/jme.28.5.283).
