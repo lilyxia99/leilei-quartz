@@ -38,6 +38,9 @@ While medical models was established, a lot of social movement also were happeni
 
 ### Disability in Science Fiction
 
+>All fiction is a product of a specific time, place, and culture that influence the way the stories are constructed and what discourses they are part of. Popular culture not only says something about the creators of fiction and their subjective world view, but its popularity also testifies to wider discourses in society today.
+>(Josefine Wälivaara, 2018, p. 231) 
+
 Fictions are mirror of our public consciousness. While I don't think the settings and characters of an individual novel necessary reflect the author's moral values, I do think that popular trends and common tropes in works reveal the common subconscious choices that originated from our shared belief, and the story in return shape, reinforce or subvert the reader's norms. The starting point of this project is from the observation of popular science fiction from in which the mindsets in reality are represented. I would briefly talk about what kind of science fiction works I am referring to in this project, how they are related to the different models we have discussed, and how it leads to the artistic research in the next chapter. 
 
 #### Science Fiction and  Futurescapes
@@ -164,9 +167,15 @@ Miss.Time Orange is the owner of the antique store. I was delivered to her house
 
 She is a wheelchair user, and her own room is designed to be fully accessible. Outside of her house, all the roads are also flat and easy to road on. Their world surprisingly wasn't using as advanced technology as other places are. It is definitely a slow town. People here are not eager for efficiency. They are more interested in history, art, literature and just taking time. Miss.Time Orange herself wrote novels, mostly fan-fictions. She likes adding wheelchair perspectives into her novel. 
 
-Such golden life doesn't come out of no struggle. Changing people's mind sometimes take more time than adopting new technology. Back in the day when she was a student, she was struggling with the difficulties of going to classes because classroom were all very high, and she has to have her father and mother carry her upstairs. informed that she couldn't do teaching internship because the schools are not equipped with elevators. 
+Such golden life doesn't come out of no struggle. Changing people's mind sometimes take more time than adopting new technology. Back in the day when she was a student, she was struggling with the difficulties of going to classes because classroom were all very high, and she has to have her father and mother carry her upstairs. In the second semester, she informed that she couldn't do teaching internship because the schools are not equipped with elevators. If she can't complete her internship, she won't be able to fulfill the graduation criteria for teacher trainees and won't be able to work as a teacher.
 
-+ 她的妹妹
+At first, she wanted to just forget about it and maybe change her major, but then she met a younger girl at summer camp who is also wheelchair-bound due to a rare disease. She has not been able to go to school since elementary school. She has been tutored at camp and she is really not very gifted but works very hard. The little girl doesn't like being in a special school, she wants to go to school and stay with her peers and go through her youthful school days with everyone. The seemingly ordinary things: taking classes, morning readings, and after-school and jesting at school were out of reach for her. Miss.Time Orange realized that it's not only her own problem. She, the little girl and many other students and teachers are all blocked by the inaccessibilities. 
+
+She decided to sue the school and the education bureau, even all the local schools that doesn't fit the accessibility requirement. The lawsuit lasted a long time, and she undertook a lot of pressure, both from the school and from the local government. With her relentless persistence, at least the schools on her little planet were made accessible, but she still couldn't find a job, because after such a fighting process, she became a dangerous person for any school system. From the perspective of the school, she is the grumpy, picky activist that should be remained at a respectful distance.
+
+- [ ] 写关于小鸟，同人文的事情
+
+
 
 #### Unity World
 
@@ -191,9 +200,12 @@ Lulu is probably the most interesting and the most imaginative one. When she fir
 
 #### About Stories
 
-发现2： 每个人的性格以及他们的背景，都和他们的故事本身一样很有趣。了解他们这些人的性格才能理解他们为什么会想到这样的故事。
+A lot of time when we talk about science fiction stories, we are talking about worldviews and settings, about very big concepts and ideas, but I prefer the understanding from Octavia Butler that, at the end of the day, science fiction is about person. (Butler, 2016, p4) The imagination of futurescape is only convincing when we can see specific person living their specific lives, 
 
-科幻故事总是和世界观有关，总是和很大的概念和创意有关。但是我似乎更加关心个人。到底怎样才是好的科幻呢？我也不指导。
+Each person's personality and their background is as interesting as their story itself. It's important to know them as people in order to understand why they came up with the stories they did.
+
+
+
 关于这些个人的描写，能够如何改变科幻的范式呢？怎样去书写一个残障的角色才是妥帖的，才不会沦为一种符号和工具呢？或许就是通过一个立体的角色的呈现吧。者无关主义，无关政治正确，而是关于角色本身是否鲜活，其实是关于是否是一个好作品。
 
 #### About Reality
