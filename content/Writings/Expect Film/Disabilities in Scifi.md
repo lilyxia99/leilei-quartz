@@ -158,7 +158,7 @@ A lot of times we associate sci-fi with the cyberpunk style. Cyberpunk is a sub-
 
 In a way a cyberpunk world is also a world that is lead by ablism and Darwinism. Interestingly, Most of the men I intereviewd come up with a cyberpunk worldview, and from interviewing them, I can also see how their personality intertwined in the world view they come up with. 
 
-Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. He is a vagabond soldier whose mission is to liberate his home planet which is colonized by other civilizations, despite that the galaxy he lives in is a peaceful and resourceful area. Everything he described in the world he lives in is very idealized--the bionic arm is as cheap as a phone, 
+Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. He is a vagabond soldier whose mission is to liberate his home planet which is colonized by other civilizations, despite that the galaxy he lives in is a peaceful and resourceful area. Everything he described in the world he lives in is very idealized--the bionic arm is as cheap as a phone, electricity and resource is so resourceful in his living area, and making money is easy because they only need to order the robot to do things, and there is always jobs available. If really calculate that logically, there is almost no way that all of these elements 
 
 
 June turn himself into a mercenary in *Cyberpunk 2077*(2020), and Zeyu rename himself WZY2098, and is a part-time signal monitor on a space station.
