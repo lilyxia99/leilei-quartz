@@ -154,11 +154,18 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 > [!info]
 > This part is still work in progress
 
-A lot of times we associate sci-fi with the cyberpunk style. Cyberpunk is a sub-genre of science fiction that portrays dystopian futures dominated by powerful corporations, advanced technology, and a gritty, neon-lit urban landscape. It typically features characters with cybernetic enhancements, blurring the lines between human and machine, as well as themes of hacking, virtual realities, and rebellion against oppressive societal control, examining the consequences of unchecked technological progress and corporate power. 
+A lot of times we associate sci-fi with the cyberpunk style. Cyberpunk is a sub-genre of science fiction that portrays "high tech, low life", with usually gritty, neon-lit urban visual landscape. People living in cyberpunk world are able to enjoy advanced technology, while these technology doesn't erase but increase the gap between the rich and the poor. It typically features characters with cybernetic enhancements, hacking, virtual realities, and rebellion against oppressive societal control, examining the consequences of unchecked technological progress and corporate power. 
 
-Interestingly, most of the men that I have interviewed come up with a cyberpunk worldview that fit the most classic tropes in cyberpunk fictions: Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. June turn himself into a mercenary in *Cyberpunk 2077*(2020), and Zeyu rename himself WZY2098, and is a part-time signal monitor on a space station, while his story is influenced by a novel that talks about uploading consciousness.
+In a way a cyberpunk world is also a world that is lead by ablism and Darwinism. Interestingly, Most of the men I intereviewd come up with a cyberpunk worldview, and from interviewing them, I can also see how their personality intertwined in the world view they come up with. 
 
-Due to the time length limit, I wasn't able to include all the details of each of their background stories. For example, Xiao Hua is a 
+Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. He is a vagabond soldier whose mission is to liberate his home planet which is colonized by other civilizations, despite that the galaxy he lives in is a peaceful and resourceful area. Everything he described in the world he lives in is very idealized--the bionic arm is as cheap as a phone, 
+
+
+June turn himself into a mercenary in *Cyberpunk 2077*(2020), and Zeyu rename himself WZY2098, and is a part-time signal monitor on a space station.
+
+
+
+Due to the time length limit, I wasn't able to include all the details of each of their background stories. For example, Zeyu's story is influenced by stories about uploading consciousness, and he works for one of upload platform which is controlled by a giant company. 
 
 
 
