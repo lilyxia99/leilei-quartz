@@ -156,7 +156,11 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 
 A lot of times we associate sci-fi with the cyberpunk style. Cyberpunk is a sub-genre of science fiction that portrays dystopian futures dominated by powerful corporations, advanced technology, and a gritty, neon-lit urban landscape. It typically features characters with cybernetic enhancements, blurring the lines between human and machine, as well as themes of hacking, virtual realities, and rebellion against oppressive societal control, examining the consequences of unchecked technological progress and corporate power. 
 
-Interestingly, most of the men that I have interviewed come up with a cyberpunk worldview that fit the most classic tropes in cyberpunk fictions: Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. Zeyu 
+Interestingly, most of the men that I have interviewed come up with a cyberpunk worldview that fit the most classic tropes in cyberpunk fictions: Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. June turn himself into a mercenary in *Cyberpunk 2077*(2020), and Zeyu rename himself WZY2098, and is a part-time signal monitor on a space station, while his story is influenced by a novel that talks about uploading consciousness.
+
+Due to the time length limit, I wasn't able to include all the details of each of their background stories. For example, Xiao Hua is a 
+
+
 
 #### Near Future World
 
