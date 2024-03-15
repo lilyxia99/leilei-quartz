@@ -154,7 +154,7 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 > [!info]
 > This part is still work in progress
 
-我们很多时候会把科幻和赛博朋克的风格联系在一起。 
+A lot of times we associate sci-fi with the cyberpunk style. 
 
 #### Near Future World
 
