@@ -154,10 +154,7 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 > [!info]
 > This part is still work in progress
 
-其中一位给自己角色的名字叫小华。他是一名科技公司的程序员。他想象的世界是一个最为理想化的科幻世界，一个他
-
-有趣的是，虽然我采访的对象不多，但是几乎所有受访的男性都想象了一种赛博朋克感十足的世界，尤其是要含有身体改造的元素。
-
+我们很多时候会把科幻和赛博朋克的风格联系在一起。 
 
 #### Near Future World
 
