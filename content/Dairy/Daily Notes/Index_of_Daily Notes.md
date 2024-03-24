@@ -16,6 +16,7 @@
 - 📄 [[Dairy/Daily Notes/2024-03-20|2024-03-20]]
 - 📄 [[Dairy/Daily Notes/2024-03-21|2024-03-21]]
 - 📄 [[Dairy/Daily Notes/2024-03-22|2024-03-22]]
+- 📄 [[Dairy/Daily Notes/2024-03-24|2024-03-24]]
 - 📄 [[Dairy/Daily Notes/Untitled|Untitled]]
 - 🗂️ [[Dairy/Daily Notes/2024-01/Index_of_2024-01|Index_of_2024-01]]
 - 🗂️ [[Dairy/Daily Notes/2024-02/Index_of_2024-02|Index_of_2024-02]]
