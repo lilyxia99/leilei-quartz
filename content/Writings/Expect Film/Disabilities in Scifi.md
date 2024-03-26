@@ -205,9 +205,9 @@ The question of individual v.s. society, however, doesn't go away, because altho
 
 ### Virtual and Reality
 
-The workflow of this film also provide very interesting discussion on the function of role-playing game in half documentary making, as well as how VR technology plays into that process. The whole narrative didn't explicitly reveal which part of the content is fake and which part is not, allowing the actors to tell their stories in a safe space. The avatar in VR also helps in creating an alternative environment which simulate the face to face circumstance where people both immerse in an alternate reality, and can be "present" with each other without having a lot of distraction like while we do normal phone calls. The fact that most of the conversation is shot in VR also provide flexibility for later editing; for example, in one of the shoot my screen record software collapsed and 
+The workflow of this film also provide very interesting discussion on the function of role-playing game in half documentary making, as well as how VR technology plays into that process. The whole narrative didn't explicitly reveal which part of the content is fake and which part is not, allowing the actors to tell their stories in a safe space. The avatar in VR also helps in creating an alternative environment which simulate the face to face circumstance where people both immerse in an alternate reality, and can be "present" with each other without having a lot of distraction like while we do normal phone calls. The fact that most of the conversation is shot in VR also provide flexibility for later editing; for example, in one of the shoot my screen record software collapsed and all the video file was lost, and I am able to "fake" the VR footage by feeding our voice recording into VRChat. The whole film is a mixture of "real" live-action footage in VR and "faked" VR shot done by me, blending the real and not real from another aspect. 
 
-This workflow, 
+This workflow has yet a lot of potential that could still be expanded. I continued the invisible object exercise in VR which helps the actors to quickly get immersed in the story as well as 
 
 
 ## Bibliography
