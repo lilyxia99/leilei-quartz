@@ -197,21 +197,14 @@ After these chatting and acting with different actors, I seem to have some answe
 
 So how to properly depict disabilities in works? Mr. Kong Kong mentioned it a little in our conversation. bit Another the key of a proper representation of character with disability lies exactly in those specificity--acknowledging the disability background does change a person, while also acknowledging that everyone is so different. It's not about "isms" but about whether or not the character actually comes alive, which is basically to write it well. 
 
-#### The Question of Courage to Leap
+#### Between Individual and Collective
 
 At the start of the project I am more interested in the environment or the world setting, an objective setting of the world, but since all the world are reflection of people's personal world view, I started to realize that all the world and character building is about how an individual perceives the world. Therefore, the exploration of ablism and disability inclusivity in this project is not only about physical environment, but about how, at an individual level, one can really accept inclusivity, even when it's at stake with direct and short term personal interest. 
 
 Ablism is quite invisible in daily life, and that's why it's so hard to challenge its existence; it embodies into different forms: realism, comparatives, mullenism, and so on. 
-Being disabled doesn't mean they are naturally not ableism, especially under a circumstance in China where ableism is perpetuated in systematically. As Mr. Kong Kong said in our conversation, the issue is not whether someone would prefer to be fixed or not fixed, It's about whether the social norm offer the room to say no to that choice. 
+Being disabled doesn't mean they are naturally not ableism, especially under a circumstance in China where ableism is perpetuated in systematically. As Mr. Kong Kong said in our conversation, the issue is not whether someone would prefer to be fixed or not fixed, It's about whether the social norm offer the room to say no to that choice and to be provided environment to not conform to a single way and standard of living. When it comes down to how an individual could reject ablism, especially in an already ablism society, it becomes a philosophical question of whether the meaning of life could be determined and confirmed by ourselves instead of the environment. 
 
-What matters is how the collective social norm is. If the social norm itself allows different choice of being, then choosing to fix or not fix oneself is just a pure preference issue. 
-
-Either transhumanism or Anti-cure, there is a bit of idealism on both sides, and I can empathize with both. Even when I know in my heart the idea of being more "progressive", it is hard not to expect and dream some kind of "glorious evolution" as an individual--after all, isn't it cool to experience more? It's true that being content with what we have is a good attitude, but do we really have to right to tell someone that you should just know your place and be content? If imagining me as the decision maker, if I decide to be a cyborg, am I influencing the world by adding a brick to the transhumanism? Am I really making a difference when I actively say no to the technological cure? How am I, as an individual, actually contributing to the path to the future by making my decisions?
-
->[!info]
->This part I still don't know yet, as the project is not finished
-
-
+The question of individual v.s. society, however, doesn't go away, because although the project answers the question of what's the relationship between individual and a collective culture, and what's the relationship between individual and societal environment, it hasn't explain how culture could change the norm, and eventually change the public structure. That might be a
 ## Conclusion
 
 >[!info] 
