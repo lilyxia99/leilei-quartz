@@ -3,8 +3,6 @@ tags:
   - expect-film
 time: 2024-02-25
 ---
-- [ ] 还需要写一下科技不会照顾残障者这一点
-- [ ] Brechetian and neorealism
 
 ## Abstract
 
@@ -109,8 +107,6 @@ What I am interested, however, is not only the discussion of reality. What I am 
 
 I decided on the having the film be presented as half fiction half documentary: sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false. Shooting a pure documentary would require me to observe even spy on their every expression, movement and talking. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera. A half fictional and half documentary film admits the non-realism in the first place. It refuses to present everything as it is and nullifies the expectation of realism or truth-seeking in conventional documentary context. The world, houses and even their own appearance are all virtual assets that are by no means realistic, but since they are designed and selected based on their imagination, they do reflect their personal preferences and values, just like how we see real life from science fictions. 
 
-- [ ] neo realism 和布莱希特
-
 It's worth mentioning that I also decided to keep the realm of the project within China. As a Chinese artist, I am particularly interested in disability in the Chinese context. In China, disability study is not yet an official discipline, nor is there enough discussion on equal rights for disability which are sometimes even politically sensitive. At the same time, there's a strange tendency toward transhumanism in the values of Chinese society today as I have mentioned before. While the question in Chinese context is fascinating, I am also more familiar with the disabilities community in China, as I had worked with different communities of disabilities and learned disability studies through Chinese grassroots organizations; in my professional practice, I have a long-time working relationship with Chinese disabled artists(who will also participate in this project) and have a follower community of disabilities. I wanted to have deeper conversations with them on how they see ableism permeating in China, and if there is a way out.
 
 ### Strategy: Story As Both Noun and Verb
@@ -127,7 +123,6 @@ I first asked some of my friends who fit the criteria, and then sent out an open
 
 The reason why I have this "interview" process is because I am not simply looking for documentary subject --  I am recruiting actors. I regard the participants of this project as what I call "interview-actor". While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; On the other hand, I do have requirement on them as actors, as they need to dedicate enough shooting time with me, be able to jump into the story whenever we start, and stay within the character during the acting. Another reason why I want to recruit them as actors is because I’ve seen a lot of other projects that claim themselves to be “co-creation”, but ended up as just exploiting the time and labor of people with disabilities for free. In this project, actors are also paid for their acting, time and effort. They contribute to the script, set design and their costume design. 
 
-- [ ] 聊一下关于labor的问题 
 #### Virtual Reality: The Cost and Benefits in Remote Production
 
 When I am talking about sets and costumes, however, I am actually referring to 3D worlds and avatars. This is because our Role-Playing didn't happen in real life, but in Virtual Reality(VR). We use VRChat as the platform for immersive environment, act in it and record the acting through screen recording. To some degrees, VR itself also a very "sci-fi-ish" technology. It is constantly being depicted as the ultimate technology for entertainment, education, and even escaping the limitations of the physical world. I have to admit that filmming in VR does save a lot of money for me. The cost of travel, lodging, camera, SD cards, mics, set building, costume making, make up, location scouting, mental and physical energy is way higher than VR filmmaking. 
@@ -151,27 +146,16 @@ In this chapter I will introduce the specific worlds that we built in the film, 
 
 #### Cyberpunk World
 
-> [!info]
-> This part is still work in progress
-
 A lot of times we associate sci-fi with the cyberpunk style. Cyberpunk is a sub-genre of science fiction that portrays "high tech, low life", with usually gritty, neon-lit urban visual landscape. People living in cyberpunk world are able to enjoy advanced technology, while these technology doesn't erase but increase the gap between the rich and the poor. It typically features characters with cybernetic enhancements, hacking, virtual realities, and rebellion against oppressive societal control, examining the consequences of unchecked technological progress and corporate power. 
 
-In a way a cyberpunk world is also a world that is lead by ablism and Darwinism. Interestingly, Most of the men I intereviewd come up with a cyberpunk worldview, and from interviewing them, I can also see how their personality intertwined in the world view they come up with. 
+In a way a cyberpunk world is also a world that is lead by ablism and Darwinism. Interestingly, Most of the men I interviewed come up with a cyberpunk worldview, and from interviewing them, I can also see how their personality intertwined in the world view they come up with. The main character in this chapter, Xiao Hua, worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. He is a vagabond soldier whose mission is to liberate his home planet which is colonized by other civilizations, despite that the galaxy he lives in is a peaceful and resourceful area. Everything he described in the world he lives in is very idealized--the bionic arm is as cheap as a phone, electricity and resource is so resourceful in his living area, and making money is easy because they only need to order the robot to do things, and there is always jobs available. If really calculate that logically, there is almost no way that all of these elements can exist perfectly without any sacrifice. The fact that in his world there is still colonialism represent that the world order is still about conquering and excelling others, which is exemplified in his live value.
 
-Xiao Hua worked in a technology company and imagined himself equipped with a bionic arm pumped by a electronic heart. He is a vagabond soldier whose mission is to liberate his home planet which is colonized by other civilizations, despite that the galaxy he lives in is a peaceful and resourceful area. Everything he described in the world he lives in is very idealized--the bionic arm is as cheap as a phone, electricity and resource is so resourceful in his living area, and making money is easy because they only need to order the robot to do things, and there is always jobs available. If really calculate that logically, there is almost no way that all of these elements can exist perfectly without any sacrifice. The fact that in his world there is still colonialism represent that the world order is still about conquering and excelling others, which is exemplified in his live value.
+What's really interesting about Xiaohua is that despite being a person with disability, his mindset very ablism, in a way that although he finds a lot of the situation unreasonable, he wouldn't consider the world as being unreasonable. In another world, he is very realistic about the world, and when you can't change it, change yourself. He reminds me of the most Chinese way of thinking, which I fully relate to as I also grew up under this kind of education. This recognition of the "unchangable" reality is also shown in his attitude towards eugenics. When we discussed the idea that all the disabilities could be erased by technology, we brought up eugenics. He is a firm supporter for eugenics, and when I ask him if he thinks he doesn't need to be born, his answer is yes. If he knew before he was born, he would choose to abort himself. Although it's very understandable that the common sense is that people don't want to give birth to children with "defects", his answer towards his own life still make me think of how this framework changed our understanding of what a worth living life is. China's family planning perpetuated the idea of eugenics at a country value level: “晚婚晚育，少生优生。”(Late marriage, late childbearing, low birthrate and eugenics) this was the slogan for family planning along side with one child policy. The idea that giving birth to 
 
-What's really interesting about Xiaohua is that despite being a person with disability, he is very ablism, which is common in China because that is how the mainstream education conveys. When we discussed the idea that all the disabilities could be erased by technology, we brought up eugenics. He is a firm supporter for eugenics, and when I ask him if he thinks he doesn't need to be born, his answer is yes. If he knew before he was born, he would choose to abort himself. 
-
-This is a answer that I was both surprised at but also am able to understand. China's family planning perpetuated the idea of eugenics at a country value level: “晚婚晚育，少生优生。”(Late marriage, late childbearing, low birthrate and eugenics) this was the slogan for family planning along side with one child policy. The idea that giving birth to 
-
-
-June turn himself into a mercenary in *Cyberpunk 2077*(2020), and Zeyu rename himself WZY2098, and is a part-time signal monitor on a space station.
-
+Participant June turn himself into a mercenary in *Cyberpunk 2077*(2020), and Zeyu renamed himself WZY2098, and is a part-time signal monitor on a space station.
 
 
 Due to the time length limit, I wasn't able to include all the details of each of their background stories. For example, Zeyu's story is influenced by stories about uploading consciousness, and he works for one of upload platform which is controlled by a giant company. 
-
-
 
 #### Near Future World
 
@@ -183,7 +167,6 @@ Such golden life doesn't come out of no struggle. Changing people's mind sometim
 
 At first, she wanted to just forget about it and maybe change her major, but then she met a younger girl at summer camp who is also wheelchair-bound due to a rare disease. She has not been able to go to school since elementary school. She has been tutored at camp and she is really not very gifted but works very hard. The little girl doesn't like being in a special school, she wants to go to school and stay with her peers and go through her youthful school days with everyone. The seemingly ordinary things: taking classes, morning readings, and after-school and jesting at school were out of reach for her. Miss.Time Orange realized that it's not only her own problem. She, the little girl and many other students and teachers are all blocked by the inaccessibilities. 
 
-She decided to sue the school and the education bureau, even all the local schools that doesn't fit the accessibility requirement. The lawsuit lasted a long time, and she undertook a lot of pressure, both from the school and from the local government. With her relentless persistence, at least the schools on her little planet were made accessible, but she still couldn't find a job, because after such a fighting process, she became a dangerous person for any school system. From the perspective of the school, she is the grumpy, picky activist that should be remained at a respectful distance.
 
 - [ ] 写关于小鸟，同人文的事情
 
@@ -196,13 +179,12 @@ As Unity share their consciousness, to some degrees they are not individuals. Al
 
 People who chose not to join Unity is called the Lonely People, or loners. Living in a small village with broken houses, a lot of them have different body abilities, and they don't want to be assimilated. A loner doesn't have a job, because Unity is so productive that they take care of all the work in the society. The Lonely People can only undertake some "unimportant works" like basic crafts thing or doing art, (sadly true). Even for art, The Lonely People couldn't produce anything that Unity needs, because Unity can use AI to generate and consume art immediately. Money became meaningless to the Lonely People, because they accept monthly economic payment from Unity. In another word, The Lonely People are raised by Unity. 
 
-Lulu is a loner without her two arms. Her job is mosquito net maker, for fun, as mosquito nets are mass produced by Unity mostly. She took me to her house, in which there is a big computer. She is computer scientist, (in real life she is also having a test for a computer science graduate school) and I was surprised that although she holds a really distain attitude towards Unity, she was actually one of the developer of Unity, but left the project because Unity derails her expectations. She want to use machine to overcome her disability, but doesn't want it to control her mind.  
+Lulu is a loner without her two hands. Her job is mosquito net maker, for fun, as mosquito nets are mass produced by Unity mostly. She took me to her house, in which there is a big computer. She is computer scientist, (in real life she is also having a test for a computer science graduate school) and I was surprised that although she holds a really distain attitude towards Unity, she was actually one of the developer of Unity, but left the project because Unity derails her expectations. She want to use machine to overcome her disability, but doesn't want it to control her mind.  
 
 - [ ] 加入lulu真实故事中的就职经验
 
 When we were walking around the village, we a drama happening between another a mom and her child who joined Unity. The mom's name is Maria, and her sun Dog Egg (literal translation of “狗蛋", an inelegant name that people in the Chinese rural area gave to their children) joined Unity as soon as he turned 18. Maria is upset about that, however, because she thinks Dog Egg's personality is being erased by Unity. In one occasion, Maria caught the Unity who used to be Dog Egg, and forced him to turn back into a loner. They had a big argument. In the end, Maria gave in because she didn't want to erase her child's mind just like what Unity does. Dog Egg turned back to Unity, and Maria killed herself in despair. Being a childhood friend of Dog Egg, Lulu is outraged. We went to Unity and saw Dog Egg again, but obviously he is no longer himself, nor was he feeling sorry for his mother. To Lulu, Unity doesn't have humanity anymore. 
 
-In the end, Unity provided me access to the outer world. It turns out the Unity is connected to the Unity Engine, which is what made the VRChat platform possible. The whole film also ends there -- with me in the software space, looking back at each world that I've went to. 
 
 Lulu is probably the most interesting and the most imaginative one. When she first approach me she said she likes Robert J. Sawyer and Xi He, and I knew she is a hard-core sci-fi fan. Her natural voice is a little stuttered and slow, but that also gave her voice a weird sense of tension, which works really well in storytelling. Her burst of energy and fast improvisational skills makes her story stands out quite differently among all the worlds. 
 
