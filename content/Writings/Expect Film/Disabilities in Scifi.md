@@ -184,8 +184,7 @@ When we were walking around the village, we a drama happening between another a 
 
 For a long time I had difficulty understanding what this Unity world means. There are so many wonderful metaphors that each could signifies a lot of things, yet what essentially is this world reflecting? If the cyberpunk world means modify yourself instead of the world, and the near future world means modify the world instead of yourself, then what does Unity world means? It has both sides as characters, but is it a repetitive presentation? When I ask Lulu to explain the character "Lulu", she seems to be setting her as a very ambivalent character; she doesn't like Unity, but also doesn't push Unity back as she is being taken care of Unity. From talking to her more, I realize that although she has this awareness of disabilities right, she still minds a lot about other people's view. Her movements, handwritings and voices are being disliked by others, and all these things hurt her feeling a lot. She knows the world isn't right, but she can't help wanting to be admitted, and can't help to be realistic about the situation. She can't fall completely into realism or idealism, and that's where her anxiety comes from. Therefore, Lulu's chapter is not only an extension of the previous two chapter, but also a further question: We know all the theory and possibilities, but it's so hard to be self-consistent with any of those. Being in the limbo is what most people struggle with.
 ## Conclusion
-
-### Between Stereotype And Representation 
+### Stereotype And Representation 
 
 A lot of time when we talk about science fiction stories, we are talking about worldviews and settings, about very big concepts and ideas, but I prefer the understanding from Octavia Butler that, at the end of the day, science fiction writers are writing about people, especially people in minority who needs more exposure to the public. (Butler, 2016, p4) I also understand, however, that it's so easy to end up using people with disability as a novel story starter, a pedal of story, or a functional puppet. So what's the actual problem? As writer, how to appropriately represent people with disabilities? To our previous problem, should we write more about the issue of disabilities, or should we write less about it? 
 
@@ -195,7 +194,7 @@ After these chatting and acting with different actors, I seem to have some answe
 
 So how to properly depict disabilities in works? Mr. Kong Kong mentioned it a little in our conversation. bit Another the key of a proper representation of character with disability lies exactly in those specificity--acknowledging the disability background does change a person, while also acknowledging that everyone is so different. It's not about "isms" but about whether or not the character actually comes alive, which is basically to write it well. 
 
-### Between Individual and Collective
+### Individual and Collective
 
 At the start of the project I am more interested in the environment or the world setting, an objective setting of the world, but since all the world are reflection of people's personal world view, I started to realize that all the world and character building is about how an individual perceives the world. Therefore, the exploration of ablism and disability inclusivity in this project is not only about physical environment, but about how, at an individual level, one can really accept inclusivity, even when it's at stake with direct and short term personal interest. 
 
@@ -204,9 +203,9 @@ Being disabled doesn't mean they are naturally not ableism, especially under a c
 
 The question of individual v.s. society, however, doesn't go away, because although the project answers the question of what's the relationship between individual and a collective culture, and what's the relationship between individual and societal environment, it hasn't explain how culture could change the norm, and eventually change the public structure. Maybe when it comes to how to turn a culture into the mainstream culture, it becomes a more technical maneuvering, but connecting this broken part in the strand would help individual to have confidence in fulfilling the awareness and really change our world perspective, without being discouraged by the unknowability of whether one's action and thought could really create any splash in the world.
 
-### Between Virtual and Reality
+### Virtual and Reality
 
-
+In the film we uses the VR technology as a way of immersing ourselves in virtual character and stories. In may ways
 
 ## Bibliography
 
