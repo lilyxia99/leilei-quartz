@@ -197,7 +197,7 @@ So how to properly depict disabilities in works? Mr. Kong Kong mentioned it a li
 
 #### The Question of Courage
 
-Ablism is not an abstract world, it could originates from realism, from comparatives, from 
+Ablism is quite invisible in daily life, because it embodies into different forms: realism, comparatives, Mullenism, and so on. At its core it's a lack of courage to believe in oneself, and when that happens one would blame themselves, 
 
 Being disabled doesn't mean they are naturally not ableism, especially under a circumstance in China where there is ableism perpetuated in a top-down way. It's natural that some will be more proud of their disability identity and some will want to be fixed by technology. Either transhumanism or Anti-cure, there is a bit of idealism on both sides, and I can empathize with both. Even when I know in my heart the idea of being more "progressive", it is hard not to expect and dream some kind of "glorious evolution" as an individual--after all, isn't it cool to experience more? It's true that being content with what we have is a good attitude, but do we really have to right to tell someone that you should just know your place and be content? If imagining me as the decision maker, if I decide to be a cyborg, am I influencing the world by adding a brick to the transhumanism? Am I really making a difference when I actively say no to the technological cure? How am I, as an individual, actually contributing to the path to the future by making my decisions?
 
