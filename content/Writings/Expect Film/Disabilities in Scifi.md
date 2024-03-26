@@ -205,7 +205,7 @@ The question of individual v.s. society, however, doesn't go away, because altho
 
 ### Virtual and Reality
 
-In the film we uses the VR technology as a way of immersing ourselves in virtual character and stories. In may ways
+The workflow of this film also provide very interesting 
 
 ## Bibliography
 
