@@ -159,9 +159,11 @@ Just like in Chinese medicine fixing the symptom is not really curing the diseas
 
 During a conversation, I inserted several clips of the interaction between Mrs. Orange and me. Miss.Time Orange is a wheelchair user, and her own room is designed to be fully accessible. The process of designing the house and getting feedback from her was an interesting correspondence of what Mr. Kong Kong mentioned that when building an architecture, people with disability should get involved into the creation process. 
 
-The most interesting characteristic of Miss.Time Orange is that she is a fan-fiction writer. She talked about how she bring wheelchair as a fetish in her own work, and talked about how her disability determined her role in her relationship with her girlfriend. Further on, she talked about how she is dissatisfied with the depiction of wheelchair character in fiction, . 
-
 Miss.Time Orange also mentioned that back in the day when she was a student, she was having difficulties of going to classes because classroom were all very high, and she has to have her father and mother carry her upstairs. In the second semester, she informed that she couldn't do teaching internship because the schools are not equipped with elevators. If she can't complete her internship, she won't be able to fulfill the graduation criteria for teacher trainees and won't be able to work as a teacher. All these incidents are based on real life events, and it is clear that to change people's awareness might be even more difficult than changing the technology in the world.
+
+Apart from the barrier, what's most interesting about Miss.Time Orange is that she is a fan-fiction writer. She talked about how she bring wheelchair as a fetish in her own work, and talked about how her disability determined her role in her relationship with her girlfriend. Further on, she talked about how she is dissatisfied with the depiction of wheelchair character in fiction. 
+
+
 
 #### Unity World
 
