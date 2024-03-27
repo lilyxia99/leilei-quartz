@@ -42,6 +42,10 @@ To create a new `main` branch based on the current branch or another branch, you
     bashCopy code
     
     `git checkout main`
+4. **set the remote of the repository**
+	 
+
+## Deploy to Netlify
 
 ## Graph
 
